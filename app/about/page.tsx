@@ -4,11 +4,11 @@ export default function About() {
   return (
     <>
       <div className="flex flex-col min-h-screen items-center ">
-        <div className="container">
+        <div className="container w-3/4">
           <div className="mt-10 mb-10 text-center ">
             <h1 className="text-4xl text-sky-700">За окултните музикални упражнения</h1>
           </div>
-          <div className="pr-20 pl-20 ">
+          <div >
             <p className="text-xl ">
               От дистанцията на времето все по-належаща е нуждата от едно
               адекватно представяне на вокалните и инструменталните композиции

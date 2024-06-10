@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Metadata } from "next";
+import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://beinsasongs.vercel.app/"),
@@ -34,7 +35,7 @@ export default function Home() {
           <h1 className="text-5xl text-center font-bold  text-sky-700 mt-6">
             Песни от Учителя
           </h1>
-          <h1 className="text-xl p-3 text-center text-sky-700 mt-3">
+          <h1 className="text-xl p-3 text-center text-sky-700 ">
             Издадени от <br />
             <span className="space-x-2">
               <span> Петър Ганев</span>
@@ -54,6 +55,7 @@ export default function Home() {
                 src="/cover.jpeg"
                 width={500}
                 height={500}
+                priority={true}
                 alt="Picture of the author"
                 className="shadow-xl rounded-xl"
               />
@@ -87,15 +89,14 @@ export default function Home() {
                 </li>
               </ul>
               <div className=" my-10 flex items-center justify-center">
-                <button className="bg-sky-600 w-3/4 py-2 rounded-md items-center justify-center shadow-2xl">
-                  <Link
-                    className="text-white text-2xl font-semibold"
+                <Button className="bg-sky-600 w-3/4 py-2 rounded-md items-center justify-center shadow-2xl hover:bg-sky-700"> <Link
+                    className="text-white text-2xl font-bold"
                     href={"/Песни-от-Учителя-2024.pdf"}
                     target="_blank"
                   >
                     Download
-                  </Link>
-                </button>
+                  </Link></Button>
+              
               </div>
             </div>
           </div>
