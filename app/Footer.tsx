@@ -9,14 +9,14 @@ export default function Footer() {
         
           <Link
             href="https://www.kireva.de/"
-            className="text-xl text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
+            className="text-lg text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
             prefetch={false}
             target="_blank"
           >
            Контакт
           </Link>
         </div>
-        <p className="text-xl text-gray-500 dark:text-gray-400">&copy; 2024 Песни от Учителя</p>
+        <p className="text-lg text-gray-500 dark:text-gray-400">&copy; 2024 Песни от Учителя</p>
         <div className="flex items-center space-x-4">
         </div>
       </div>

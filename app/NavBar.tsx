@@ -10,7 +10,7 @@ export default function Component() {
       <Sheet>
         <SheetTrigger asChild>
           <Button variant="outline" size="icon" className="lg:hidden bg-sky-50 border-none text-sky-700">
-            <MenuIcon className="h-6 w-6 " />
+            <MenuIcon className="h-6 w-6"/>
             <span className="sr-only">Toggle navigation menu</span>
           </Button>
         </SheetTrigger>
@@ -19,22 +19,22 @@ export default function Component() {
             <Image
               src="/logo_bsongs.png"
               alt="Песни от Учителя"
-              width={200}
-              height={200}
+              width={150}
+              height={150}
             />
-            <span className="sr-only">Песни от Учител</span>
+            <span className="sr-only">Песни от Учителя</span>
           </Link>
           <div className="grid gap-2 py-6">
             <Link
               href="/"
-              className="flex w-full items-center py-2 text-lg font-semibold"
+              className="flex w-full items-center py-2 text-lg font-semibold text-sky-700"
               prefetch={false}
             >
               Начало
             </Link>
             <Link
               href="/about"
-              className="flex w-full items-center py-2 text-lg font-semibold"
+              className="flex w-full items-center py-2 text-lg font-semibold text-sky-700"
               prefetch={false}
             >
               За книгата

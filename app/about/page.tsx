@@ -6,14 +6,14 @@ export default function About() {
   return (
     <>
       <div className="flex flex-col min-h-screen items-center ">
-        <div className="container w-3/4">
+        <div className="container lg:w-3/4">
           <div className="mt-20 mb-10 text-center ">
             <h1 className="text-4xl text-sky-700">
               Oкултните музикални упражнения
             </h1>
           </div>
           <div>
-            <p className="text-xl ">
+            <p className="text-xl">
               От дистанцията на времето все по-належаща е нуждата от едно
               адекватно представяне на вокалните и инструменталните композиции
               на Учителя Петър Дънов. Като такова то следва да е съобразено
