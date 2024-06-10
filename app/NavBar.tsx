@@ -23,7 +23,7 @@ export default function Component() {
               height={200}
             />
 
-            <span className="sr-only">Acme Inc</span>
+            <span className="sr-only">Песни от Учител</span>
           </Link>
           <div className="grid gap-2 py-6">
             <Link
