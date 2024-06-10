@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     siteName: "Песни от Учителя",
     images: [
       {
-        url: "opengraph-image.jpeg",
+        url: "opengraph-image.png",
         width: 1260,
         height: 800,
       },
