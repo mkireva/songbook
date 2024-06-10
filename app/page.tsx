@@ -1,10 +1,9 @@
-import Link from "next/link";
 import Image from "next/image";
 import { Metadata } from "next";
 import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://beinsabook.vercel.app"),
+  metadataBase: new URL("https://beinsasongs.vercel.app"),
   title: "Песни от Учителя",
   description:
     "Четвърто преработено и допълнено издание, 2024. Изданието съдържа вокални и инструментални композиции от Учителя Петър Дънов и негови ученици.",
@@ -16,12 +15,12 @@ export const metadata: Metadata = {
     siteName: "Песни от Учителя",
     images: [
       {
-        url: "https://beinsabook.vercel.app/opengraph-image.png", // Must be an absolute URL
+        url: "https://beinsasongs.vercel.app/opengraph-image.png", // Must be an absolute URL
         width: 800,
         height: 600,
       },
       {
-        url: "https://beinsabook.vercel.app/opengraph-image.png", // Must be an absolute URL
+        url: "https://beinsasongs.vercel.app/opengraph-image.png", // Must be an absolute URL
         width: 1800,
         height: 1600,
         alt: "My custom alt",
