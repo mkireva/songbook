@@ -7,7 +7,7 @@ export default function About() {
     <>
       <div className="flex flex-col min-h-screen items-center ">
         <div className="container w-3/4">
-          <div className="mt-10 mb-10 text-center ">
+          <div className="mt-20 mb-10 text-center ">
             <h1 className="text-4xl text-sky-700">
               Oкултните музикални упражнения
             </h1>
@@ -191,7 +191,7 @@ export default function About() {
               <li className="text-xl mt-5">
                 <span className="font-bold">
                   Песни, публикувани след 1944 г.:
-                </span>
+                </span>{" "}
                 това са всички композиции, издадени след заминаването на Учителя
                 през 1944 г. Тази част съдържа както вокални, така и много чисто
                 инструментални композиции и мелодии. Особено внимание тук
@@ -344,9 +344,10 @@ export default function About() {
               и колективни занимания с тази неземна, космична музика! Бог е
               Любов.
             </p>
-            <p className="text-xl mt-5 text-end mb-10">
+            <p className="text-xl mt-5 text-end mr-3">
               Мария Кирева
-              <br />
+            </p>
+            <p className="text-xl text-end ">
               Мюнхен, 2024 г.
             </p>
           </div>
