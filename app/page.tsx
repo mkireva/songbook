@@ -98,7 +98,7 @@ export default function Home() {
                 <Button className="bg-sky-600 w-3/4 py-2 rounded-md items-center justify-center shadow-2xl hover:bg-sky-700">
                   <Link
                     className="text-white text-2xl font-bold"
-                    href={"beinsasongs.pdf"}
+                    href={"/beinsasongs.pdf"}
                     target="_blank"
                     locale={false} 
                     download
