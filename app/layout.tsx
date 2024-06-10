@@ -19,6 +19,7 @@ export const metadata: Metadata = {
     "Песнарка",
     "Петър Ганев",
     "Мария Кирева",
+    "окултна музика",
   ],
   openGraph: {
     images: [
