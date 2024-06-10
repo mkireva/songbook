@@ -96,14 +96,13 @@ export default function Home() {
               </ul>
               <div className=" my-10 flex items-center justify-center">
                 <Button className="bg-sky-600 w-3/4 py-2 rounded-md items-center justify-center shadow-2xl hover:bg-sky-700">
-                  <Link
+                  <a
                     className="text-white text-2xl font-bold"
                     href={"/beinsasongs.pdf"}
                     target="_blank"
-                    locale={false}
                   >
                     Download
-                  </Link>
+                  </a>
                 </Button>
               </div>
             </div>
