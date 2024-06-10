@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://beinsasongs.vercel.app/"),
+  metadataBase: new URL("https://beinsabook.vercel.app/"),
   title: "Песни от Учителя",
   description:
     "Четвърто преработено и допълнено издание, 2024. Изданието съдържа вокални и инструментални композиции от Учителя Петър Дънов и негови ученици.",
