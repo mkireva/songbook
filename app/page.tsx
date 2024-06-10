@@ -100,8 +100,7 @@ export default function Home() {
                     className="text-white text-2xl font-bold"
                     href={"/beinsasongs.pdf"}
                     target="_blank"
-                    locale={false} 
-                    download
+                    locale={false}
                   >
                     Download
                   </Link>
