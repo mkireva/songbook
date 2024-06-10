@@ -7,7 +7,9 @@ import NavBar from "./NavBar";
 const garamond = EB_Garamond({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://beinsasongs.vercel.app"),
+  metadataBase: process.env.VERCEL_URL
+    ? new URL(`https://beinsabook.vercel.app`)
+    : new URL(`http://localhost:${process.env.PORT || 3000}`),
   title: "Песни от Учителя",
   description:
     "Четвърто преработено и допълнено издание, 2024. Изданието съдържа вокални и инструментални композиции от Учителя Петър Дънов и негови ученици.",
@@ -20,6 +22,9 @@ export const metadata: Metadata = {
     "Петър Ганев",
     "Мария Кирева",
   ],
+  openGraph: {
+    images: "/opengraph-image.png",
+  },
 };
 
 export default function RootLayout({
@@ -30,10 +35,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={garamond.className}>
-        <NavBar/>
+        <NavBar />
         {children}
-        <Footer/>
-        </body>
+        <Footer />
+      </body>
     </html>
   );
 }
