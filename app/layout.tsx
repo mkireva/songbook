@@ -7,9 +7,7 @@ import NavBar from "./NavBar";
 const garamond = EB_Garamond({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: process.env.VERCEL_URL
-    ? new URL(`https://beinsabook.vercel.app`)
-    : new URL(`http://localhost:${process.env.PORT || 3000}`),
+  metadataBase: new URL('https://beinsabook.vercel.app'),
   title: "Песни от Учителя",
   description:
     "Четвърто преработено и допълнено издание, 2024. Изданието съдържа вокални и инструментални композиции от Учителя Петър Дънов и негови ученици.",
