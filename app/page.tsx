@@ -40,7 +40,7 @@ export default function Home() {
           <h1 className="text-5xl text-center font-bold  text-sky-700 mt-6">
             Песни от Учителя
           </h1>
-          <h1 className="text-xl p-3 text-center text-sky-700 ">
+          <h1 className="text-xl p-3 text-center text-sky-700 mt-6">
             Издадени от <br />
             <span className="space-x-2">
               <span> Петър Ганев</span>
