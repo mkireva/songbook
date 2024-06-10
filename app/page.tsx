@@ -101,6 +101,7 @@ export default function Home() {
                     href={"beinsasongs.pdf"}
                     target="_blank"
                     locale={false} 
+                    download
                   >
                     Download
                   </Link>
