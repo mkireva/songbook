@@ -347,7 +347,7 @@ export default function About() {
             <p className="text-xl mt-5 text-end mr-3">
               Мария Кирева
             </p>
-            <p className="text-xl text-end ">
+            <p className="text-xl text-end mb-16">
               Мюнхен, 2024 г.
             </p>
           </div>

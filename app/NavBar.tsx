@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function Component() {
   return (
-    <header className="flex sticky top-0 left-0 bg-sky-50 h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-14 pt-14">
+    <header className="flex sticky top-0 left-0 bg-sky-50 h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8">
       <Sheet>
         <SheetTrigger asChild>
           <Button variant="outline" size="icon" className="lg:hidden bg-sky-50">
