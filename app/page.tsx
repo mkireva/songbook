@@ -34,7 +34,7 @@ export default function Home() {
     <>
       <div className="flex flex-col min-h-screen items-center justify-center">
         <div className="container">
-          <h2 className="text-2xl text-center font-semibold text-sky-700 mt-20">
+          <h2 className="text-3xl text-center font-semibold text-sky-700 mt-20">
             Петър Дънов
           </h2>
           <h1 className="text-5xl text-center font-bold text-sky-700  mt-6">
