@@ -9,7 +9,7 @@ export default function About() {
         <div className="container lg:w-3/4">
           <div className="mt-20 mb-10 text-center ">
             <h1 className="text-4xl text-sky-700">
-              Oкултните музикални упражнения
+              За окултните музикални упражнения
             </h1>
           </div>
           <div>
