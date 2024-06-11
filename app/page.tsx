@@ -54,7 +54,7 @@ export default function Home() {
           <h1 className="text-xl text-center font-semibold text-sky-700 mt-3">
             2024
           </h1>
-          <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10 pl-9 pr-9 pt-7 pb-8 bg-sky-100 rounded-lg mb-20">
+          <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10 mb-20">
             <div className="my-6">
               <Image
                 src="/cover.jpeg"
@@ -66,7 +66,7 @@ export default function Home() {
               />
             </div>
             <div className=" my-4 max-w-4xl mx-auto p-2">
-              <p className=" md:ml-10 text-xl text-start font-semibold  text-sky-700">
+              <p className=" md:ml-10 text-xl text-start font-semibold text-sky-700">
                 Изданието съдържа вокални и инструментални композиции от Учителя
                 Петър Дънов и негови ученици.
               </p>
@@ -94,7 +94,7 @@ export default function Home() {
                 </li>
               </ul>
               <div className=" my-10 flex items-center justify-center">
-                <Button className="bg-sky-600 w-3/4 py-6 rounded-md items-center justify-center shadow-2xl hover:bg-sky-700">
+                <Button className="bg-sky-600 md:w-3/4 w-full py-6 rounded-md items-center justify-center shadow-lg hover:bg-sky-700">
                   <a
                     className="text-white text-2xl font-bold"
                     href={"/Песни-от-Учителя.2024.pdf"}

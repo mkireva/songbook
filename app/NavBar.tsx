@@ -6,10 +6,10 @@ import Image from "next/image";
 
 export default function Component() {
   return (
-    <header className="flex sticky top-0 left-0 bg-sky-50 h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8">
+    <header className="flex sticky top-0 left-0 bg-sky-50 h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8 bg-opacity-60">
       <Sheet>
         <SheetTrigger asChild>
-          <Button variant="outline" size="icon" className="lg:hidden bg-sky-50 border-none text-sky-700">
+          <Button variant="outline" size="icon" className="lg:hidden bg-opacity-60 bg-transparent border-none text-sky-700">
             <MenuIcon className="h-6 w-6"/>
             <span className="sr-only">Toggle navigation menu</span>
           </Button>
@@ -55,14 +55,14 @@ export default function Component() {
       <nav className="ml-auto hidden lg:flex gap-6">
         <Link
           href="/"
-          className="group inline-flex h-9 w-max items-center justify-center rounded-md bg-sky-50 px-4 py-2 text-lg font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
+          className="group inline-flex h-9 w-max items-center justify-center rounded-md  px-4 py-2 text-lg font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
           prefetch={false}
         >
           Начало
         </Link>
         <Link
           href="/about"
-          className=" group inline-flex h-9 w-max items-center justify-center rounded-md bg-sky-50 px-4 py-2 text-lg font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
+          className=" group inline-flex h-9 w-max items-center justify-center rounded-md px-4 py-2 text-lg font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
           prefetch={false}
         >
           За книгата
