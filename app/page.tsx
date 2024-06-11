@@ -34,13 +34,13 @@ export default function Home() {
     <>
       <div className="flex flex-col min-h-screen items-center justify-center">
         <div className="container">
-          <h2 className="text-2xl text-center font-semibold  text-sky-700 mt-20">
+          <h2 className="text-2xl text-center font-semibold text-sky-700 mt-20">
             Петър Дънов
           </h2>
-          <h1 className="text-5xl text-center font-bold  text-sky-700 mt-6">
+          <h1 className="text-5xl text-center font-bold text-sky-700  mt-6">
             Песни от Учителя
           </h1>
-          {/* <h1 className="text-xl p-3 text-center text-sky-700 mt-6">
+          {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
             Издадени от <br />
             <span className="space-x-2">
               <span> Петър Ганев</span>
@@ -48,13 +48,13 @@ export default function Home() {
               <span> Мария Кирева</span>
             </span>
           </h1> */}
-          <h1 className="text-xl p-3 italic text-center text-sky-700 mt-12">
+          <h1 className="text-xl  italic text-center text-muted-foreground mt-12">
             Четвърто преработено и допълнено издание
           </h1>
-          <h1 className="text-xl text-center font-semibold text-sky-700 mt-3">
+          <h1 className="text-xl text-center font-semibold text-muted-foreground mt-3">
             2024
           </h1>
-          <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10 mb-20">
+          <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10">
             <div className="my-6">
               <Image
                 src="/cover.jpeg"
@@ -66,30 +66,30 @@ export default function Home() {
               />
             </div>
             <div className=" my-4 max-w-4xl mx-auto p-2">
-              <p className=" md:ml-10 text-xl text-start font-semibold text-sky-700">
+              <p className=" md:ml-6 text-xl text-start text-gray-800">
                 Изданието съдържа вокални и инструментални композиции от Учителя
                 Петър Дънов и негови ученици.
               </p>
-              <p className=" mt-5 md:ml-10 text-xl text-start font-semibold text-sky-700">
+              <p className=" mt-5 md:ml-6 text-xl text-start text-gray-800">
                 Интерактивният пдф-документ предлага:
               </p>
               <ul className="mt-3 pl-5 pr-5 list-disc">
-                <li className="mt-1 md:ml-10 text-xl font-semibold text-sky-700">
+                <li className="mt-1 md:ml-6 text-xl  text-gray-800">
                   Азбучно съдържание за мобилни устройства с навигация към всяка
                   песен
                 </li>
-                <li className="md:ml-10 text-xl font-semibold  text-sky-700">
+                <li className="md:ml-6 text-xl  text-gray-800">
                   Навигация от съдържанието на документа
                 </li>
-                <li className="md:ml-10 text-xl font-semibold  text-sky-700">
+                <li className="md:ml-6 text-xl text-gray-800">
                   Навигация от заглавието на всяка песен до съответната
                   обяснителна бележка
                 </li>
-                <li className="md:ml-10 text-xl font-semibold  text-sky-700">
+                <li className="md:ml-6 text-xl text-gray-800">
                   Обратна навигация от обяснителната бележка на песента към
                   съответната песен
                 </li>
-                <li className="md:ml-10 text-xl font-semibold  text-sky-700">
+                <li className="md:ml-6 text-xl text-gray-800">
                   Азбучен показател с навигация към съответната песен
                 </li>
               </ul>
