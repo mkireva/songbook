@@ -97,7 +97,7 @@ export default function Home() {
                 <Button className="bg-sky-600 md:w-3/4 w-full py-6 rounded-md items-center justify-center shadow-lg hover:bg-sky-700">
                   <a
                     className="text-white text-2xl font-bold"
-                    href={"/Песни-от-Учителя.2024.pdf"}
+                    href={"/Песни-от-Учителя-2024.pdf"}
                     target="_blank"
                   >
                     Download
