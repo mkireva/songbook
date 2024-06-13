@@ -12,7 +12,7 @@ export default function About() {
               За окултните музикални упражнения
             </h1>
           </div>
-          <div>
+          <div className="p-2">
             <p className="text-xl">
               От дистанцията на времето все по-належаща е нуждата от едно
               адекватно представяне на вокалните и инструменталните композиции
@@ -166,7 +166,7 @@ export default function About() {
               три части:
             </p>
 
-            <ul className="list-decimal list-outside mt-5">
+            <ul className="list-decimal list-inside mt-5">
               <li className="text-xl mt-5 ">
                 <span className="font-bold">Братски песни: </span> това са
                 всички вокални композиции, създадени предимно преди 1922 г.
@@ -205,7 +205,6 @@ export default function About() {
                 присъствие той дава някои от своите най-сакрални композиции.
               </li>
             </ul>
-
             <p className="text-xl mt-5">
               Към сборника е добавено и допълнение, съдържащо примери за
               съвременно творчество, като продължение на творческия импулс,
@@ -215,8 +214,7 @@ export default function About() {
               Редакторската линия на настоящото издание надгражда редакторската
               работа на досегашните издания, изхождайки от следните принципи:
             </p>
-
-            <ul className="list-decimal list-outside mt-5">
+            <ul className="list-decimal list-inside mt-5">
               <li className="text-xl mt-5">
                 Запазване на оригиналите и автентичността на музикалните
                 композиции;
@@ -230,7 +228,6 @@ export default function About() {
                 Последователно прилагане на същите спрямо нотния текст.
               </li>
             </ul>
-
             <p className="text-xl mt-5">
               Тази редакторска линия наложи преосмисляне на структурната
               организация на някои песни, минимално осъвременяване на лирическия
@@ -347,7 +344,7 @@ export default function About() {
             <p className="text-xl mt-5 text-end mr-3">
               Мария Кирева
             </p>
-            <p className="text-xl text-end mb-16">
+            <p className="text-xl text-end">
               Мюнхен, 2024 г.
             </p>
           </div>
