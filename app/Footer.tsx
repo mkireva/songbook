@@ -5,7 +5,8 @@ export default function Footer() {
   return (
     <>
       <footer className="w-full py-6 text-gray-800 dark:bg-gray-800">
-        <div className="container mx-auto items-center justify-between px-4 md:px-6">
+        <div className="container mx-auto flex items-center justify-between">
+          <div className="flex items-center"></div>
           <Link
             href="https://www.kireva.de/"
             className="text-lg text-gray-800 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
@@ -14,6 +15,7 @@ export default function Footer() {
           >
             &copy; {year} Песни от Учителя
           </Link>
+          <div className="flex items-center"></div>
         </div>
       </footer>
     </>
