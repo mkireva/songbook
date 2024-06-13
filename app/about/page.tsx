@@ -7,7 +7,7 @@ export default function About() {
     <>
       <div className="flex flex-col min-h-screen items-center ">
         <div className="container lg:w-3/4 p-4" >
-          <div className="mt-20 mb-10 text-center ">
+          <div className="mt-10 mb-10 text-center ">
             <h1 className="text-4xl text-sky-700">
               За окултните музикални упражнения
             </h1>
