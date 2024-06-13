@@ -3,27 +3,24 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { JSX, SVGProps } from "react";
 import Image from "next/image";
+import { BookA, BookImage, BookOpen } from "lucide-react";
 
 export default function Component() {
   return (
-    <header className="flex sticky top-0 left-0 bg-sky-50 h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8 bg-opacity-60">
+    <header className="flex sticky top-0 left h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8 bg-opacity-60">
       <Sheet>
         <SheetTrigger asChild>
-          <Button variant="outline" size="icon" className="lg:hidden bg-opacity-60 bg-transparent border-none text-sky-700">
-            <MenuIcon className="h-6 w-6"/>
+          <Button
+            variant="outline"
+            size="icon"
+            className="lg:hidden bg-opacity-60 bg-transparent border-none text-sky-700 hover:bg-white"
+          >
+            <MenuIcon className="h-6 w-6" />
             <span className="sr-only">Toggle navigation menu</span>
           </Button>
         </SheetTrigger>
         <SheetContent side="left">
-          <Link href="/" className="mr-6 hidden lg:flex" prefetch={false}>
-            <Image
-              src="/logo_bsongs.png"
-              alt="Песни от Учителя"
-              width={150}
-              height={150}
-            />
-            <span className="sr-only">Песни от Учителя</span>
-          </Link>
+          <BookOpen className=" text-sky-700" />
           <div className="grid gap-2 py-6">
             <Link
               href="/"
@@ -43,13 +40,7 @@ export default function Component() {
         </SheetContent>
       </Sheet>
       <Link href="/" className="mr-6 hidden lg:flex" prefetch={false}>
-        <Image
-          src="/logo_bsongs.png"
-          alt="Песни от Учителя"
-          width={200}
-          height={200}
-          className="pl-10"
-        />
+        <BookOpen size={30} className="text-6xl text-sky-700 ml-20" />
         <span className="sr-only">Песнарка</span>
       </Link>
       <nav className="ml-auto hidden lg:flex gap-6">
@@ -92,4 +83,3 @@ function MenuIcon(props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
