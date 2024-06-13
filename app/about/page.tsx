@@ -23,7 +23,7 @@ export default function About() {
               горните изисквания, предлага някои нови редакционни решения на
               музикалните въпроси, които тази музика поставя.
             </p>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               <span className="italic"> Окултните музикални упражнения, </span>
               както Учителя сам нарича своите музикални композиции, се появяват
               като музикален метод в откритата от него през 1922 година Окултна
@@ -68,7 +68,7 @@ export default function About() {
               <span className="italic"> окултната музика. </span>
             </p>
 
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               <span className="italic"> Окултните музикални упражнения, </span>в
               които непосредствено и без прекъсване се проявяват първообразите
               като <span className="italic"> живи музикални форми, </span>
@@ -127,7 +127,7 @@ export default function About() {
               съзнателно оставено от Учителя незавършено.
             </p>
 
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Първото пълно издание на музикалните композиции на Учителя Петър
               Дънов със заглавие
               <span className="italic"> Песни от Учителя </span> публикува Мария
@@ -159,15 +159,15 @@ export default function About() {
               екземпляр, съдържащ нанесените от нея поправки на някои печатни
               грешки. Липсва обаче подлистникът с грешки към същото издание.
             </p>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Настоящото издание продължава линията на уважение и свещено
               отношение към музиката на Учителя на предишните поколения
               музиканти, запазвайки нейните автентичност и дух. То е съставено от
               три части:
             </p>
 
-            <ul className="list-decimal list-inside mt-5">
-              <li className="text-xl mt-5 ">
+            <ul className="list-decimal list-inside mt-2">
+              <li className="text-xl mt-2 ">
                 <span className="font-bold">Братски песни: </span> това са
                 всички вокални композиции, създадени предимно преди 1922 г.
                 Повечето от тях се раждат от съвместната работа между Учителя и
@@ -180,7 +180,7 @@ export default function About() {
                 този дял са добавени и песни от преки негови ученици, създадени
                 след заминаването на Учителя.
               </li>
-              <li className="text-xl mt-5">
+              <li className="text-xl mt-2">
                 <span className="font-bold">Песни от Учителя: </span> това са
                 всички композиции, създадени между 1922 и 1944 г. в Окултната
                 школа на <span className="italic"> Бялото Братство. </span> Тук
@@ -188,7 +188,7 @@ export default function About() {
                 на свещен език, който той нарича
                 <span className="italic"> ватански. </span>
               </li>
-              <li className="text-xl mt-5">
+              <li className="text-xl mt-2">
                 <span className="font-bold">
                   Песни, публикувани след 1944 г.:
                 </span>{" "}
@@ -205,30 +205,30 @@ export default function About() {
                 присъствие той дава някои от своите най-сакрални композиции.
               </li>
             </ul>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Към сборника е добавено и допълнение, съдържащо примери за
               съвременно творчество, като продължение на творческия импулс,
               даден от Учителя по време на Школата.
             </p>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Редакторската линия на настоящото издание надгражда редакторската
               работа на досегашните издания, изхождайки от следните принципи:
             </p>
-            <ul className="list-decimal list-inside mt-5">
-              <li className="text-xl mt-5">
+            <ul className="list-decimal list-inside mt-2">
+              <li className="text-xl mt-2">
                 Запазване на оригиналите и автентичността на музикалните
                 композиции;
               </li>
-              <li className="text-xl mt-5">
+              <li className="text-xl mt-2">
                 Професионализиране на нотописа посредством установяване на
                 конвенции при нотния правопис според правилата на музикалната
                 теория;
               </li>
-              <li className="text-xl mt-5">
+              <li className="text-xl mt-2">
                 Последователно прилагане на същите спрямо нотния текст.
               </li>
             </ul>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Тази редакторска линия наложи преосмисляне на структурната
               организация на някои песни, минимално осъвременяване на лирическия
               им текст спрямо лексикалните и синтактичните норми на съвременния
@@ -260,7 +260,7 @@ export default function About() {
               оригинално зададени от Учителя, а представят виждането на
               съвременните музиканти за тях.
             </p>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               Целта на настоящото издание е да представи музикалните композиции
               на Учителя в един професионален вид. То е адресирано както към
               професионалните музиканти, така и към любителите, т.е. към всички
@@ -336,12 +336,12 @@ export default function About() {
               <span className="italic"> окултната музика </span> ще разкрие
               богатствата си в пълнота.
             </p>
-            <p className="text-xl mt-5">
+            <p className="text-xl mt-2">
               От името на целия издателски екип пожелаваме приятни индивидуални
               и колективни занимания с тази неземна, космична музика! Бог е
               Любов.
             </p>
-            <p className="text-xl mt-5 text-end mr-3">
+            <p className="text-xl mt-2 text-end mr-3">
               Мария Кирева
             </p>
             <p className="text-xl text-end">
