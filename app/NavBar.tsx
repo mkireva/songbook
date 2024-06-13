@@ -2,8 +2,7 @@ import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { JSX, SVGProps } from "react";
-import Image from "next/image";
-import { BookA, BookImage, BookOpen } from "lucide-react";
+import { BookOpen } from "lucide-react";
 
 export default function Component() {
   return (
@@ -15,7 +14,7 @@ export default function Component() {
             size="icon"
             className="lg:hidden bg-opacity-60 bg-transparent border-none text-sky-700 hover:bg-white"
           >
-            <MenuIcon className="h-6 w-6" />
+            <MenuIcon className="h-6 w-6" /> 
             <span className="sr-only">Toggle navigation menu</span>
           </Button>
         </SheetTrigger>
@@ -40,7 +39,7 @@ export default function Component() {
         </SheetContent>
       </Sheet>
       <Link href="/" className="mr-6 hidden lg:flex" prefetch={false}>
-        <BookOpen size={30} className="text-6xl text-sky-700 ml-20" />
+        <BookOpen size={30} className="text-6xl text-sky-700 ml-20 mt-1" />
         <span className="sr-only">Песнарка</span>
       </Link>
       <nav className="ml-auto hidden lg:flex gap-6">
