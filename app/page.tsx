@@ -17,18 +17,18 @@ export default function Home() {
           <h2 className="text-3xl text-center font-semibold text-sky-700 mt-10">
             Петър Дънов
           </h2>
-          <h1 className="text-5xl text-center font-bold text-sky-700  mt-6">
+          <h1 className="text-5xl text-center font-bold text-sky-700 mt-6">
             Песни от Учителя
           </h1>
-          <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
+          {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
             Издадени от <br />
             <span className="space-x-2">
               <span> Петър Ганев</span>
               <span className="font-bold text-2xl">·</span>
               <span> Мария Кирева</span>
             </span>
-          </h1>
-          <h1 className="text-xl  italic text-center text-muted-foreground">
+          </h1> */}
+          <h1 className="text-xl  italic text-center text-muted-foreground mt-10">
             Четвърто преработено и допълнено издание
           </h1>
           <h1 className="text-xl text-center font-semibold text-muted-foreground mt-3">
