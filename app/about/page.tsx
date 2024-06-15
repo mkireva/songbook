@@ -1,6 +1,13 @@
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
-import React from "react";
+import { Metadata } from "next";
+
+
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://beinsasongs.vercel.app/"),
+  title: "Музикални упржнения",
+  description:
+    "Окултни музикални упражнения",
+};
 
 export default function About() {
   return (
