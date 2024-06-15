@@ -7,10 +7,25 @@ import NavBar from "./NavBar";
 const garamond = EB_Garamond({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://beinsasongs.vercel.app"),
-  title: "Песни от Учителя",
+  metadataBase: new URL("https://beinsasongs.vercel.app/"),
+  title: {
+    default: "Песни от Учителя Петър Дънов",
+    template: "%s Песни от Учителя Петър Дънов - Четвърто преработено и допълнено издание"
+  },
   description:
     "Четвърто преработено и допълнено издание, 2024. Изданието съдържа вокални и инструментални композиции от Учителя Петър Дънов и негови ученици.",
+  openGraph: {
+    title: "Песни от Учителя Петър Дънов",
+    description: "Издадени от Петър Ганев, Мария Кирева.",
+    type: "website",
+    locale: "bg_BG",
+    url: "https://beinsasongs.vercel.app/",
+    siteName: "Песни от Учителя",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
+
   keywords: [
     "Петър Дънов",
     "Песни от Учителя",
@@ -22,23 +37,8 @@ export const metadata: Metadata = {
     "окултна музика",
     "Beinsa Duno",
     "Beinsa Douno",
-    "Peter Deunov"
+    "Peter Deunov",
   ],
-  openGraph: {
-    images: [
-      {
-        url: "https://beinsasongs.vercel.app/opengraph-image.png", // Must be an absolute URL
-        width: 800,
-        height: 600,
-      },
-      {
-        url: "https://beinsasongs.vercel.app/opengraph-image.png", // Must be an absolute URL
-        width: 1800,
-        height: 1600,
-        alt: "My custom alt",
-      },
-    ],
-  },
 };
 
 export default function RootLayout({
