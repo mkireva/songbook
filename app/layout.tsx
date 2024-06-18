@@ -3,6 +3,7 @@ import { EB_Garamond } from "next/font/google";
 import "./globals.css";
 import Footer from "./Footer";
 import NavBar from "./NavBar";
+import { Analytics } from '@vercel/analytics/react';
 
 const garamond = EB_Garamond({ weight: "400", subsets: ["latin"] });
 
@@ -51,6 +52,7 @@ export default function RootLayout({
       <body className={garamond.className}>
         <NavBar />
         {children}
+        <Analytics />
         <Footer />
       </body>
     </html>
