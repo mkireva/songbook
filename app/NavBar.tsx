@@ -6,7 +6,7 @@ import { BookOpen } from "lucide-react";
 
 export default function Component() {
   return (
-    <header className="flex sticky top-0 left h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8 bg-opacity-60">
+    <header className="flex sticky top-0 left h-20 w-full shrink-0 items-center shadow-sm px-4 md:px-6 pb-8 pt-8 bg-sky-50 bg-opacity-60">
       <Sheet>
         <SheetTrigger asChild>
           <Button
