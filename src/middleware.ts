@@ -5,7 +5,7 @@ import { NextRequest, NextResponse } from "next/server";
 const nextIntlMiddleware = createMiddleware({
   locales,
   defaultLocale: "bg" satisfies Locale,
-  localePrefix:  "as-needed",
+  localePrefix:  "never",
 });
 
 export default function handleRequest(req: NextRequest): NextResponse {

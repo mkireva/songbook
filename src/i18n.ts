@@ -4,8 +4,8 @@ import { type AbstractIntlMessages } from "next-intl";
 import { locales, type Locale } from "./lib/locales";
 
 const messageImports = {
-  en: () => import("../messages/en.json"),
   bg: () => import("../messages/bg.json"),
+  en: () => import("../messages/en.json"),
   de: () => import("../messages/de.json"),
   fr: () => import("../messages/fr.json"),
 } as const satisfies Record<Locale, () => Promise<{ default: AbstractIntlMessages }>>;
