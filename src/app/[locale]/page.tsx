@@ -66,7 +66,7 @@ export default function Home() {
                 </li>
               </ul>
               <div className=" my-10 flex items-center justify-center">
-                <Button className="bg-sky-600 md:w-3/4 w-full py-6 rounded-md items-center justify-center shadow-lg hover:bg-sky-700">
+                <Button className="bg-sky-600 md:w-3/4 w-full py-6 font-bold rounded-md items-center justify-center shadow-lg hover:bg-sky-700">
                   <a
                     className="text-white text-2xl"
                     href={"/Песни-от-Учителя-2024.pdf"}
