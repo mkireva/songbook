@@ -1,4 +1,4 @@
-import { NextIntlClientProvider, useMessages } from "next-intl";
+import { NextIntlClientProvider } from "next-intl";
 import type { Metadata } from "next";
 import {EB_Garamond } from "next/font/google";
 import "./globals.css";
