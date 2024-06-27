@@ -21,11 +21,11 @@
     "year": "2024",
     "content": "Die Ausgabe enthält vokale und instrumentale Kompositionen des spirituellen Lehrers Peter Danov und seinen Schülern.",
     "interactive_pdf": "Das interaktive PDF-Dokument bietet:",
-    "feature1": "Alphabetischer Inhalt für mobile Geräte mit Navigation zu jedem Lied",
-    "feature2": "Navigation aus dem Dokumentinhalt",
-    "feature3": "Navigation vom Titel jedes Liedes zur entsprechenden Erläuterung",
-    "feature4": "Rücknavigation von der Erläuterung des Liedes zum entsprechenden Lied",
-    "feature5": "Alphabetisches Verzeichnis mit Navigation zum entsprechenden Lied",
+    "feature1": "Alphabetisches Inhaltsverzeichnis für mobile Geräte mit Navigation zu jedem Lied",
+    "feature2": "Navigation aus dem Inhaltsverzeichnis des Dokuments",
+    "feature3": "Navigation vom Titel jedes Liedes zur entsprechenden Anmerkung",
+    "feature4": "Rücknavigation von der Anmerkung des Liedes zum entsprechenden Lied",
+    "feature5": "Alphabetischer Index mit Navigation zum entsprechenden Lied",
     "download": "Herunterladen"
   },
 
@@ -33,7 +33,7 @@
     "toggleNavigationMenu": "Navigationsmenü umschalten",
     "home": "Startseite",
     "about": "Über das Buch",
-    "bookTitle": "Песнарка"
+    "bookTitle": "Lieder des Meisters"
   },
   "About": {
     "title": "Über die okkulten Musikübungen",
