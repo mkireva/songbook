@@ -1,7 +1,9 @@
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 
 export default function Footer() {
-  const year = new Date().getFullYear();
+  const t = useTranslations("Footer");
+
   return (
     <>
       <footer className="w-full py-6 text-gray-800 dark:bg-gray-800">
@@ -9,11 +11,11 @@ export default function Footer() {
           <div className="flex items-center"></div>
           <Link
             href="https://www.kireva.de/"
-            className="text-lg text-gray-800 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
+            className="text-md text-gray-800 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
             prefetch={false}
             target="_blank"
           >
-            &copy; {year} Песни от Учителя
+            &copy; {t("text", { now: new Date() })}
           </Link>
           <div className="flex items-center"></div>
         </div>
