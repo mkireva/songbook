@@ -1,6 +1,6 @@
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import type { Metadata } from "next";
-import {Roboto } from "next/font/google";
+import {EB_Garamond } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
@@ -8,7 +8,7 @@ import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
 import { Locale } from "@/src/lib/locales";
 
-const roboto = Roboto({ weight: "400", subsets: ["latin", "cyrillic"] });
+const garamont = EB_Garamond({ weight: "400", subsets: ["latin", "cyrillic"] });
 
 type Props = {
   children: React.ReactNode;
@@ -24,7 +24,7 @@ const RootLayout: React.FC<Props> = async ({
   const messages = await getMessages();
   return (
     <html lang={locale}>
-      <body className={roboto.className}>
+      <body className={garamont.className}>
         <NextIntlClientProvider messages={messages}>
           <NavBar />
           {children}

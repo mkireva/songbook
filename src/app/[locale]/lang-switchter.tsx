@@ -33,9 +33,7 @@ export function DropdownMenuDemo() {
           <GlobeIcon className="size-5 text-sky-700" />
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-56">
-        <DropdownMenuLabel>Languages</DropdownMenuLabel>
-        <DropdownMenuSeparator />
+      <DropdownMenuContent className="w-42">
         <DropdownMenuGroup>
           <DropdownMenuItem
             onClick={() => {
@@ -43,7 +41,7 @@ export function DropdownMenuDemo() {
             }}
           >
             <BG title="United States" className="h-6 w-6 mr-2" />
-            <span>Bulgarian</span>
+            <span className="text-md">Bulgarian</span>
           </DropdownMenuItem>
           <DropdownMenuItem
             onClick={() => {

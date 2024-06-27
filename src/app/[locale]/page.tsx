@@ -15,7 +15,7 @@ export default function Home() {
           <h1 className="text-4xl text-center font-bold text-sky-700 mt-6">
             {t("title")}
           </h1>
-          {/* <h1 className="text-lg p-3 text-center text-muted-foreground mt-6">
+          {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
             Издадени от <br />
             <span className="space-x-2">
               <span>Петър Ганев</span>
@@ -23,10 +23,10 @@ export default function Home() {
               <span>Мария Кирева</span>
             </span>
           </h1> */}
-          <h1 className="text-lg italic text-center text-muted-foreground mt-10">
+          <h1 className="text-xl italic text-center text-muted-foreground mt-10">
             {t("edition")}
           </h1>
-          <h1 className="text-lg text-center font-semibold text-muted-foreground mt-3">
+          <h1 className="text-xl text-center font-semibold text-muted-foreground mt-3">
             {t("year")}{" "}
           </h1>
           <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10">
@@ -42,26 +42,26 @@ export default function Home() {
               />
             </div>
             <div className=" my-4 max-w-4xl mx-auto p-2">
-              <p className=" md:ml-6 text-lg text-start text-gray-800">
+              <p className=" md:ml-6 text-xl text-start text-gray-800">
                 {t("description")}
               </p>
-              <p className=" mt-5 md:ml-6 text-lg text-start text-gray-800">
+              <p className=" mt-5 md:ml-6 text-xl text-start text-gray-800">
                 {t("interactive_pdf")}
               </p>
               <ul className="mt-3 pl-5 pr-5 list-disc">
-                <li className="mt-1 md:ml-6 text-lg  text-gray-800">
+                <li className="mt-1 md:ml-6 text-xl  text-gray-800">
                   {t("feature1")}
                 </li>
-                <li className="md:ml-6 text-lg  text-gray-800">
+                <li className="md:ml-6 text-xl  text-gray-800">
                   {t("feature2")}
                 </li>
-                <li className="md:ml-6 text-lg text-gray-800">
+                <li className="md:ml-6 text-xl text-gray-800">
                   {t("feature3")}
                 </li>
-                <li className="md:ml-6 text-lg text-gray-800">
+                <li className="md:ml-6 text-xl text-gray-800">
                   {t("feature4")}
                 </li>
-                <li className="md:ml-6 text-lg text-gray-800">
+                <li className="md:ml-6 text-xl text-gray-800">
                   {t("feature5")}
                 </li>
               </ul>

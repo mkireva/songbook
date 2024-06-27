@@ -27,14 +27,14 @@ export default function Component() {
           <div className="grid gap-2 py-6">
             <Link
               href="/"
-              className="flex w-full items-center py-2 text-md font-semibold text-sky-700"
+              className="flex w-full items-center py-2 text-xl font-semibold text-sky-700"
               prefetch={false}
             >
               {t("home")}
             </Link>
             <Link
               href="/about"
-              className="flex w-full items-center py-2 text-md font-semibold text-sky-700"
+              className="flex w-full items-center py-2 text-xl font-semibold text-sky-700"
               prefetch={false}
             >
               {t("about")}
@@ -50,19 +50,22 @@ export default function Component() {
       <nav className="ml-auto hidden lg:flex gap-6">
         <Link
           href="/"
-          className="group inline-flex h-9 w-max items-center justify-center rounded-md px-4 py-2 text-md font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
+          className="group inline-flex h-9 w-max items-center justify-center rounded-md px-4 py-2 text-xl font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
           prefetch={false}
         >
           {t("home")}
         </Link>
         <Link
           href="/en/about"
-          className=" group inline-flex h-9 w-max items-center justify-center rounded-md px-4 py-2 text-md font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
+          className=" group inline-flex h-9 w-max items-center justify-center rounded-md px-4 py-2 text-xl font-medium transition-colors text-sky-700 hover:bg-sky-100 hover:text-sky-900 focus:bg-sky-100 focus:text-sky-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-sky-100/50 data-[state=open]:bg-sky-100/50 dark:bg-sky-950 dark:hover:bg-sky-800 dark:hover:text-sky-50 dark:focus:bg-sky-800 dark:focus:text-sky-50 dark:data-[active]:bg-sky-800/50 dark:data-[state=open]:bg-sky-800/50"
           prefetch={false}
         >
           {t("about")}
         </Link>
+        <div className="pr-4">
+
         <DropdownMenuDemo />
+        </div>
       </nav>
     </header>
   );
