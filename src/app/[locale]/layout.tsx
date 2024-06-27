@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
-import { Locale } from "@/src/lib/locales";
+import { Locale } from "@/src/lib/locales"; 
 
 const garamont = EB_Garamond({ weight: "400", subsets: ["latin", "cyrillic"] });
 
