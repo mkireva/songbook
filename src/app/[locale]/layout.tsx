@@ -44,7 +44,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "root" });
 
   return {
-    metadataBase: new URL("https://beinsasongs.vercel.app/"), // Replace with your actual domain
+    metadataBase: new URL("https://beinsasongs.eu/"), // Replace with your actual domain
     title: t("metadata.title"),
     description: t("metadata.description"),
     openGraph: {
@@ -52,7 +52,7 @@ export async function generateMetadata({
       description: t("metadata.description"),
       type: "website",
       locale: locale,
-      url: "https://beinsasongs.vercel.app/",
+      url: "https://beinsasongs.eu/",
       siteName: t("metadata.siteName"),
       images: "opengraph-image.png",
     },
