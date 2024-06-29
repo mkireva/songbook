@@ -8,10 +8,10 @@ export default function Home() {
     <>
       <div className="flex flex-col min-h-screen items-center justify-center">
         <div className="container">
-          <h2 className="text-2xl text-center mt-10">
+          <h2 className="text-center text-2xl font-medium leading-tight tracking-tighter md:text-2xl lg:leading-[1.1] mt-10">
             {t("author")}
           </h2>
-          <h1 className="text-center text-3xl font-medium leading-tight tracking-tighter md:text-5xl lg:leading-[1.1] hidden md:block mt-6">
+          <h1 className="text-center text-3xl font-medium leading-tight tracking-tighter md:text-5xl lg:leading-[1.1] mt-6">
           {t("title")}
           </h1>
           {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
