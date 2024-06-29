@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="flex items-center"></div>
           <Link
             href="https://www.kireva.de/"
-            className="text-m text-lg hover:text-gray-900 dark:hover:text-gray-400"
+            className=" text-md hover:text-gray-900 dark:hover:text-gray-400"
             prefetch={false}
             target="_blank"
           >

@@ -21,16 +21,16 @@ export default function Component() {
   const handleMenuClose = () => setMenuOpen(false);
 
   return (
-    <header className="sticky top-0 w-full shrink-0 py-4 shadow-sm dark:shadow-sm pt-6 ">
+    <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 pt-6">
       <div className="container mx-auto flex items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2" prefetch={false}>
           <BookOpen className="h-6 w-6" />
-          <span className="text-lg hidden md:block font-semibold"> {t('title')}</span>
+          <span className="text-lg hidden md:block"> {t('title')}</span>
         </Link>
         <nav className="hidden items-center gap-6 lg:flex">
           <Link
             href="/"
-            className="text-lg font-medium hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
+            className="text-md hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
           >
@@ -38,7 +38,7 @@ export default function Component() {
           </Link>
           <Link
             href="/about"
-            className="text-lg font-medium hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
+            className="text-md hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
           >

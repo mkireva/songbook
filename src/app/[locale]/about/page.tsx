@@ -27,33 +27,33 @@ export default function About() {
             <h1 className="text-4xl light:text-slate-700">{t("title")}</h1>
           </div>
           <div className="p-2">
-            <p className="text-xl">{t("content.paragraph1")}</p>
-            <p className="text-xl mt-5">{t("content.paragraph2")}</p>
+            <p className="text-lg">{t("content.paragraph1")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph2")}</p>
 
-            <p className="text-xl mt-5">{t("content.paragraph3")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph3")}</p>
 
-            <p className="text-xl mt-5">{t("content.paragraph4")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph4")}</p>
             <p className="text-xl mt-5">{t("content.paragraph5")}</p>
 
             <ul className="list-decimal list-inside mt-5">
-              <li className="text-xl mt-5 ">{t("content.list1")}</li>
-              <li className="text-xl mt-5">{t("content.list2")}</li>
-              <li className="text-xl mt-5">{t("content.list3")}</li>
+              <li className="text-lg mt-5 ">{t("content.list1")}</li>
+              <li className="text-lg mt-5">{t("content.list2")}</li>
+              <li className="text-lg mt-5">{t("content.list3")}</li>
             </ul>
-            <p className="text-xl mt-5">{t("content.paragraph6")}</p>
-            <p className="text-xl mt-5">{t("content.paragraph7")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph6")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph7")}</p>
             <ul className="list-decimal list-inside mt-5">
-              <li className="text-xl mt-5">{t("content.list4")}</li>
-              <li className="text-xl mt-5">{t("content.list5")}</li>
-              <li className="text-xl mt-5">{t("content.list6")}</li>
+              <li className="text-lg mt-5">{t("content.list4")}</li>
+              <li className="text-lg mt-5">{t("content.list5")}</li>
+              <li className="text-lg mt-5">{t("content.list6")}</li>
             </ul>
-            <p className="text-xl mt-5">{t("content.paragraph8")}</p>
-            <p className="text-xl mt-5">{t("content.paragraph9")}</p>
-            <p className="text-xl mt-5">{t("content.paragraph10")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph8")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph9")}</p>
+            <p className="text-lg mt-5">{t("content.paragraph10")}</p>
             <p className="text-xl mt-5 text-end mr-3">
               {t("content.paragraph11")}
             </p>
-            <p className="text-xl text-end">{t("content.paragraph12")}</p>
+            <p className="text-lg text-end">{t("content.paragraph12")}</p>
           </div>
         </div>
       </div>

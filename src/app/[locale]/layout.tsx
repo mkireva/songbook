@@ -1,6 +1,7 @@
 import { NextIntlClientProvider } from "next-intl";
 import type { Metadata } from "next";
-import {EB_Garamond } from "next/font/google";
+import { GeistSans } from 'geist/font/sans';
+import { GeistMono } from 'geist/font/mono';
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
@@ -9,8 +10,7 @@ import { getMessages, getTranslations } from "next-intl/server";
 import { Locale } from "@/src/lib/locales"; 
 import { ThemeProvider } from "@/src/components/theme-provider";
 
-const garamont = EB_Garamond({ weight: "400", subsets: ["latin", "cyrillic"] });
-
+const geistsans = GeistSans;
 type Props = {
   children: React.ReactNode;
   params: {
@@ -25,7 +25,7 @@ const RootLayout: React.FC<Props> = async ({
   const messages = await getMessages();
   return (
     <html lang={locale} suppressHydrationWarning>
-      <body className={garamont.className} suppressHydrationWarning>
+      <body className={geistsans.className} suppressHydrationWarning>
       <ThemeProvider
             attribute="class"
             defaultTheme="system"
