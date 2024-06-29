@@ -21,7 +21,7 @@ export default function Component() {
   const handleMenuClose = () => setMenuOpen(false);
 
   return (
-    <header className="sticky top-0 w-full bg-background py-4 shadow-sm pt-6 ">
+    <header className="sticky top-0 w-full shrink-0 py-4 shadow-sm dark:shadow-sm pt-6 ">
       <div className="container mx-auto flex items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2" prefetch={false}>
           <BookOpen className="h-6 w-6" />

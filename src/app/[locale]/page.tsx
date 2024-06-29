@@ -54,9 +54,9 @@ export default function Home() {
                 <li className="md:ml-6 text-xl">{t("feature5")}</li>
               </ul>
               <div className=" my-10 flex items-center justify-center">
-                <Button className=" md:w-3/4 w-full py-6 font-bold rounded-md items-center justify-center ">
+                <Button className=" md:w-3/4 w-full py-6">
                   <a
-                    className="text-white text-2xl"
+                    className="text-2xl"
                     href={"/Песни-от-Учителя-2024.pdf"}
                     target="_blank"
                   >
