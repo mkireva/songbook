@@ -9,8 +9,6 @@ import {
   DropdownMenuContent,
   DropdownMenuGroup,
   DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Button } from "@/src/components/ui/button";
@@ -18,7 +16,7 @@ import { Locale } from "@/src/lib/locales";
 import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
 
-export function DropdownMenuDemo() {
+export function LanguageSwitcher() {
   const router = useRouter();
 
   function handleLocaleChange(newLocale: Locale): void {
@@ -30,7 +28,7 @@ export function DropdownMenuDemo() {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button variant="ghost">
-          <GlobeIcon className="size-5 text-sky-700" />
+          <GlobeIcon className="size-5" />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-42">

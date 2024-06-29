@@ -9,10 +9,10 @@ export default function Home() {
     <>
       <div className="flex flex-col min-h-screen items-center justify-center">
         <div className="container">
-          <h2 className="text-2xl text-center font-semibold text-sky-700 mt-10">
+          <h2 className="text-2xl text-center light:text-slate-700 font-semibold mt-10">
             {t("author")}
           </h2>
-          <h1 className="text-4xl text-center font-bold text-sky-700 mt-6">
+          <h1 className="text-4xl text-center font-bold light:text-slate-700 mt-6">
             {t("title")}
           </h1>
           {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
@@ -35,38 +35,26 @@ export default function Home() {
                 src="/cover.jpeg"
                 width={500}
                 height={500}
-                style={{ width: 'auto', height: 'auto' }} // Maintain aspect ratio
+                style={{ width: "auto", height: "auto" }} // Maintain aspect ratio
                 priority={true}
                 alt="Picture of the author"
                 className="shadow-xl rounded-xl"
               />
             </div>
             <div className=" my-4 max-w-4xl mx-auto p-2">
-              <p className=" md:ml-6 text-xl text-start text-gray-800">
-                {t("description")}
-              </p>
-              <p className=" mt-5 md:ml-6 text-xl text-start text-gray-800">
+              <p className=" md:ml-6 text-xl text-start">{t("description")}</p>
+              <p className=" mt-5 md:ml-6 text-xl text-start">
                 {t("interactive_pdf")}
               </p>
               <ul className="mt-3 pl-5 pr-5 list-disc">
-                <li className="mt-1 md:ml-6 text-xl  text-gray-800">
-                  {t("feature1")}
-                </li>
-                <li className="md:ml-6 text-xl  text-gray-800">
-                  {t("feature2")}
-                </li>
-                <li className="md:ml-6 text-xl text-gray-800">
-                  {t("feature3")}
-                </li>
-                <li className="md:ml-6 text-xl text-gray-800">
-                  {t("feature4")}
-                </li>
-                <li className="md:ml-6 text-xl text-gray-800">
-                  {t("feature5")}
-                </li>
+                <li className="mt-1 md:ml-6 text-xl">{t("feature1")}</li>
+                <li className="md:ml-6 text-xl">{t("feature2")}</li>
+                <li className="md:ml-6 text-xl">{t("feature3")}</li>
+                <li className="md:ml-6 text-xl">{t("feature4")}</li>
+                <li className="md:ml-6 text-xl">{t("feature5")}</li>
               </ul>
               <div className=" my-10 flex items-center justify-center">
-                <Button className="bg-sky-600 md:w-3/4 w-full py-6 font-bold rounded-md items-center justify-center shadow-lg hover:bg-sky-700">
+                <Button className=" md:w-3/4 w-full py-6 font-bold rounded-md items-center justify-center ">
                   <a
                     className="text-white text-2xl"
                     href={"/Песни-от-Учителя-2024.pdf"}

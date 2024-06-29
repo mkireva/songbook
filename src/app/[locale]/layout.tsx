@@ -7,6 +7,7 @@ import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
 import { Locale } from "@/src/lib/locales"; 
+import { ThemeProvider } from "@/src/components/theme-provider";
 
 const garamont = EB_Garamond({ weight: "400", subsets: ["latin", "cyrillic"] });
 
@@ -23,14 +24,22 @@ const RootLayout: React.FC<Props> = async ({
 }) => {
   const messages = await getMessages();
   return (
-    <html lang={locale}>
-      <body className={garamont.className}>
+    <html lang={locale} suppressHydrationWarning>
+      <body className={garamont.className} suppressHydrationWarning>
+      <ThemeProvider
+            attribute="class"
+            defaultTheme="system"
+            enableSystem
+            themes={["light", "dark"]}
+            disableTransitionOnChange
+          >
         <NextIntlClientProvider messages={messages}>
           <NavBar />
           {children}
           <Analytics />
           <Footer />
         </NextIntlClientProvider>
+        </ThemeProvider>
       </body>
     </html>
   );
