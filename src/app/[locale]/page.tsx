@@ -11,8 +11,8 @@ export default function Home() {
           <h2 className="text-2xl text-center mt-10">
             {t("author")}
           </h2>
-          <h1 className="text-5xl text-center mt-6">
-            {t("title")}
+          <h1 className="text-center text-3xl font-medium leading-tight tracking-tighter md:text-5xl lg:leading-[1.1] hidden md:block mt-6">
+          {t("title")}
           </h1>
           {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
             Издадени от <br />
