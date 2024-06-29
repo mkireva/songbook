@@ -24,7 +24,7 @@ export default function About() {
       <div className="flex flex-col min-h-screen items-center ">
         <div className="container lg:w-3/4 p-4">
           <div className="mt-10 mb-10 text-center ">
-            <h1 className="text-4xl text-sky-700">{t("title")}</h1>
+            <h1 className="text-4xl light:text-slate-700">{t("title")}</h1>
           </div>
           <div className="p-2">
             <p className="text-xl">{t("content.paragraph1")}</p>

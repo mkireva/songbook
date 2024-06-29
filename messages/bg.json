@@ -34,7 +34,8 @@
     "toggleNavigationMenu": "Toggle navigation menu",
     "home": "Начало",
     "about": "За книгата",
-    "bookTitle": "Песнарка"
+    "bookTitle": "Песнарка",
+    "title": "Песни от Учителя"
   },
   "About": {
     "title": "Окултните музикални упражнения",
@@ -64,4 +65,5 @@
   "Footer": {
     "text": "Песни от Учителя {now, date, medium}"
   }
+ 
 }

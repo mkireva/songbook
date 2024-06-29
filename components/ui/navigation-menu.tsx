@@ -6,7 +6,6 @@ import { cn } from "@/src/lib/utils"
 
 
 
-
 const NavigationMenu = React.forwardRef<
   React.ElementRef<typeof NavigationMenuPrimitive.Root>,
   React.ComponentPropsWithoutRef<typeof NavigationMenuPrimitive.Root>

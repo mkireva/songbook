@@ -6,12 +6,12 @@ export default function Footer() {
 
   return (
     <>
-      <footer className="w-full py-6 text-gray-800 dark:bg-gray-800">
+      <footer className="w-full py-6">
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center"></div>
           <Link
             href="https://www.kireva.de/"
-            className="text-md text-gray-800 text-lg hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
+            className="text-m text-lg hover:text-gray-900 dark:hover:text-gray-400"
             prefetch={false}
             target="_blank"
           >
