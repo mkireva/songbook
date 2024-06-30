@@ -50,7 +50,7 @@ export default function About() {
             <p className="text-lg mt-5">{t("content.paragraph8")}</p>
             <p className="text-lg mt-5">{t("content.paragraph9")}</p>
             <p className="text-lg mt-5">{t("content.paragraph10")}</p>
-            <p className="text-xl mt-5 text-end mr-3">
+            <p className="text-lg mt-5 text-end mr-3">
               {t("content.paragraph11")}
             </p>
             <p className="text-lg text-end">{t("content.paragraph12")}</p>
