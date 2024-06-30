@@ -42,7 +42,7 @@ export default function Home() {
             </div>
             <div className=" my-4 max-w-4xl mx-auto p-2">
               <p className=" md:ml-6 text-md text-start">{t("description")}</p>
-              <p className=" mt-5 md:ml-6 text-lg text-start">
+              <p className=" mt-5 md:ml-6 text-md text-start">
                 {t("interactive_pdf")}
               </p>
               <ul className="mt-3 pl-5 pr-5 list-disc">
