@@ -33,7 +33,7 @@ export default function About() {
             <p className="text-md mt-5">{t("content.paragraph3")}</p>
 
             <p className="text-md mt-5">{t("content.paragraph4")}</p>
-            <p className="text-xl mt-5">{t("content.paragraph5")}</p>
+            <p className="text-md mt-5">{t("content.paragraph5")}</p>
 
             <ul className="list-decimal list-inside mt-5">
               <li className="text-md mt-5 ">{t("content.list1")}</li>
