@@ -25,7 +25,7 @@ export default function Component() {
       <div className="container mx-auto flex items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2" prefetch={false}>
           <BookOpen className="h-6 w-6" />
-          <span className="text-lg hidden md:block"> {t('title')}</span>
+          <span className="text-xl hidden md:block"> {t('title')}</span>
         </Link>
         <nav className="hidden items-center gap-6 lg:flex">
           <Link
