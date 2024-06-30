@@ -22,10 +22,10 @@ export default function Home() {
               <span>Мария Кирева</span>
             </span>
           </h1> */}
-          <h1 className="sm:text-ld md:text-xl italic text-center text-muted-foreground mt-10">
+          <h1 className="text-lg italic text-center text-muted-foreground mt-10">
             {t("edition")}
           </h1>
-          <h1 className="sm:text-lg md:text-xl text-center text-muted-foreground mt-3">
+          <h1 className="text-lg text-center text-muted-foreground mt-3">
             {t("year")} 
           </h1>
           <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10">
