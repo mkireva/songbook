@@ -52,7 +52,7 @@ export default function Component() {
           <TeamToggle />
           <DropdownMenu open={menuOpen} onOpenChange={setMenuOpen}>
             <DropdownMenuTrigger asChild>
-              <Button variant="outline" size="icon" className="lg:hidden" onClick={handleMenuToggle}>
+              <Button variant="ghost" size="icon" className="lg:hidden" onClick={handleMenuToggle}>
                 <MenuIcon className="h-6 w-6" />
               </Button>
             </DropdownMenuTrigger>
