@@ -11,7 +11,7 @@ export default function Home() {
           <h2 className="text-center text-2xl font-medium leading-tight text-primary dark:text-white  tracking-tighter md:text-2xl lg:leading-[1.1] mt-10">
             {t("author")}
           </h2>
-          <h1 className="text-center text-3xl font-medium leading-tight text-primary dark:text-white tracking-tighter md:text-4xl lg:leading-[1.1] mt-6">
+          <h1 className="text-center text-4xl font-medium leading-tight text-primary dark:text-white tracking-tighter md:text-5xl lg:leading-[1.1] mt-6">
           {t("title")}
           </h1>
           {/* <h1 className="text-xl p-3 text-center text-muted-foreground mt-6">
@@ -22,11 +22,11 @@ export default function Home() {
               <span>Мария Кирева</span>
             </span>
           </h1> */}
-          <h1 className="text-xl italic text-center text-muted-foreground mt-10">
+          <h1 className="sm:text-ld md:text-xl italic text-center text-muted-foreground mt-10">
             {t("edition")}
           </h1>
-          <h1 className="text-xl text-center text-muted-foreground mt-3">
-            {t("year")}{" "}
+          <h1 className="sm:text-lg md:text-xl text-center text-muted-foreground mt-3">
+            {t("year")} 
           </h1>
           <div className="max-w-5xl grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 mx-auto my-10">
             <div className="my-6">
