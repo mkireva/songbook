@@ -14,7 +14,6 @@ import {
 import { Button } from "@/src/components/ui/button";
 import { Locale } from "@/src/lib/locales";
 import { useRouter } from "next/navigation";
-import { useLocale } from "next-intl";
 
 export function LanguageSwitcher() {
   const router = useRouter();
@@ -28,7 +27,7 @@ export function LanguageSwitcher() {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button variant="ghost">
-          <GlobeIcon className="size-5" />
+          <GlobeIcon className="size-4" />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-42">
