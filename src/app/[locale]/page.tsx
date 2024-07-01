@@ -42,20 +42,20 @@ export default function Home() {
               />
             </div>
             <div className="md:col-span-2 my-4 max-w-4xl mx-auto p-2">
-              <p className=" md:ml-6 text-md text-start">{t("description")}</p>
-              <p className=" mt-5 md:ml-6 text-md text-start">
+              <p className=" md:ml-3 text-lg text-start ">{t("description")}</p>
+              <p className=" md:ml-6 text-lg text-start mt-10">
                 {t("interactive_pdf")}
               </p>
               <ul className="mt-3 pl-5 pr-5 list-disc">
-                <li className="mt-1 md:ml-6 text-md">{t("feature1")}</li>
-                <li className="md:ml-6 text-md">{t("feature2")}</li>
-                <li className="md:ml-6 text-md">{t("feature3")}</li>
-                <li className="md:ml-6 text-md">{t("feature4")}</li>
-                <li className="md:ml-6 text-md">{t("feature5")}</li>
+                <li className="mt-1 md:ml-3 text-lg">{t("feature1")}</li>
+                <li className="md:ml-3 text-lg">{t("feature2")}</li>
+                <li className="md:ml-3 text-lg">{t("feature3")}</li>
+                <li className="md:ml-3 text-lg">{t("feature4")}</li>
+                <li className="md:ml-3 text-lg">{t("feature5")}</li>
               </ul>
             
-              <div className="my-10 flex items-center justify-center">
-                <Button className="md:w-3/4 w-full py-5">
+              <div className=" md:ml-3 my-16 flex items-start justify-start ">
+                <Button className=" w-full ">
                   <a
                     className="text-lg"
                     href={"/Песни-от-Учителя-2024.pdf"}
