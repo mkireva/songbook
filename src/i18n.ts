@@ -4,12 +4,11 @@ import { type AbstractIntlMessages } from "next-intl";
 import { locales, type Locale } from "./lib/locales";
 
 const messageImports = {
-  bg: () => import("../messages/bg.json"),
-  en: () => import("../messages/en.json"),
-  de: () => import("../messages/de.json"),
-  fr: () => import("../messages/fr.json"),
+  bg: () => import("../messages/bg.json").then(module => ({ default: module.default as AbstractIntlMessages })),
+  en: () => import("../messages/en.json").then(module => ({ default: module.default as unknown as AbstractIntlMessages })),
+  de: () => import("../messages/de.json").then(module => ({ default: module.default as AbstractIntlMessages })),
+  fr: () => import("../messages/fr.json").then(module => ({ default: module.default as AbstractIntlMessages })),
 } as const satisfies Record<Locale, () => Promise<{ default: AbstractIntlMessages }>>;
-
 export function isValidLocale(locale: unknown): locale is Locale {
   return locales.some((l) => l === locale);
 }
