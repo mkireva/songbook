@@ -32,7 +32,7 @@ export default function TableofContent() {
                 {song.play ? <AudioPlayer audio={song.audio ?? ""} /> : null}
               </TableCell>
               <TableCell>{song.title}</TableCell>
-              <TableCell className="text-right text-xs">{song.page}</TableCell>
+              <TableCell className="text-right">{song.page}</TableCell>
               {/* <TableCell className="text-right">{song.interpret}</TableCell> */}
             </TableRow>
           ))}
