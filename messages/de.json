@@ -27,13 +27,16 @@
     "feature3": "Navigation vom Titel jedes Liedes zur entsprechenden Anmerkung",
     "feature4": "Rücknavigation von der Anmerkung des Liedes zum entsprechenden Lied",
     "feature5": "Alphabetischer Index mit Navigation zum entsprechenden Lied",
-    "download": "Herunterladen",
-    "tableofcontent": "Inhalt",
-    "play": "Play",
-    "section": "Titel",
-    "page": "Seite"
+    "download": "Herunterladen"
+    
   },
-
+  "table": {
+    "heading": "Inhalt",
+    "play": "Play",
+    "title": "Titel",
+    "page": "Seite",
+    "interpret": "Interpret"
+  },
   "NavBar": {
     "toggleNavigationMenu": "Navigationsmenü umschalten",
     "home": "Startseite",

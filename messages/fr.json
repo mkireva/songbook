@@ -22,7 +22,13 @@
     "feature5": "Index alphabétique avec navigation vers le chant correspondant",
     "download": "Télécharger"
   },
-  
+  "table": {
+    "heading": "Contenu",
+    "play": "Jouer",
+    "title": "Titre",
+    "page": "Page",
+    "interpret": "Interprète"
+  },
   "NavBar": {
     "toggleNavigationMenu": "Basculer le menu de navigation",
     "home": "Accueil",
