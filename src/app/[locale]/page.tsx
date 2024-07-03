@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import TableofContent from "../TableofContent";
-import { Button } from "@/components/ui/button";
+import { Button } from "components/ui/button";
 
 export default function Home() {
   const t = useTranslations("Home");

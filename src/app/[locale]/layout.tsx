@@ -1,14 +1,13 @@
 import { NextIntlClientProvider } from "next-intl";
 import type { Metadata } from "next";
 import { GeistSans } from 'geist/font/sans';
-import { GeistMono } from 'geist/font/mono';
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
-import { Locale } from "@/lib/locales"; 
-import { ThemeProvider } from "@/components/theme-provider";
+import { Locale } from "lib/locales"; 
+import { ThemeProvider } from "components/theme-provider";
 
 const geistsans = GeistSans;
 type Props = {

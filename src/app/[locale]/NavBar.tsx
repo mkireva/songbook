@@ -5,12 +5,12 @@ import {
   DropdownMenuTrigger,
   DropdownMenuContent,
   DropdownMenuItem,
-} from "@/components/ui/dropdown-menu";
+} from "components/ui/dropdown-menu";
 import { useTranslations } from "next-intl";
 import { BookOpen } from "lucide-react";
 import React, { useState } from 'react';
-import { TeamToggle } from "@/components/themeToggler";
-import { Button } from "@/components/ui/button";
+import { TeamToggle } from "components/themeToggler";
+import { Button } from "components/ui/button";
 import { LanguageSwitcher } from "./lang-switchter";
 
 export default function Component() {

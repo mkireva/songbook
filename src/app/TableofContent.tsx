@@ -36,7 +36,7 @@ export default function TableofContent() {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {data.map((song) => (
+          {data.map((song:Song) => (
             <TableRow key={song.id}>
               <TableCell>{song.play ? <AudioPlayer audio={song.audio ?? ""} /> : null}</TableCell>
               <TableCell>{song.title}</TableCell>

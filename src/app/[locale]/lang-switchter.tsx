@@ -10,11 +10,11 @@ import {
   DropdownMenuGroup,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
+} from "components/ui/dropdown-menu";
 
 import { useRouter } from "next/navigation";
-import { Locale } from "@/lib/locales";
-import { Button } from "@/components/ui/button";
+import { Locale } from "lib/locales";
+import { Button } from "components/ui/button";
 
 export function LanguageSwitcher() {
   const router = useRouter();
