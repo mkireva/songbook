@@ -7,8 +7,8 @@ import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
-import { Locale } from "@/src/lib/locales"; 
-import { ThemeProvider } from "@/src/components/theme-provider";
+import { Locale } from "@/lib/locales"; 
+import { ThemeProvider } from "@/components/theme-provider";
 
 const geistsans = GeistSans;
 type Props = {

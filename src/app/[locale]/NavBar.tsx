@@ -6,12 +6,12 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
 } from "@/components/ui/dropdown-menu";
-import { Button } from "@/src/components/ui/button";
 import { useTranslations } from "next-intl";
 import { BookOpen } from "lucide-react";
-import { LanguageSwitcher } from "./lang-switchter";
-import { TeamToggle } from "@/src/components/themeToggler";
 import React, { useState } from 'react';
+import { TeamToggle } from "@/components/themeToggler";
+import { Button } from "@/components/ui/button";
+import { LanguageSwitcher } from "./lang-switchter";
 
 export default function Component() {
   const t = useTranslations("NavBar");
