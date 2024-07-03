@@ -7,7 +7,7 @@ import {
   TableRow,
 } from "../../components/ui/table";
 
-import data from "@/data/data.json";
+import data from "data/data.json";
 import AudioPlayer from "./AudioPlayer";
 
 interface Song {
