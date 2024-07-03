@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Зората на новия живот",
     "page": 30,
-    "play": true,
+    "play": false,
     "audio": "./audio/1.mp3",
     "interpret": ""
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Излязъл е сеяч",
     "page": 32,
-    "play": true,
+    "play": false,
     "audio": "./audio/2.mp3",
     "interpret": ""
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "Братство, единство",
     "page": 34,
-    "play": true,
+    "play": false,
     "audio": "./audio/3.mp3",
     "interpret": ""
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Ще се развеселя",
     "page": 35,
-    "play": true,
+    "play": false,
     "audio": "./audio/4.mp3",
     "interpret": ""
   },
