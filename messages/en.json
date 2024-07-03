@@ -30,6 +30,33 @@
     "feature5": "Alphabetical index with navigation to the corresponding song",
     "download": "Download"
   },
+
+  "data": [
+    {
+      "id": "1",
+      "title": "Song One",
+      "page": 1,
+      "play": true,
+      "audio": "audio1.mp3",
+      "interpret": "Artist One"
+    },
+    {
+      "id": "2",
+      "title": "Song Two",
+      "page": 2,
+      "play": false,
+      "audio": "audio2.mp3",
+      "interpret": "Artist Two"
+    }
+  ],
+  "table": {
+    "heading": "Content",
+    "play": "Play",
+    "title": "Title",
+    "page": "Page",
+    "interpret": "Interpret"
+  },
+
   "NavBar": {
     "toggleNavigationMenu": "Toggle navigation menu",
     "home": "Home",
