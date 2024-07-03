@@ -54,8 +54,8 @@ export default function Home() {
                 <li className="md:ml-6 text-md">{t("feature4")}</li>
                 <li className="md:ml-6 text-md">{t("feature5")}</li>
               </ul>
-              <div className="my-8 flex items-center justify-center">
-                <Button className="md:w-3/4 w-full py-5">
+              <div className="my-8 flex items-center justify-center ">
+                <Button className="md:w-3/5 w-full py-5 md:mt-10 lg:mt-10 xl:mt-10">
                   <a
                     className="text-lg"
                     href={"/Песни-от-Учителя-2024.pdf"}
