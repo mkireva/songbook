@@ -29,7 +29,7 @@ export default function Home() {
           <h1 className="text-lg text-center text-muted-foreground mt-3">
             {t("year")}
           </h1>
-          <div className=" max-w-5xl grid md:grid-cols-3 sm:grid-cols-1 gap-2 mx-auto my-6 ">
+          <div className="max-w-5xl grid md:grid-cols-3 sm:grid-cols-1 gap-2 mx-auto my-6 ">
             <div className="my-6 ">
               <Image
                 src="/cover.jpeg"

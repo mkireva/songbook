@@ -5,10 +5,11 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "../../components/ui/table";
+} from "../components/ui/table";
 
 import data from "data/data.json";
 import AudioPlayer from "./AudioPlayer";
+import { ScrollArea } from "components/scroll-area";
 
 export default function TableofContent() {
   return (
@@ -16,6 +17,8 @@ export default function TableofContent() {
       <h1 className="text-center text-2xl font-medium leading-tight text-muted-foreground dark:text-white tracking-tighter md:text-2xl lg:leading-[1.1]">
         Съдържание
       </h1>
+      <ScrollArea className="h-[600px] rounded-md border mt-10">
+
       <Table>
         <TableHeader>
           <TableRow>
@@ -27,17 +30,18 @@ export default function TableofContent() {
         </TableHeader>
         <TableBody>
           {data.map((song) => (
-            <TableRow key={song.id}>
+              <TableRow key={song.id}>
               <TableCell>
                 {song.play ? <AudioPlayer audio={song.audio ?? ""} /> : null}
               </TableCell>
               <TableCell>{song.title}</TableCell>
-              <TableCell className="text-right">{song.page}</TableCell>
+              <TableCell className="text-right text-sm">{song.page}</TableCell>
               {/* <TableCell className="text-right">{song.interpret}</TableCell> */}
             </TableRow>
           ))}
         </TableBody>
       </Table>
+          </ScrollArea>
     </div>
   );
 }
