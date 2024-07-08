@@ -49,7 +49,7 @@ export default function TableofContent() {
         </Table>
       </ScrollArea>
       <div className="text-center items-center mt-2">
-        <Label className="text-sm text-muted-foreground" htmlFor="email">
+        <Label className="text-xs text-muted-foreground" htmlFor="email">
           Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
         </Label>
       </div>
