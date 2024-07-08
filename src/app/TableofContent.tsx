@@ -1,6 +1,7 @@
 import {
   Table,
   TableBody,
+  TableCaption,
   TableCell,
   TableFooter,
   TableHead,
@@ -12,6 +13,7 @@ import { useTranslations } from "next-intl";
 import data from "data/data.json";
 import AudioPlayer from "./AudioPlayer";
 import { ScrollArea } from "components/scroll-area";
+import { Label } from "components/label";
 export default function TableofContent() {
   const t = useTranslations(); // Corrected
   return (
@@ -43,12 +45,14 @@ export default function TableofContent() {
               </TableRow>
             ))}
           </TableBody>
+          
         </Table>
-        
       </ScrollArea>
-      <p className="text-center text-sm leading-tight text-primary dark:text-white tracking-tighter md:text-sm lg:leading-[1.1] mt-4">
-           Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
-        </p>
+      <div className="text-center items-center mt-2">
+        <Label className="text-sm text-muted-foreground" htmlFor="email">
+          Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
+        </Label>
+      </div>
     </div>
   );
 }
