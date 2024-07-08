@@ -51,232 +51,232 @@
     "id": 7,
     "title": "Зората на новия живот",
     "page": 30,
-    "play": false,
-    "audio": "./audio/1.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/01.mp3",
     "interpret": ""
   },
   {
     "id": 8,
     "title": "Излязъл е сеяч",
     "page": 32,
-    "play": false,
-    "audio": "./audio/2.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 02 - Izlyazal e seyach.mp3",
     "interpret": ""
   },
   {
     "id": 9,
     "title": "Братство, единство",
     "page": 34,
-    "play": false,
-    "audio": "./audio/3.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 03 - Bratstvo, edinstvo.mp3",
     "interpret": ""
   },
   {
     "id": 10,
     "title": "Ще се развеселя",
     "page": 35,
-    "play": false,
-    "audio": "./audio/4.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 04 - Ste se razveselya.mp3",
     "interpret": ""
   },
   {
     "id": 11,
     "title": "Изгрява вече ден тържествен",
     "page": 36,
-    "play": false,
-    "audio": "path/to/audio9.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 06 - Izgryava den tarjestven.mp3",
     "interpret": ""
   },
   {
     "id": 12,
     "title": "Благославяй",
     "page": 38,
-    "play": false,
-    "audio": "path/to/audio10.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 05 - Blagoslavyai.mp3",
     "interpret": ""
   },
   {
     "id": 13,
     "title": "Събуди се, братко мили",
     "page": 39,
-    "play": false,
-    "audio": "path/to/audio11.mp3",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 07 - Sabudi se bratko.mp3",
     "interpret": ""
   },
   {
     "id": 14,
     "title": "Любовта е извор",
     "page": 40,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 08 - Ljubovta e izvor.mp3",
     "interpret": ""
   },
   {
     "id": 15,
     "title": "Стани, стани",
     "page": 42,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 09 - Stani, stani.mp3",
     "interpret": ""
   },
   {
     "id": 16,
     "title": "Страдна душо",
     "page": 43,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 10 - Stradna dusho.mp3",
     "interpret": ""
   },
   {
     "id": 17,
     "title": "Изгрей ти, мое Слънце",
     "page": 44,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 11 - Izgrei ti, moe slance.mp3",
     "interpret": ""
   },
   {
     "id": 18,
     "title": "Шуми",
     "page": 46,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 12 - Shumi.mp3",
     "interpret": ""
   },
   {
     "id": 19,
     "title": "Напред да ходим",
     "page": 47,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 13 - Napred da hodim.mp3",
     "interpret": ""
   },
   {
     "id": 20,
     "title": "На Учителя",
     "page": 48,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 14 - Na Uchitelya.mp3",
     "interpret": ""
   },
   {
     "id": 21,
     "title": "Милосърдието",
     "page": 49,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 15 - Milosardieto.mp3",
     "interpret": ""
   },
   {
     "id": 22,
     "title": "Сърдечен зов",
     "page": 50,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 16 - Sardechen zov.mp3",
     "interpret": ""
   },
   {
     "id": 23,
     "title": "Благословен Господ",
     "page": 51,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 17 - Blagosloven Gospod.mp3",
     "interpret": ""
   },
   {
     "id": 24,
     "title": "За Небесния Цар",
     "page": 52,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 20 - Za Nebesnia Tzar.mp3",
     "interpret": ""
   },
   {
     "id": 25,
     "title": "Време е да вървим",
     "page": 53,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 18 - Vreme e da varvim.mp3",
     "interpret": ""
   },
   {
     "id": 26,
     "title": "Поздрав на Учителя",
     "page": 54,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 19 - Pozdrav na Uchitelya.mp3",
     "interpret": ""
   },
   {
     "id": 27,
     "title": "Сине мой, пази живота",
     "page": 55,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 21 - Sine moi, pazi jivota.mp3",
     "interpret": ""
   },
   {
     "id": 28,
     "title": "Росна капка",
     "page": 56,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 22 - Rosna kapka.mp3",
     "interpret": ""
   },
   {
     "id": 29,
     "title": "Аз съм бялото кокиче",
     "page": 57,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 33 - Byaloto kokiche.mp3",
     "interpret": ""
   },
   {
     "id": 30,
     "title": "Напред, чада, напред",
     "page": 58,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 23 - Napred, chada.mp3",
     "interpret": ""
   },
   {
     "id": 31,
     "title": "Славейчета горски",
     "page": 59,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 24 - Slaveicheta gorski.mp3",
     "interpret": ""
   },
   {
     "id": 32,
     "title": "Небето се отваря",
     "page": 60,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 25 - Nebeto se otvarya.mp3",
     "interpret": ""
   },
   {
     "id": 33,
     "title": "О, Учителю благати",
     "page": 61,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 26 - O, Ucitelju blagati.mp3",
     "interpret": ""
   },
   {
     "id": 34,
     "title": "Дързост в Христа",
     "page": 62,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 28 - Darzost v Hrista.mp3",
     "interpret": ""
   },
   {
     "id": 35,
     "title": "Към Сион",
     "page": 63,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 27 - Kam Sion.mp3",
     "interpret": ""
   },
   {
@@ -315,32 +315,32 @@
     "id": 40,
     "title": "Псалом 91",
     "page": 66,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 34 - Psalom 91.mp3",
     "interpret": ""
   },
   {
     "id": 41,
     "title": "На белия цвят",
     "page": 67,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 29 - Na beliya cvyat.mp3",
     "interpret": ""
   },
   {
     "id": 42,
     "title": "На Христа запейте",
     "page": 68,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 31 - Na Hrista zapeite.mp3",
     "interpret": ""
   },
   {
     "id": 43,
     "title": "Нови дрехи",
     "page": 69,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 30 - Novi drehi.mp3",
     "interpret": ""
   },
   {
@@ -395,8 +395,8 @@
     "id": 50,
     "title": "Песен на гласните букви",
     "page": 76,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 35 - Pesen na glasnite bukvi.mp3",
     "interpret": ""
   },
   {
@@ -411,1352 +411,584 @@
     "id": 52,
     "title": "Фир-фюр-фен – Благославай",
     "page": 78,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 36 - Fir-fur-fen.mp3",
     "interpret": ""
   },
   {
     "id": 53,
     "title": "Изгрява Слънцето",
     "page": 79,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 38 - Izgryava Slanceto.mp3",
     "interpret": ""
   },
   {
     "id": 54,
     "title": "Сила жива, изворна",
     "page": 79,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 38 - Izgryava Slanceto.mp3",
     "interpret": ""
   },
   {
     "id": 55,
     "title": "Благост",
     "page": 80,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 41 - Blagost.mp3",
     "interpret": ""
   },
   {
     "id": 56,
     "title": "Сладко, медено",
     "page": 81,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 39 - Sladko, medeno.mp3",
     "interpret": ""
   },
   {
     "id": 57,
     "title": "Блага дума",
     "page": 82,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 40 - Blaga duma.mp3",
     "interpret": ""
   },
   {
     "id": 58,
     "title": "Венир Бенир",
     "page": 83,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 01 - Venir, Benir.mp3",
     "interpret": ""
   },
   {
     "id": 59,
     "title": "Сила жива",
     "page": 84,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 02 - Sila jiva. Skrabta si ti kaji.mp3",
     "interpret": ""
   },
   {
     "id": 60,
     "title": "Скръбта си ти кажи",
     "page": 85,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 02 - Sila jiva. Skrabta si ti kaji.mp3",
     "interpret": ""
   },
   {
     "id": 61,
     "title": "Грее, грее",
     "page": 86,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 42 - Gree, gree.mp3",
     "interpret": ""
   },
   {
     "id": 62,
     "title": "Духът Божи",
     "page": 87,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 03 - Duhat Boji.mp3",
     "interpret": ""
   },
   {
     "id": 63,
     "title": "Махар Бену Аба",
     "page": 88,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 43 - Mahar Benu Aba.mp3",
     "interpret": ""
   },
   {
     "id": 64,
     "title": "В мрак, тъмнота",
     "page": 88,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 43 - Mahar Benu Aba.mp3",
     "interpret": ""
   },
   {
     "id": 65,
     "title": "В зорите на живота",
     "page": 89,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntOne/Integral CD1 - 44 - V zorite na jivota.mp3",
     "interpret": ""
   },
   {
     "id": 66,
     "title": "Бог е Любов",
     "page": 90,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 05 - Bog e Lyubov.mp3",
     "interpret": ""
   },
   {
     "id": 67,
     "title": "Вехади",
     "page": 91,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 04 - Vehadi.mp3",
     "interpret": ""
   },
   {
     "id": 68,
     "title": "Вечер, сутрин",
     "page": 91,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 07 - Vecher, sutrin.mp3",
     "interpret": ""
   },
   {
     "id": 69,
     "title": "Имаше человек",
     "page": 92,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 06 - Imashe chelovek.mp3",
     "interpret": ""
   },
   {
     "id": 70,
     "title": "Кажи ми Ти Истината",
     "page": 94,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 08 - Kaji mi istinata. Blagata pesen.mp3",
     "interpret": ""
   },
   {
     "id": 71,
     "title": "Благата песен",
     "page": 94,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 08 - Kaji mi istinata. Blagata pesen.mp3",
     "interpret": ""
   },
   {
     "id": 72,
     "title": "Мусала",
     "page": 95,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 09 - Musala.mp3",
     "interpret": ""
   },
   {
     "id": 73,
     "title": "Ходи, ходи",
     "page": 96,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 11 - Hodi, hodi. Tagi, skarbi.mp3",
     "interpret": ""
   },
   {
     "id": 74,
     "title": "Тъги, скърби",
     "page": 97,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 11 - Hodi, hodi. Tagi, skarbi.mp3",
     "interpret": ""
   },
   {
     "id": 75,
     "title": "Светъл ден",
     "page": 98,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 10 - Svetal den.mp3",
     "interpret": ""
   },
   {
     "id": 76,
     "title": "Нева санзу",
     "page": 99,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 12 - Neva Sanzu.mp3",
     "interpret": ""
   },
   {
     "id": 77,
     "title": "Киамет Зену",
     "page": 100,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 13 - Kiamet Zenu.mp3",
     "interpret": ""
   },
   {
     "id": 78,
     "title": "Давай, давай",
     "page": 100,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 14 - Davai, davai.mp3",
     "interpret": ""
   },
   {
     "id": 79,
     "title": "Мисли, право мисли",
     "page": 101,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 16 - Misli, pravo misli.mp3",
     "interpret": ""
   },
   {
     "id": 80,
     "title": "В начало бе Словото",
     "page": 102,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 15 -  V nachaloto be Slovoto.mp3",
     "interpret": ""
   },
   {
     "id": 81,
     "title": "Вдъхновение",
     "page": 103,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 17 - Vdahnovenie.mp3",
     "interpret": ""
   },
   {
     "id": 82,
     "title": "Добър ден",
     "page": 103,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 20 - Dobar den.mp3",
     "interpret": ""
   },
   {
     "id": 83,
     "title": "Весел ти бъди",
     "page": 104,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 18 - Vesel ti badi.mp3",
     "interpret": ""
   },
   {
     "id": 84,
     "title": "Запали се огънят",
     "page": 105,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 19 - Zapali se oganyat.mp3",
     "interpret": ""
   },
   {
     "id": 85,
     "title": "Бершид Ба",
     "page": 106,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 21 - Bershid Ba.mp3",
     "interpret": ""
   },
   {
     "id": 86,
     "title": "Малкият извор",
     "page": 107,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 22 - Malkiyat izvor.mp3",
     "interpret": ""
   },
   {
     "id": 87,
     "title": "Всичко в живота е постижимо",
     "page": 108,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 24 - Vsichko v jivota e postijimo.mp3",
     "interpret": ""
   },
   {
     "id": 88,
     "title": "Тъги, скърби са богатство",
     "page": 108,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 26 - Tagi, skarbi sa bogatstvo.mp3",
     "interpret": ""
   },
   {
     "id": 89,
     "title": "Духът ми шепне това",
     "page": 109,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 27 - Duhat mi shepne tova.mp3",
     "interpret": ""
   },
   {
     "id": 90,
     "title": "Сила, живот, здраве",
     "page": 110,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 23 - Sila, jivot, zdrave.mp3",
     "interpret": ""
   },
   {
     "id": 91,
     "title": "Красив е животът",
     "page": 111,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 14 - Krasiv e jivotat.mp3",
     "interpret": ""
   },
   {
     "id": 92,
     "title": "Химн на Великата душа",
     "page": 112,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 25 - Himn na Velikata Dusha.mp3",
     "interpret": ""
   },
   {
     "id": 93,
     "title": "Песен на зората",
     "page": 114,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 28 - Pesen na zorata.mp3",
     "interpret": ""
   },
   {
     "id": 94,
     "title": "При всичките условия",
     "page": 115,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 29 - Pri vsichkite usloviya.mp3",
     "interpret": ""
   },
   {
     "id": 95,
     "title": "Мога да кажа",
     "page": 116,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 30 - Moga da kaja.mp3",
     "interpret": ""
   },
   {
     "id": 96,
     "title": "Аз смея да кажа",
     "page": 117,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntTwo/Integral CD2 - 31 - Az smeya da kaja.mp3",
     "interpret": ""
   },
   {
     "id": 97,
     "title": "Да имаш вяра",
     "page": 118,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 01 - Da imash viara.mp3",
     "interpret": ""
   },
   {
     "id": 98,
     "title": "В пустинята на живота",
     "page": 118,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 02 - V pustinyata na jivota.mp3",
     "interpret": ""
   },
   {
     "id": 99,
     "title": "Мога да любя",
     "page": 119,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 05 - Moga da lyubya.mp3",
     "interpret": ""
   },
   {
     "id": 100,
     "title": "Сила, здраве е богатство",
     "page": 120,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 03 - Sila, zdrave e bogatstvo.mp3",
     "interpret": ""
   },
   {
     "id": 101,
     "title": "Зов на планината",
     "page": 120,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 04 - Zov na planinata.mp3",
     "interpret": ""
   },
   {
     "id": 102,
     "title": "Цветята цъфтяха",
     "page": 121,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 06- Cvetyata cafnaha.mp3",
     "interpret": ""
   },
   {
     "id": 103,
     "title": "Той иде",
     "page": 122,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 07 - Toi ide!.mp3",
     "interpret": ""
   },
   {
     "id": 104,
     "title": "Песен на светлия път",
     "page": 123,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 08 - Pesen na svetlia pat.mp3",
     "interpret": ""
   },
   {
     "id": 105,
     "title": "До ще ден",
     "page": 124,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 09 - Do-shte den.mp3",
     "interpret": ""
   },
   {
     "id": 106,
     "title": "Там далече",
     "page": 125,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 10 - Tam daleche.mp3",
     "interpret": ""
   },
   {
     "id": 107,
     "title": "Денят иде",
     "page": 126,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 12 - Denyat ide.mp3",
     "interpret": ""
   },
   {
     "id": 108,
     "title": "Пролет",
     "page": 126,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 11 - Prolet.mp3",
     "interpret": ""
   },
   {
     "id": 109,
     "title": "Подмладяване",
     "page": 127,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 14,
-    "title": "Любовта е извор",
-    "page": 40,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 15,
-    "title": "Стани, стани",
-    "page": 42,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 16,
-    "title": "Страдна душо",
-    "page": 43,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 17,
-    "title": "Изгрей ти, мое Слънце",
-    "page": 44,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 18,
-    "title": "Шуми",
-    "page": 46,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 19,
-    "title": "Напред да ходим",
-    "page": 47,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 20,
-    "title": "На Учителя",
-    "page": 48,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 21,
-    "title": "Милосърдието",
-    "page": 49,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 22,
-    "title": "Сърдечен зов",
-    "page": 50,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 23,
-    "title": "Благословен Господ",
-    "page": 51,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 24,
-    "title": "За Небесния Цар",
-    "page": 52,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 25,
-    "title": "Време е да вървим",
-    "page": 53,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 26,
-    "title": "Поздрав на Учителя",
-    "page": 54,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 27,
-    "title": "Сине мой, пази живота",
-    "page": 55,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 28,
-    "title": "Росна капка",
-    "page": 56,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 29,
-    "title": "Аз съм бялото кокиче",
-    "page": 57,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 30,
-    "title": "Напред, чада, напред",
-    "page": 58,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 31,
-    "title": "Славейчета горски",
-    "page": 59,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 32,
-    "title": "Небето се отваря",
-    "page": 60,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 33,
-    "title": "О, Учителю благати",
-    "page": 61,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 34,
-    "title": "Дързост в Христа",
-    "page": 62,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 35,
-    "title": "Към Сион",
-    "page": 63,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 36,
-    "title": "Слънцето на Любовта",
-    "page": 64,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 37,
-    "title": "Слава Божия",
-    "page": 64,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 38,
-    "title": "Идват дни на радост",
-    "page": 65,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 39,
-    "title": "Към Рила",
-    "page": 65,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 40,
-    "title": "Псалом 91",
-    "page": 66,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 41,
-    "title": "На белия цвят",
-    "page": 67,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 42,
-    "title": "На Христа запейте",
-    "page": 68,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 43,
-    "title": "Нови дрехи",
-    "page": 69,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 44,
-    "title": "Дишай дълбоко",
-    "page": 70,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 45,
-    "title": "Тайната вечеря",
-    "page": 71,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 46,
-    "title": "Тебе поем",
-    "page": 71,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 47,
-    "title": "Ангел вопияше",
-    "page": 72,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 48,
-    "title": "Що е същността",
-    "page": 74,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 49,
-    "title": "Ти Си проявената Любов",
-    "page": 75,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 50,
-    "title": "Песен на гласните букви",
-    "page": 76,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 51,
-    "title": "Песни от Учителя",
-    "page": 77,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 52,
-    "title": "Фир-фюр-фен – Благославай",
-    "page": 78,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 53,
-    "title": "Изгрява Слънцето",
-    "page": 79,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 54,
-    "title": "Сила жива, изворна",
-    "page": 79,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 55,
-    "title": "Благост",
-    "page": 80,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 56,
-    "title": "Сладко медено",
-    "page": 81,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 57,
-    "title": "Блага дума",
-    "page": 82,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 58,
-    "title": "Венир Бенир",
-    "page": 83,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 59,
-    "title": "Сила жива",
-    "page": 84,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 60,
-    "title": "Скръбта си ти кажи",
-    "page": 85,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 61,
-    "title": "Грее, грее",
-    "page": 86,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 62,
-    "title": "Духът Божи",
-    "page": 87,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 63,
-    "title": "Махар Бену Аба",
-    "page": 88,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 64,
-    "title": "В мрак, тъмнота",
-    "page": 88,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 65,
-    "title": "В зорите на живота",
-    "page": 89,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 66,
-    "title": "Бог е Любов",
-    "page": 90,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 67,
-    "title": "Вехади",
-    "page": 91,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 68,
-    "title": "Вечер, сутрин",
-    "page": 91,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 69,
-    "title": "Имаше человек",
-    "page": 92,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 70,
-    "title": "Кажи ми Ти Истината",
-    "page": 94,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 71,
-    "title": "Благата песен",
-    "page": 94,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 72,
-    "title": "Мусала",
-    "page": 95,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 73,
-    "title": "Ходи, ходи",
-    "page": 96,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 74,
-    "title": "Тъги, скърби",
-    "page": 97,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 75,
-    "title": "Светъ л ден",
-    "page": 98,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 76,
-    "title": "Нева санзу",
-    "page": 99,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 77,
-    "title": "Киамет Зену",
-    "page": 100,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 78,
-    "title": "Давай, давай",
-    "page": 100,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 79,
-    "title": "Мисли, право мисли",
-    "page": 101,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 80,
-    "title": "В начало бе Словото",
-    "page": 102,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 81,
-    "title": "Вдъхновение",
-    "page": 103,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 82,
-    "title": "Добър ден",
-    "page": 103,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 83,
-    "title": "Весел ти бъди",
-    "page": 104,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 84,
-    "title": "Запали се огънят",
-    "page": 105,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 85,
-    "title": "Бершид Ба",
-    "page": 106,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 86,
-    "title": "Малкият извор",
-    "page": 107,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 87,
-    "title": "Всичко в живота е постижимо",
-    "page": 108,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 88,
-    "title": "Тъги, скърби са богатство",
-    "page": 108,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 89,
-    "title": "Духът ми шепне това",
-    "page": 109,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 90,
-    "title": "Сила, живот, здраве",
-    "page": 110,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 91,
-    "title": "Красив е животът",
-    "page": 111,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 92,
-    "title": "Химн на Великата душа",
-    "page": 112,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 93,
-    "title": "Песен на зората",
-    "page": 114,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 94,
-    "title": "При всичките условия",
-    "page": 115,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 95,
-    "title": "Мога да кажа",
-    "page": 116,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 96,
-    "title": "Аз смея да кажа",
-    "page": 117,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 97,
-    "title": "Да имаш вяра",
-    "page": 118,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 98,
-    "title": "В пустинята на живота",
-    "page": 118,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 99,
-    "title": "Мога да любя",
-    "page": 119,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 100,
-    "title": "Сила, здраве е богатство",
-    "page": 120,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 101,
-    "title": "Зов на планината",
-    "page": 120,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 102,
-    "title": "Цветята цъфтяха",
-    "page": 121,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 103,
-    "title": "Той иде",
-    "page": 122,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 104,
-    "title": "Песен на светлия път",
-    "page": 123,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 105,
-    "title": "До ще ден",
-    "page": 124,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 106,
-    "title": "Там далече",
-    "page": 125,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 107,
-    "title": "Денят иде",
-    "page": 126,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 108,
-    "title": "Пролет",
-    "page": 126,
-    "play": false,
-    "audio": "",
-    "interpret": ""
-  },
-  {
-    "id": 109,
-    "title": "Подмладяване",
-    "page": 127,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 13 - Podmladyavane.mp3",
     "interpret": ""
   },
   {
     "id": 110,
     "title": "Буря",
     "page": 128,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 24 - Burya.mp3",
     "interpret": ""
   },
   {
     "id": 111,
     "title": "Ранен час",
     "page": 129,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 16 - Ranen chas.mp3",
     "interpret": ""
   },
   {
     "id": 112,
     "title": "Радост и скръб",
     "page": 130,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 15 - Radost i skrab.mp3",
     "interpret": ""
   },
   {
     "id": 113,
     "title": "Пролетна песен",
     "page": 132,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 17 - Proletna pesen. Slancheva pesen. Pchelna mushica.mp3",
     "interpret": ""
   },
   {
     "id": 114,
     "title": "Слънчева песен – пчелна мушичка",
     "page": 133,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 17 - Proletna pesen. Slancheva pesen. Pchelna mushica.mp3",
     "interpret": ""
   },
   {
     "id": 115,
     "title": "Студът всичко дава",
     "page": 134,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 18 - Studat vsichko dava.mp3",
     "interpret": ""
   },
   {
     "id": 116,
     "title": "Духай, ветре",
     "page": 137,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 26 - Duhai, vetre.mp3",
     "interpret": ""
   },
   {
     "id": 117,
     "title": "Езикът на живата природа",
     "page": 138,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 19 - Ezikat na jivata priroda.mp3",
     "interpret": ""
   },
   {
     "id": 118,
     "title": "Правда",
     "page": 140,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 20 - Pravda.mp3",
     "interpret": ""
   },
   {
     "id": 119,
     "title": "Скитах се по гори и планини",
     "page": 141,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 21 - Skitah se po gori i planini.mp3",
     "interpret": ""
   },
   {
     "id": 120,
     "title": "Обетована земя",
     "page": 142,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 22 - Obetovana zemya.mp3",
     "interpret": ""
   },
   {
     "id": 121,
     "title": "Аин фаси",
     "page": 143,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 23 - Ain fasi.mp3",
     "interpret": ""
   },
   {
     "id": 122,
     "title": "А бре, синко",
     "page": 144,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 27 - A bre, sinko. Bashtina pesen. Ugledna moma.mp3    ",
     "interpret": ""
   },
   {
     "id": 123,
-    "title": "Бащина песен – Угледна мома",
+    "title": "Бащина песен - Угледна мома",
     "page": 145,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 27 - A bre, sinko. Bashtina pesen. Ugledna moma.mp3    ",
     "interpret": ""
   },
   {
-    "id": 124,
-    "title": "Ставай, дъще!",
+    "id": 123,
+    "title": "Ставай дъще",
     "page": 149,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntThree/Integral CD3 - 25 - Stavai, dashte.mp3",
     "interpret": ""
   },
   {
@@ -1771,24 +1003,24 @@
     "id": 126,
     "title": "Българска рапсодия",
     "page": 154,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 01 - Balgarska rapsodiya.mp3",
     "interpret": ""
   },
   {
     "id": 127,
     "title": "Българска идилия",
     "page": 158,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 02 - Balgarska idiliya.mp3",
     "interpret": ""
   },
   {
     "id": 128,
     "title": "He ли думах",
     "page": 162,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 04 - Ne li dumah.mp3",
     "interpret": ""
   },
   {
@@ -1803,8 +1035,8 @@
     "id": 130,
     "title": "Мирът иде",
     "page": 164,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 05 - Mirat ide!.mp3",
     "interpret": ""
   },
   {
@@ -1819,48 +1051,48 @@
     "id": 132,
     "title": "Марш на светлите сили",
     "page": 169,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 07 - Marsh na svetlite sili.mp3",
     "interpret": ""
   },
   {
     "id": 133,
     "title": "Берхан-Ази",
     "page": 170,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 08 - Berhan-Azi.mp3",
     "interpret": ""
   },
   {
     "id": 134,
     "title": "Песен на детето",
     "page": 171,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 10 - Pesen na deteto.mp3",
     "interpret": ""
   },
   {
     "id": 135,
     "title": "Към „Фир-фюр-фен“",
     "page": 173,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 14 - Kam Fir-fur-fen.mp3",
     "interpret": ""
   },
   {
     "id": 136,
     "title": "Малкият планински извор",
     "page": 174,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 13 - Malkiyat planinski izvor.mp3",
     "interpret": ""
   },
   {
     "id": 137,
     "title": "Кажи ми, светли Божи лъч",
     "page": 175,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 15 - Kaji mi, svetli Boji lach.mp3",
     "interpret": ""
   },
   {
@@ -1875,8 +1107,8 @@
     "id": 139,
     "title": "Кажи ми Ти Истината II",
     "page": 176,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 16 - Kaji mi Istinata.mp3",
     "interpret": ""
   },
   {
@@ -1884,23 +1116,23 @@
     "title": "Кажи ми Ти Истината III",
     "page": 177,
     "play": false,
-    "audio": "",
+    "audio": "./audio/IntFour/Integral CD4 - 16 - Kaji mi Istinata.mp3",
     "interpret": ""
   },
   {
     "id": 141,
     "title": "Аз мога да дишам",
     "page": 177,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 30 - Tema 40.mp3",
     "interpret": ""
   },
   {
     "id": 142,
     "title": "Вяра светла I",
     "page": 178,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 19 - Vyara svetla.mp3",
     "interpret": ""
   },
   {
@@ -1908,15 +1140,15 @@
     "title": "Вяра светла II",
     "page": 178,
     "play": false,
-    "audio": "",
+    "audio": "./audio/IntFour/Integral CD4 - 19 - Vyara svetla.mp3",
     "interpret": ""
   },
   {
     "id": 144,
     "title": "Милост, благост",
     "page": 179,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 27 - Milost, blagost.mp3",
     "interpret": ""
   },
   {
@@ -1931,24 +1163,24 @@
     "id": 146,
     "title": "Малката буболечица",
     "page": 180,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 21 - Malkata bubolechica.mp3",
     "interpret": ""
   },
   {
     "id": 147,
     "title": "Радост",
     "page": 181,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 26 - Radost.mp3",
     "interpret": ""
   },
   {
     "id": 148,
     "title": "Да бих Те слушал",
     "page": 182,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 23 - Da bih Te slushal.mp3",
     "interpret": ""
   },
   {
@@ -1971,24 +1203,24 @@
     "id": 151,
     "title": "Ме-хейн",
     "page": 183,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 28 - Me-hein.mp3",
     "interpret": ""
   },
   {
     "id": 152,
     "title": "Ме-хейн II",
     "page": 183,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 28 - Me-hein.mp3",
     "interpret": ""
   },
   {
     "id": 153,
     "title": "Играта на поточето",
     "page": 184,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 20 - Igrata na potocheto.mp3",
     "interpret": ""
   },
   {
@@ -2011,24 +1243,24 @@
     "id": 156,
     "title": "Молитва (Чуй, Господи)",
     "page": 187,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 20 - Molitva Chui, Gospodi!.mp3",
     "interpret": ""
   },
   {
     "id": 157,
     "title": "Песен за двете сестри",
     "page": 188,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 29 - Pesen za dvete sestri.mp3",
     "interpret": ""
   },
   {
     "id": 158,
     "title": "Пролетна песен",
     "page": 189,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 18 - Proletna pesen.mp3",
     "interpret": ""
   },
   {
@@ -2037,6 +1269,86 @@
     "page": 190,
     "play": false,
     "audio": "",
+    "interpret": ""
+  },
+  {
+    "id": 1591,
+    "title": "Тема 1",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 03 - Tema 3.mp3",
+    "interpret": ""
+  },
+  {
+    "id": 1592,
+    "title": "Тема 2",
+    "page": 190,
+    "play": false,
+    "audio": "",
+    "interpret": ""
+  },
+  {
+    "id": 1593,
+    "title": "Тема 3",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 06 - Tema 9.mp3",
+    "interpret": ""
+  },
+  {
+    "id": 1594,
+    "title": "Тема 4",
+    "page": 190,
+    "play": false,
+    "audio": "",
+    "interpret": ""
+  },
+  {
+    "id": 1595,
+    "title": "Тема 5",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 17 - Tema 23.mp3",
+    "interpret": ""
+  },
+  {
+    "id": 1596,
+    "title": "Тема 6",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 25 - Tema 32.mp3",
+    "interpret": ""
+  },
+  {
+    "id": 1597,
+    "title": "Тема 7",
+    "page": 190,
+    "play": false,
+    "audio": "",
+    "interpret": ""
+  },
+  {
+    "id": 1598,
+    "title": "Тема 8",
+    "page": 190,
+    "play": false,
+    "audio": "",
+    "interpret": ""
+  },
+  {
+    "id": 1599,
+    "title": "Тема 9",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 31 - Tema 42.mp3",
+    "interpret": ""
+  },
+  {
+    "id": 1600,
+    "title": "Тема 10",
+    "page": 190,
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 22 - Tema 28.mp3",
     "interpret": ""
   },
   {
@@ -2051,32 +1363,32 @@
     "id": 161,
     "title": "Мелодия 1 – Красив живот",
     "page": 193,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 09 -  Krasiv jivot, bezkraen pat.mp3",
     "interpret": ""
   },
   {
     "id": 162,
     "title": "Мелодия 2",
     "page": 194,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 12 - Melodiya 16.mp3",
     "interpret": ""
   },
   {
     "id": 163,
     "title": "Мелодия 3 – Когато се денят пробужда",
     "page": 194,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 24 - Melodiya 31.mp3",
     "interpret": ""
   },
   {
     "id": 164,
     "title": "Мелодия 4",
     "page": 195,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 11 - Melodiya15.mp3",
     "interpret": ""
   },
   {
@@ -2099,128 +1411,128 @@
     "id": 167,
     "title": "Първи Божествен ден",
     "page": 197,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 01 - Novoto bitie. Parvi bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 168,
     "title": "Втори Божествен ден",
     "page": 198,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 02 - Vtori Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 169,
     "title": "Трети Божествен ден",
     "page": 199,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 03 - Treti Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 170,
     "title": "Четвърти Божествен ден",
     "page": 200,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 04 - Chetvarti Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 171,
     "title": "Пети Божествен ден",
     "page": 201,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 05 - Peti Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 172,
     "title": "Шести Божествен ден",
     "page": 202,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 06 - Shesti Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 173,
     "title": "Седми Божествен ден",
     "page": 205,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 07 - Sedmi Bojestven den.mp3",
     "interpret": ""
   },
   {
     "id": 174,
     "title": "Вътрешният глас на Бога",
     "page": 206,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 10 - Vatreshniat glas na Boga.mp3",
     "interpret": ""
   },
   {
     "id": 175,
     "title": "Една вечна Истина, която е Бог на Любовта",
     "page": 207,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 11 - Edna vechna Istina, koiato e Bog na Lubovta (Meditacia).mp3",
     "interpret": ""
   },
   {
     "id": 176,
     "title": "Химн на Слънцето",
     "page": 208,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 08 - Himni na Slanceto.mp3",
     "interpret": ""
   },
   {
     "id": 177,
     "title": "Молитва (Вярвам в теб)",
     "page": 210,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 09 - Molitva Viarvam v Tebe, Gospodi.mp3",
     "interpret": ""
   },
   {
     "id": 178,
     "title": "Божията Любов ме озари",
     "page": 212,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 13 - Bojiata Lubov me ozari.mp3",
     "interpret": ""
   },
   {
     "id": 179,
     "title": "Песента на ангелите",
     "page": 213,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 12 - Pesen na angelite.mp3",
     "interpret": ""
   },
   {
     "id": 180,
     "title": "Господи, колко Те обичам",
     "page": 216,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 14 - Gospodi, kolko Te obicham!.mp3",
     "interpret": ""
   },
   {
     "id": 181,
     "title": "Кажи ми, светли Божи лъч II",
     "page": 217,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 16 - Kaji mi, svetli Boji lach.mp3",
     "interpret": ""
   },
   {
     "id": 182,
     "title": "Моето Слънце днес ще изгрее",
     "page": 218,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 15 - Moeto slance dnes ste izgree.mp3",
     "interpret": ""
   },
   {
@@ -2235,24 +1547,24 @@
     "id": 184,
     "title": "Ти ще сполучиш в живота",
     "page": 221,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 17 - Ti ste spoluchish v jivota.mp3",
     "interpret": ""
   },
   {
     "id": 185,
     "title": "Отче наш, не ни въвеждай в изкушение",
     "page": 222,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 18 - Otche nash, ne ni vavejdai v izkushenie.mp3",
     "interpret": ""
   },
   {
     "id": 186,
     "title": "Странник съм в този свят",
     "page": 223,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFive/Integral CD5 - 19 - Strannik sam v tozi sviat.mp3",
     "interpret": ""
   },
   {
@@ -2267,24 +1579,24 @@
     "id": 188,
     "title": "Мелодия 2 – В радостта на деня",
     "page": 226,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 12 - Melodiya 16.mp3",
     "interpret": ""
   },
   {
     "id": 189,
     "title": "Мелодия 4 – Озарение",
     "page": 227,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 11 - Melodiya15.mp3",
     "interpret": ""
   },
   {
     "id": 190,
     "title": "Молитва (Господи, Ти Си)",
     "page": 228,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 06 - Tema 9.mp3",
     "interpret": ""
   },
   {
@@ -2299,8 +1611,8 @@
     "id": 192,
     "title": "Марш на светлите сили II",
     "page": 232,
-    "play": false,
-    "audio": "",
+    "play": true,
+    "audio": "./audio/IntFour/Integral CD4 - 07 - Marsh na svetlite sili.mp3",
     "interpret": ""
   },
   {

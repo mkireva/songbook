@@ -2,6 +2,7 @@ import {
   Table,
   TableBody,
   TableCell,
+  TableFooter,
   TableHead,
   TableHeader,
   TableRow,
@@ -43,7 +44,11 @@ export default function TableofContent() {
             ))}
           </TableBody>
         </Table>
+        
       </ScrollArea>
+      <p className="text-center text-sm leading-tight text-primary dark:text-white tracking-tighter md:text-sm lg:leading-[1.1] mt-4">
+           Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
+        </p>
     </div>
   );
 }
