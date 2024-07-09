@@ -3,7 +3,6 @@ import {
   TableBody,
   TableCaption,
   TableCell,
-  TableFooter,
   TableHead,
   TableHeader,
   TableRow,
@@ -21,14 +20,15 @@ export default function TableofContent() {
       <h1 className="text-center text-2xl font-medium leading-tight text-muted-foreground dark:text-white tracking-tighter md:text-2xl lg:leading-[1.1]">
         {t("table.heading")}
       </h1>
-      <ScrollArea className="h-[600px] rounded-md border mt-10">
+      <ScrollArea className="h-[750px] rounded-md border mt-10">
         <Table>
+        <TableCaption className="my-4 text-sm">Интерпрет: Петър Ганев, Музика от Учителя - Интеграл</TableCaption>
           <TableHeader>
             <TableRow>
               <TableHead>{t("table.play")}</TableHead>
               <TableHead>{t("table.title")}</TableHead>
               <TableHead className="text-right">{t("table.page")}</TableHead>
-              {/* <TableHead className="text-right">Int</TableHead> */}
+            
             </TableRow>
           </TableHeader>
           <TableBody>
@@ -41,7 +41,6 @@ export default function TableofContent() {
                 <TableCell className="text-right text-sm">
                   {song.page}
                 </TableCell>
-                {/* <TableCell className="text-right">{song.interpret}</TableCell> */}
               </TableRow>
             ))}
           </TableBody>
@@ -50,7 +49,7 @@ export default function TableofContent() {
       </ScrollArea>
       <div className="text-center items-center mt-2">
         <Label className="text-xs text-muted-foreground" htmlFor="email">
-          Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
+          
         </Label>
       </div>
     </div>
