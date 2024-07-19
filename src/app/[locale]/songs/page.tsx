@@ -36,7 +36,7 @@ export default function Songs() {
         Интерпрет: Петър Ганев
       </div>
 
-      <div className="w-full rounded-[10px] flex flex-col xl-flex-row items-center p-6 xl:pl-20 xl:pr-20 gap-x-12">
+      <div className="w-full rounded-[10px] flex flex-col xl-flex-row items-center p-3 xl:pl-20 xl:pr-20 gap-x-12">
         {/* track container */}
         <div className="flex flex-1 w-full">
           {/* tracks */}
