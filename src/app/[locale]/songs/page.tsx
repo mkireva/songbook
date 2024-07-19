@@ -55,7 +55,7 @@ export default function Songs() {
                   <div className="md:w-3/4">
                     {song.play ? (
                       <AudioPlayer
-                        volume={50}
+                        volume={40}
                         volumePlacement="top"
                         preload="none"
                         className="custom-style album-player"
