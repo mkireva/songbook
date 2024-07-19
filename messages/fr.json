@@ -33,6 +33,7 @@
     "toggleNavigationMenu": "Basculer le menu de navigation",
     "home": "Accueil",
     "about": "Propos",
+    "music": "Sur la musique",
     "bookTitle": "Chants du Maître",
     "title": "Chants du Maître"
   },
@@ -63,6 +64,44 @@
       "play": "Jouer",
       "section": "Titre",
       "page": "page"
+    }
+  },
+  "Music": {
+    "title": "Pensées sur la musique",
+    "description": "Pensées sur la musique",
+    "header": "Pensées sur la musique",
+    "content": {
+      "paragraph1": "Nous comprenons la musique dans un sens légèrement différent. Je parle de musique consciente, pas de musique statique. Nous sortons du domaine de la musique mécanique et entrons dans l'organique, qui change constamment.",
+      "paragraph2": "Dans la nouvelle musique organique, vous apporterez d'abord l'harmonie à vos pensées, vos sentiments et vos actions. Ensuite, en tant que chanteurs, vous aurez un écho - de l'aide viendra de vous du monde invisible.",
+      "paragraph3": "Vous ne pouvez pas être musical si votre pensée n'est pas musicale, si vos sentiments ne sont pas musicaux, si vos actions ne sont pas musicales et si vous ne regardez pas tout ce qui se passe dans le monde de manière musicale. Nous vivons et nous mouvons en Dieu, et dans ce mouvement, il y a de l'harmonie.",
+      "paragraph4": "Une chanson ne doit pas seulement avoir une voix, mais ses tons doivent contenir du contenu et du sens. Pour qu'une personne chante ou joue, elle doit avoir une idée, un profond élan intérieur. Sans idée, il n'y a pas de chanson.",
+      "paragraph5": "La musique apporte de l'ampleur à l'âme d'une personne, de la force et du pouvoir à l'esprit, de la douceur et de la chaleur au cœur, et de la lumière et de la liberté à l'esprit.",
+      "paragraph6": "Chaque chanson doit porter de la lumière, de la chaleur et de la force. La nature valorise les tons qui ont de la lumière, de la chaleur et de la force. Ce sont une bénédiction divine pour le monde.",
+      "paragraph7": "La musique et le chant n'ont de sens que lorsqu'ils servent à ennoblir une personne. Grâce à la musique, vous pouvez créer un caractère en vous.",
+      "paragraph8": "Votre bonheur dans le monde dépend uniquement de la musique. Car la vie est un art complet - c'est la plus grande musique qui existe dans le monde.",
+      "paragraph9": "La Parole de Dieu - c'est la musique de la vie. Sans Amour, sans Sagesse et sans Vérité, la Parole ne peut être prononcée. Une personne ne peut pas parler musicalement si elle ne parle pas la Vérité.",
+      "paragraph10": "L'Amour - c'est la musique la plus élevée. Si vous ne pensez pas, vous ne pouvez pas chanter. Pensez correctement, acceptez seulement des pensées pures, afin de pouvoir bien chanter et jouer.",
+      "paragraph11": "Il est impensable de devenir un génie sans musique. Un génie est une personne qui est entrée dans le courant musical de la nature.",
+      "paragraph12": "La musique qui donne une disposition égale à l'esprit, au cœur et au corps est la musique de la nature. Par nature, j'entends le monde de l'harmonie, l'endroit d'où la musique est née.",
+      "paragraph13": "Il n'y a pas de chansons idéologiques sur Terre ; il n'y a que des chansons idéologiques parmi les anges.",
+      "paragraph14": "La nature travaille musicalement dans chaque direction. Il n'y a pas de plus grand art, pas de plus grande musique que l'art et la musique de la nature. Celui qui respecte les lois de la nature peut devenir chanteur.",
+      "paragraph15": "Le chanteur et le musicien doivent avoir une oreille bien développée pour saisir et transmettre correctement les tons qui viennent du monde Élevé.",
+      "paragraph16": "Quand Orphée jouait et chantait, toute la nature s'animait : plantes, oiseaux, animaux, rivières - tout commençait à bouger et à jouer. Tel doit être le vrai musicien.",
+      "paragraph17": "Je voudrais, lorsque vous sortez dans la nature, que vous l'écoutiez. Un musicien avec une oreille développée entendra là ce qu'il n'a jamais entendu dans sa vie.",
+      "paragraph18": "Vous ne vous êtes pas écoutés aux sources qui coulent - quelle musique agréable il y a entre les petits cailloux ! Allez dans la forêt - là vous entendrez de telles symphonies, des arias !",
+      "paragraph19": "La musique est l'un des moyens par lesquels la nature s'anime en vous - les pierres s'animeront, les arbres, les sources, tout autour s'animera.",
+      "paragraph20": "Je veux que vous vous familiarisiez avec la musique occulte, que vous tiriez force et inspiration de la nature vivante.",
+      "paragraph21": "La musique occulte est une musique d'images et de tableaux. Lorsque nous chantons, une image doit toujours être produite - pas des images mortes ordinaires, mais des vivantes.",
+      "paragraph22": "Qu'est-ce qui distingue la musique occulte de la musique ordinaire ? Sa douceur ultime, sa clarté, sa picturalité et ses images naturelles.",
+      "paragraph23": "Tout le monde doit s'efforcer d'avoir de la clarté et de la douceur dans son chant. Si vous chantez doucement et tranquillement, vous attirerez autour de vous des êtres de culture supérieure. Efforcez-vous de chanter doucement, car le chant doux ennoblit. Le chant fort est plus volitif.",
+      "paragraph24": "Dans la musique occulte, nous voulons chanter non pas comme les gens chantent, mais comme les anges chantent. Grâce à la musique, nous pouvons attirer les anges - ils s'intéresseront à nous. Vous leur direz : 'Nous étudions votre musique, nous voulons chanter comme vous.' Ils diront : 'Très bien, nous vous donnerons notre présence et notre assistance.'",
+      "paragraph25": "La nature a intégré en chaque personne une musique spécifique pour l'aider dans les difficultés de sa vie.",
+      "paragraph26": "Je veux que vous chantiez pour vous-même - je veux dire pas personnellement pour vous-même, mais pour le Divin en vous. Lorsque vous chantez une chanson pour vous-même, vous ressentirez une disposition de l'esprit.",
+      "paragraph27": "Toutes les écoles occultes du passé et d'aujourd'hui utilisent la musique comme méthode d'éducation et d'auto-éducation. Si une personne utilise l'une des méthodes musicales pour transformer sa conscience, pendant une demi-heure ou une heure, elle sera dans une autre gamme de vie, loin de ses difficultés. En ce moment, dans les conditions dans lesquelles nous vivons, un ton constant est nécessaire, et la musique est l'une des méthodes divines pour tonifier. Si quelqu'un chante l'exercice 'Dieu est Amour' comme il se doit, il se transformera - quelles que soient les douleurs qu'il a, elles disparaîtront, il sera joyeux, gai et rajeuni.",
+      "paragraph28": "La musique doit laisser chez une personne un sentiment joyeux dans un degré ascendant, un sentiment de créativité.",
+      "paragraph29": "Que chacun se dise : 'Je dois devenir musicien, je dois aimer, je dois penser correctement.'",
+      "paragraph30": "Il est dit dans les Écritures : 'Chantez et louez le Seigneur dans votre âme.' Je dis : chantez et louez le Seigneur avec votre esprit, avec votre âme, avec votre esprit et avec votre cœur. Tout en vous, de vos pieds aux cheveux de votre tête, doit chanter !",
+      "paragraph31": "Maître Pierre Deunov"
     }
   },
   "Footer": {

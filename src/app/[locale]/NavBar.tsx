@@ -44,6 +44,14 @@ export default function Component() {
           >
             {t("about")}
           </Link>
+          <Link
+            href="/music"
+            className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
+            prefetch={false}
+            onClick={handleMenuClose}
+          >
+            {t("music")}
+          </Link>
           <LanguageSwitcher />
           <TeamToggle />
         </nav>
