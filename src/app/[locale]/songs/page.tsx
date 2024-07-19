@@ -31,8 +31,9 @@ export default function Songs() {
           />
         </div>
       </div>
-      <div className="block text-muted-foreground text-sm font-semibold antialiased leading-normal text-center">
-        Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
+      <div className="block text-muted-foreground text-xs md:text-sm font-semibold antialiased leading-normal text-center">
+        Музика от Учителя - Интеграл <br />
+        Интерпрет: Петър Ганев
       </div>
 
       <div className="w-full rounded-[10px] flex flex-col xl-flex-row items-center p-6 xl:pl-20 xl:pr-20 gap-x-12">
