@@ -102,7 +102,7 @@ export default function Component() {
                   prefetch={false}
                   onClick={handleMenuClose}
                 >
-                  {t("thoughts")}
+                  {t("Thoughts")}
                   <ChevronRightIcon className="h-4 w-4" />
                 </Link>
               </DropdownMenuItem>
