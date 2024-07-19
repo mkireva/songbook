@@ -61,8 +61,8 @@
     "toggleNavigationMenu": "Toggle navigation menu",
     "home": "Home",
     "about": "About",
-    "music": "Аbout music",
-    "play": "Songs",
+    "Thoughts": "Аbout music",
+    "songs": "Songs",
     "bookTitle": "Songbook",
     "title": "Songs of the Master"
   },
@@ -92,7 +92,7 @@
       "paragraph12": "Munich, 2024"
     }
   },
-    "Music": {
+    "Thoughts": {
       "title": "Thoughts on Music",
       "description": "Thoughts on Music",
       "header": "Thoughts on Music",
@@ -130,7 +130,7 @@
         "paragraph31": "Teacher Peter Danov"
       }
     },
-    "Play": {
+    "Songs": {
       "title": " Songs"
     },
   "Footer": {

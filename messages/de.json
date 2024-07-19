@@ -40,8 +40,8 @@
     "toggleNavigationMenu": "Navigationsmenü umschalten",
     "home": "Startseite",
     "about": "Über das Buch",
-    "music": "Über Musik",
-    "play": "Lieder",
+    "Thoughts": "Über Musik",
+    "songs": "Lieder",
     "bookTitle": "Lieder des Meisters",
     "title": "Lieder des Meisters"
   },
@@ -70,7 +70,7 @@
       "paragraph12": "München, 2024"
     }
   },
-  "Music": {
+  "Thoughts": {
     "title": "Gedanken über die Musik",
     "description": "Gedanken über die Musik",
     "header": "Gedanken über die Musik",
@@ -108,7 +108,7 @@
       "paragraph31": "Petar Danov"
     }
   },
-  "Play": {
+  "Songs": {
     "title": "Lieder"
   },
   "Footer": {

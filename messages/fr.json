@@ -33,9 +33,9 @@
     "toggleNavigationMenu": "Basculer le menu de navigation",
     "home": "Accueil",
     "about": "Propos",
-    "music": "Sur la musique",
+    "Thoughts": "Sur la musique",
+    "songs": "Chants",
     "bookTitle": "Chants du Maître",
-    "play": "Chants",
     "title": "Chants du Maître"
   },
   "About": {
@@ -67,7 +67,7 @@
       "page": "page"
     }
   },
-  "Music": {
+  "Thoughts": {
     "title": "Pensées sur la musique",
     "description": "Pensées sur la musique",
     "header": "Pensées sur la musique",
@@ -105,7 +105,7 @@
       "paragraph31": "Maître Pierre Deunov"
     }
   },
-  "Play": {
+  "Songs": {
     "title": "Chants"
   },
   "Footer": {

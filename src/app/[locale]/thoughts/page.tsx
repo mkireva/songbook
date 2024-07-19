@@ -11,14 +11,14 @@ interface Params {
 export async function generateMetadata({
   params: { locale },
 }: Params): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "Music" });
+  const t = await getTranslations({ locale, namespace: "Thoughts" });
   return {
     title: t("title"),
   };
 }
 
-export default function About() {
-  const t = useTranslations("Music");
+export default function Thoughts() {
+  const t = useTranslations("Thoughts");
   return (
     <>
       <div className="flex flex-col min-h-screen items-center ">

@@ -4,7 +4,7 @@ import data from "data/data.json";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
-const App = () => {
+export default function Songs() {
   const handlePlay = () => {
     console.log("Audio started playing");
   };
@@ -13,7 +13,7 @@ const App = () => {
     console.log("Audio paused");
   };
 
-  const t = useTranslations("Play");
+  const t = useTranslations("Songs");
 
   return (
     <div>
@@ -21,7 +21,7 @@ const App = () => {
         {t("title")}
       </h2>
       <div className="w-full xl:flex items-center gap-x-4 justify-center">
-        <div className="relative mt-6 mb-2 mr-2 ml-2 md:w-1/2 h-[400px] items-center justify-center">
+        <div className="relative mt-6 mb-2 mr-2 ml-2 md:w-5/12 h-[300px] items-center justify-center">
           <Image
             src="/zigulka.jpg"
             fill
@@ -31,7 +31,7 @@ const App = () => {
           />
         </div>
       </div>
-      <div className="block mt-1 text-muted-foreground text-sm md:text-md font-semibold antialiased leading-normal text-center">
+      <div className="block text-muted-foreground text-sm font-semibold antialiased leading-normal text-center">
         Интерпрет: Петър Ганев, Музика от Учителя - Интеграл
       </div>
 
@@ -77,6 +77,4 @@ const App = () => {
       </div>
     </div>
   );
-};
-
-export default App;
+}

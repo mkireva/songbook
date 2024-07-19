@@ -45,20 +45,20 @@ export default function Component() {
             {t("about")}
           </Link>
           <Link
-            href="/music"
+            href="/thoughts"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
           >
-            {t("music")}
+            {t("Thoughts")}
           </Link>
           <Link
-            href="/play"
+            href="/songs"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
           >
-            {t("play")}
+            {t("songs")}
           </Link>
           <LanguageSwitcher />
           <TeamToggle />
@@ -97,23 +97,23 @@ export default function Component() {
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/Music"
+                  href="/thoughts"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}
                 >
-                  {t("music")}
+                  {t("thoughts")}
                   <ChevronRightIcon className="h-4 w-4" />
                 </Link>
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/Play"
+                  href="/songs"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}
                 >
-                  {t("play")}
+                  {t("songs")}
                   <ChevronRightIcon className="h-4 w-4" />
                 </Link>
               </DropdownMenuItem>
