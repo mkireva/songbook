@@ -87,6 +87,17 @@ export default function Component() {
                   <ChevronRightIcon className="h-4 w-4" />
                 </Link>
               </DropdownMenuItem>
+              <DropdownMenuItem onSelect={handleMenuClose}>
+                <Link
+                  href="/Music"
+                  className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
+                  prefetch={false}
+                  onClick={handleMenuClose}
+                >
+                  {t("music")}
+                  <ChevronRightIcon className="h-4 w-4" />
+                </Link>
+              </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
         </div>
