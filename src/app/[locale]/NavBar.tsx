@@ -52,6 +52,14 @@ export default function Component() {
           >
             {t("music")}
           </Link>
+          <Link
+            href="/play"
+            className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
+            prefetch={false}
+            onClick={handleMenuClose}
+          >
+            {t("play")}
+          </Link>
           <LanguageSwitcher />
           <TeamToggle />
         </nav>
@@ -95,6 +103,17 @@ export default function Component() {
                   onClick={handleMenuClose}
                 >
                   {t("music")}
+                  <ChevronRightIcon className="h-4 w-4" />
+                </Link>
+              </DropdownMenuItem>
+              <DropdownMenuItem onSelect={handleMenuClose}>
+                <Link
+                  href="/Play"
+                  className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
+                  prefetch={false}
+                  onClick={handleMenuClose}
+                >
+                  {t("play")}
                   <ChevronRightIcon className="h-4 w-4" />
                 </Link>
               </DropdownMenuItem>

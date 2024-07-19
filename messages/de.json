@@ -41,6 +41,7 @@
     "home": "Startseite",
     "about": "Über das Buch",
     "music": "Über Musik",
+    "play": "Lieder",
     "bookTitle": "Lieder des Meisters",
     "title": "Lieder des Meisters"
   },
@@ -106,6 +107,9 @@
       "paragraph30": "In der Heiligen Schrift wurde gesagt: „Singt und lobpreist den Herrn in eurer Seele.“ Ich aber sage: Singt und lobpreist den Herrn in eurem Geist, in eurem Herzen und in eurem Verstand. Alles in euch, von den Füßen bis zu den Haaren auf eurem Kopf, soll singen.",
       "paragraph31": "Petar Danov"
     }
+  },
+  "Play": {
+    "title": "Lieder"
   },
   "Footer": {
     "text": "Lieder des Meisters {now, date, medium}"

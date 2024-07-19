@@ -1,7 +1,6 @@
 import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
-import Image from "next/image";
 
 interface Params {
   params: {
@@ -180,9 +179,6 @@ export default function About() {
                 &quot;{t("content.paragraph30")}&quot;
               </p>
             </blockquote>
-
-
-
             <p className="text-md text-end">{t("content.paragraph31")}</p>
           </div>
         </div>

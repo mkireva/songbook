@@ -35,6 +35,7 @@
     "about": "Propos",
     "music": "Sur la musique",
     "bookTitle": "Chants du Maître",
+    "play": "Chants",
     "title": "Chants du Maître"
   },
   "About": {
@@ -103,6 +104,9 @@
       "paragraph30": "Il est dit dans les Écritures : 'Chantez et louez le Seigneur dans votre âme.' Je dis : chantez et louez le Seigneur avec votre esprit, avec votre âme, avec votre esprit et avec votre cœur. Tout en vous, de vos pieds aux cheveux de votre tête, doit chanter !",
       "paragraph31": "Maître Pierre Deunov"
     }
+  },
+  "Play": {
+    "title": "Chants"
   },
   "Footer": {
     "text": "Chants du Maître {now, date, medium}"

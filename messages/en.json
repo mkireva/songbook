@@ -62,6 +62,7 @@
     "home": "Home",
     "about": "About",
     "music": "Аbout music",
+    "play": "Songs",
     "bookTitle": "Songbook",
     "title": "Songs of the Master"
   },
@@ -91,7 +92,6 @@
       "paragraph12": "Munich, 2024"
     }
   },
-  
     "Music": {
       "title": "Thoughts on Music",
       "description": "Thoughts on Music",
@@ -129,6 +129,9 @@
         "paragraph30": "It is said in the Scriptures: 'Sing and praise the Lord in your soul.' I say: sing and praise the Lord with your spirit, with your soul, with your mind, and with your heart. Everything in you, from your feet to the hairs on your head, should sing!",
         "paragraph31": "Teacher Peter Danov"
       }
+    },
+    "Play": {
+      "title": " Songs"
     },
   "Footer": {
     "text": "Songs of the Master {now, date, medium}"
