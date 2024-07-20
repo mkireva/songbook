@@ -83,7 +83,7 @@
 }
 
 .custom-style.rap-container .rap-volume .rap-volume-btn.rap-volume-open path {
-  fill: #000;
+  @apply fill-[#394c72] dark:fill-[#656972]
 }
 .custom-style.rap-container .rap-volume .rap-volume-btn path {
   @apply fill-primary dark:fill-white
@@ -102,6 +102,7 @@
 
 .custom-style.rap-container .rap-volume .rap-volume-controls {
   background-color: #e4e4e4;
+  width: 20px;
 }
 
 .custom-style.rap-container .rap-volume .rap-volume-controls .rap-slider,
