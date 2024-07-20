@@ -64,16 +64,10 @@
 }
 
 .custom-style.rap-container {
-  color: #566574;
   border-radius: 20px;
 }
 
-.custom-style.rap-container .rap-slider .rap-progress {
-  background-color: #959595;
-}
-
 .custom-style.rap-container .rap-slider .rap-progress .rap-pin {
-  background-color: #566574;
   height: 12px;
   width: 12px;
   border-radius: 10px;
@@ -91,9 +85,19 @@
 .custom-style.rap-container .rap-volume .rap-volume-btn.rap-volume-open path {
   fill: #000;
 }
+.custom-style.rap-container .rap-volume .rap-volume-btn path {
+  @apply fill-primary dark:fill-white
+}
+
+.custom-style.rap-container .rap-pp-button svg path {
+  @apply fill-primary dark:fill-white}
+
+.custom-style.rap-container .rap-pp-button svg {
+  @apply  w-[16px]
+}
 
 .custom-style.rap-container .rap-volume .rap-volume-btn svg {
-  width: 22px !important;
+  @apply  w-[22px]
 }
 
 .custom-style.rap-container .rap-volume .rap-volume-controls {
@@ -106,5 +110,18 @@
   .rap-volume-controls
   .rap-slider
   .rap-progress {
-  width: 2px;
+    @apply w-[2px]
+}
+
+.album-player {
+  @apply !w-[110px] !min-w-0 text-center;
+}
+
+.album-player .rap-controls .rap-slider,
+.album-player .rap-controls .rap-total-time {
+  @apply hidden
+}
+
+.album-player .rap-controls .rap-current-time {
+  @apply text-muted-foreground dark:text-white
 }
