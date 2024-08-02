@@ -179,7 +179,28 @@ export default function Thoughts() {
                 &quot;{t("content.paragraph30")}&quot;
               </p>
             </blockquote>
-            <p className="text-md text-end">{t("content.paragraph31")}</p>
+            <blockquote className="p-4 my-4 bg-gray-50 border-l-4 border-gray-300 dark:border-gray-500 dark:bg-gray-800">
+              <p className="text-md italic font-medium leading-relaxed text-gray-900 dark:text-white">
+                &quot;{t("content.paragraph31")}&quot;
+              </p>
+            </blockquote>
+            <blockquote className="p-4 my-4 bg-gray-50 border-l-4 border-gray-300 dark:border-gray-500 dark:bg-gray-800">
+              <p className="text-md italic font-medium leading-relaxed text-gray-900 dark:text-white">
+                &quot;{t("content.paragraph32")}&quot;
+              </p>
+            </blockquote>
+            <blockquote className="p-4 my-4 bg-gray-50 border-l-4 border-gray-300 dark:border-gray-500 dark:bg-gray-800">
+              <p className="text-md italic font-medium leading-relaxed text-gray-900 dark:text-white">
+                &quot;{t("content.paragraph33")}&quot;
+              </p>
+            </blockquote>
+            <blockquote className="p-4 my-4 bg-gray-50 border-l-4 border-gray-300 dark:border-gray-500 dark:bg-gray-800">
+              <p className="text-md italic font-medium leading-relaxed text-gray-900 dark:text-white">
+                &quot;{t("content.paragraph34")}&quot;
+              </p>
+            </blockquote>
+            
+            <p className="text-md text-end">{t("content.paragraph35")}</p>
           </div>
         </div>
       </div>
