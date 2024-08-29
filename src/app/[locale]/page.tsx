@@ -15,7 +15,7 @@ export default function Home() {
           <h1 className="text-center text-4xl font-medium leading-tight text-primary dark:text-white tracking-tighter md:text-4xl lg:leading-[1.1] mt-6">
             {t("title")}
           </h1>
-          <h1 className="text-lg p-3 text-center mt-6">
+          <h1 className="text-md p-3 text-muted-foreground text-center mt-12">
           {t("publisher")} <br />
             <span className="space-x-2">
               <span>{t("publisher1")}</span>
@@ -23,7 +23,7 @@ export default function Home() {
               <span>{t("publisher2")}</span>
             </span>
           </h1> 
-          <h1 className="text-lg italic text-center text-muted-foreground mt-10">
+          <h1 className="text-lg italic text-center text-muted-foreground mt-2">
             {t("edition")}
           </h1>
           <h1 className="text-lg text-center text-muted-foreground mt-3">
