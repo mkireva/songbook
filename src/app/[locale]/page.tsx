@@ -15,14 +15,14 @@ export default function Home() {
           <h1 className="text-center text-4xl font-medium leading-tight text-primary dark:text-white tracking-tighter md:text-4xl lg:leading-[1.1] mt-6">
             {t("title")}
           </h1>
-          {/* <h1 className="text-lg p-3 text-center text-muted-foreground mt-6">
-            Издадени от <br />
+          <h1 className="text-lg p-3 text-center mt-6">
+          {t("publisher")} <br />
             <span className="space-x-2">
-              <span>Петър Ганев</span>
+              <span>{t("publisher1")}</span>
               <span className="font-bold text-2xl">·</span>
-              <span>Мария Кирева</span>
+              <span>{t("publisher2")}</span>
             </span>
-          </h1> */}
+          </h1> 
           <h1 className="text-lg italic text-center text-muted-foreground mt-10">
             {t("edition")}
           </h1>
