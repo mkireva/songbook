@@ -141,6 +141,6 @@
       "title": " Songs"
     },
   "Footer": {
-    "text": "Songs of the Master {now, date, medium}"
+    "text": "Songs of the Master {now, date, ::yyyy}"
   }
 }

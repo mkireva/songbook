@@ -120,6 +120,6 @@
     "title": "Песни от Учителя"
   },
   "Footer": {
-    "text": "Песни от Учителя {now, date, medium}"
+    "text": "Песни от Учителя {now, date, ::yyyy}"
   }
 }

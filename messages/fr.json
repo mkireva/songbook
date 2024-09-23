@@ -116,6 +116,6 @@
     "title": "Chants"
   },
   "Footer": {
-    "text": "Chants du Maître {now, date, medium}"
+    "text": "Chants du Maître {now, date, ::yyyy}"
   }
 }
