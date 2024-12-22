@@ -31,11 +31,11 @@ export default function Project() {
             <div className="flex flex-col md:flex-row items-center gap-8">
               <div className="flex-1 space-y-4">
                 <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl">
-                  Transformieren Sie Ihr tägliches Leben
+                  Liederbuch
                 </h2>
                 <p className="text-muted-foreground">
-                  Bereicheren Sie Ihre Musikpaxis mit diesen wunderbaren
-                  Musikübungen.
+                Nach der Vorbestellung erhalten Sie eine digitale Kopie des
+                Buches.
                 </p>
                 <div className="flex gap-2">
                   <Button size="lg">
@@ -46,10 +46,7 @@ export default function Project() {
                     Erfahre mehr
                   </Button>
                 </div>
-                <p className="text-xs text-muted-foreground">
-                  Nach der Vorbestellung erhalten Sie eine digitale Kopie des
-                  Buches.
-                </p>
+               
               </div>
               <div className="flex-1">
                 <Image
