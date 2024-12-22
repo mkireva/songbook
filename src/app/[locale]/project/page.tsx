@@ -53,7 +53,7 @@ export default function Project() {
               </div>
               <div className="flex-1">
                 <Image
-                  src="/cover7.jpg"
+                  src="/cover5.jpg"
                   alt="Product Image"
                   width={400}
                   height={400}
