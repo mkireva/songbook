@@ -34,8 +34,8 @@ export default function Project() {
                   Liederbuch
                 </h2>
                 <p className="text-muted-foreground">
-                Nach der Vorbestellung erhalten Sie eine digitale Kopie des
-                Buches.
+                  Nach der Vorbestellung erhalten Sie eine digitale Kopie des
+                  Buches.
                 </p>
                 <div className="flex gap-2">
                   <Button size="lg">
@@ -46,7 +46,6 @@ export default function Project() {
                     Erfahre mehr
                   </Button>
                 </div>
-               
               </div>
               <div className="flex-1">
                 <Image
@@ -69,8 +68,12 @@ export default function Project() {
               {[
                 "Alle überlieferten Lieder und Musikkompositionen",
                 "bulgarische-deutsch",
+                "lateinische Transliteration des Kyrillischen",
+                "Übersetzung der Liedtexte ins Deutsche",
                 "Kommentare zu den einzelnen Liedern",
-                "Wörterbuch der Musibegriffe und Index der Lieder",
+                "Wörterbuch der Musibegriffe",
+                "Index der Lieder",
+                "Eine hochwerige Ausgabe mit viel Liebe",
               ].map((feature, index) => (
                 <Card key={index} className="bg-background">
                   <CardContent className="flex items-center p-4">
