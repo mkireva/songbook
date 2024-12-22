@@ -5,6 +5,7 @@ import { ArrowRight, CheckCircle } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
+import Link from "next/link";
 
 interface Params {
   params: {
@@ -42,9 +43,11 @@ export default function Project() {
                     Vorbestellen
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
-                  <Button variant="outline" size="lg">
-                    Erfahre mehr
-                  </Button>
+                  <Link href="/about">
+                    <Button variant="outline" size="lg">
+                      Erfahren Sie mehr
+                    </Button>
+                  </Link>
                 </div>
               </div>
               <div className="flex-1">
