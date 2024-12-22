@@ -67,7 +67,7 @@ export default function Project() {
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {[
                 "Alle überlieferten Lieder und Musikkompositionen",
-                "bulgarische-deutsch",
+                "bulgarisch-deutsch",
                 "lateinische Transliteration des Kyrillischen",
                 "Übersetzung der Liedtexte ins Deutsche",
                 "Kommentare zu den einzelnen Liedern",
