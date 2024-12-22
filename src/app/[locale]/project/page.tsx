@@ -34,7 +34,7 @@ export default function Project() {
                   Lieder des Meisters
                 </h1>
                 <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-                  Transformieren Sie Ihr tägliches Leben, indem Sie Ihre
+                  Transformieren Sie Ihr Leben, indem Sie Ihre
                   tägliche Musikpaxis durch diese wunderbaren Musikübungen
                   bereichern.
                 </p>
