@@ -62,7 +62,7 @@ export default function Project() {
         <section className="w-full py-8 md:py-12 bg-muted">
           <div className="container px-4 md:px-6">
             <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl text-center mb-8">
-              Im Buch sind enthalten:
+              Das Buch enthält:
             </h2>
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {[
