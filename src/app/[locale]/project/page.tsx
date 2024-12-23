@@ -43,11 +43,6 @@ export default function Project() {
                     Vorbestellen
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
-                  <Link href="/about">
-                    <Button variant="outline" size="lg">
-                      Erfahren Sie mehr
-                    </Button>
-                  </Link>
                 </div>
               </div>
               <div className="flex-1">
@@ -57,6 +52,8 @@ export default function Project() {
                   width={400}
                   height={400}
                   className="rounded-lg shadow-xl"
+                  style={{ width: "auto", height: "auto" }}
+                  priority // Add this line
                 />
               </div>
             </div>
