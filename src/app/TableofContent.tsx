@@ -12,7 +12,6 @@ import { useTranslations } from "next-intl";
 import data from "data/data.json";
 import AudioPlayer from "./AudioPlayer";
 import { ScrollArea } from "components/scroll-area";
-import { Label } from "components/label";
 export default function TableofContent() {
   const t = useTranslations(); // Corrected
   return (

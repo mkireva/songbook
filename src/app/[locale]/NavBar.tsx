@@ -11,7 +11,7 @@ import { BookOpen } from "lucide-react";
 import React, { useState } from 'react';
 import { TeamToggle } from "components/themeToggler";
 import { Button } from "components/ui/button";
-import { LanguageSwitcher } from "./lang-switchter";
+import LocaleSwitcher from "components/LocalSwitcher";
 
 export default function Component() {
   const t = useTranslations("NavBar");
@@ -37,7 +37,7 @@ export default function Component() {
             {t("home")}
           </Link>
           <Link
-            href="/about"
+            href="/bg/about"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
@@ -45,7 +45,7 @@ export default function Component() {
             {t("about")}
           </Link>
           <Link
-            href="/thoughts"
+            href="/bg/thoughts"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
@@ -53,7 +53,7 @@ export default function Component() {
             {t("Thoughts")}
           </Link>
           <Link
-            href="/songs"
+            href="/bg/songs"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
@@ -61,18 +61,18 @@ export default function Component() {
             {t("songs")}
           </Link>
           <Link
-            href="/project"
+            href="/bg/project"
             className="text-sm hover:underline hover:underline-offset-4 data-[active=true]:underline data-[active=true]:underline-offset-4"
             prefetch={false}
             onClick={handleMenuClose}
           >
             {t("project")}
           </Link>
-          <LanguageSwitcher />
+          <LocaleSwitcher />
           <TeamToggle />
         </nav>
         <div className="flex items-center gap-2 lg:hidden ">
-          <LanguageSwitcher />
+        <LocaleSwitcher />
           <TeamToggle />
           <DropdownMenu open={menuOpen} onOpenChange={setMenuOpen}>
             <DropdownMenuTrigger asChild>
@@ -94,7 +94,7 @@ export default function Component() {
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/about"
+                  href="/bg/about"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}
@@ -105,7 +105,7 @@ export default function Component() {
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/thoughts"
+                  href="/bg/thoughts"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}
@@ -116,7 +116,7 @@ export default function Component() {
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/songs"
+                  href="/bg/songs"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}
@@ -127,7 +127,7 @@ export default function Component() {
               </DropdownMenuItem>
               <DropdownMenuItem onSelect={handleMenuClose}>
                 <Link
-                  href="/project"
+                  href="/bg/project"
                   className="flex w-full items-center justify-between py-2 px-4 text-sm font-medium hover:bg-muted"
                   prefetch={false}
                   onClick={handleMenuClose}

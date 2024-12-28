@@ -1,26 +1,10 @@
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "components/ui/button";
+import { Card, CardContent } from "components/ui/card";
 import { ArrowRight, CheckCircle } from "lucide-react";
 import { useTranslations } from "next-intl";
-import { getTranslations } from "next-intl/server";
-import { Metadata } from "next";
 
 
-interface Params {
-  params: {
-    locale: string;
-  };
-}
-
-export async function generateMetadata({
-  params: { locale },
-}: Params): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "project" });
-  return {
-    title: t("title"),
-  };
-}
 
 export default function Project() {
   const t = useTranslations("project");
