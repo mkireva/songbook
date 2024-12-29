@@ -5,7 +5,6 @@ import { ArrowRight, CheckCircle } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
-import Link from "next/link";
 
 interface Params {
   params: {
@@ -47,7 +46,7 @@ export default function Project() {
               </div>
               <div className="flex-1">
                 <Image
-                  src="/cover5.jpg"
+                  src="/cover-danov.jpg"
                   alt="Product Image"
                   width={400}
                   height={400}
@@ -71,9 +70,9 @@ export default function Project() {
                 "lateinische Transliteration des Kyrillischen",
                 "Übersetzung der Liedtexte ins Deutsche",
                 "Kommentare zu den einzelnen Liedern",
-                "Wörterbuch der Musibegriffe",
+                "Wörterbuch der Musikbegriffe",
                 "Index der Lieder",
-                "Eine hochwerige Ausgabe mit viel Liebe",
+                "Eine hochwertige Ausgabe mit viel Liebe",
               ].map((feature, index) => (
                 <Card key={index} className="bg-background">
                   <CardContent className="flex items-center p-4">
