@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Lieder des Meisters",
+    "title": "Lieder",
     "description": "Vierte überarbeitete und erweiterte Ausgabe, 2024. Die Ausgabe enthält Vokal- und Instrumentalkompositionen von Meister Peter Deunov und seinen Schülern.",
-    "siteName": "Lieder des Meisters",
+    "siteName": "Lieder",
     "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Liederbuch, Lieder des Meisters, Okkulte Musik, Weiße Bruderschaft, beinsasongs, beinsa duno songs, Vehadi, Aum, Meister Peter Deunov, Meister Petar Danov, Peter Ganev, Maria Kireva, Lieder des Meisters",
     "og": {
       "title": "Песни от Учителя",
@@ -19,7 +19,7 @@
     }
   },
   "Home": {
-    "title": "Lieder des Meisters",
+    "title": "Lieder",
     "description": "Die Ausgabe enthält vokale und instrumentale Kompositionen des spirituellen Lehrers Petar Danov und seinen Schülern.",
     "author": "Petar Danov",
     "publisher": "Herausgegeben von",
@@ -50,8 +50,8 @@
     "Thoughts": "Über die Musik",
     "songs": "Lieder",
     "project": "Projekt",
-    "bookTitle": "Lieder des Meisters",
-    "title": "Lieder des Meisters"
+    "bookTitle": "Lieder",
+    "title": "Lieder"
   },
   "About": {
     "title": "Über die okkulten Musikübungen",
@@ -154,6 +154,6 @@
     "title": "Lieder"
   },
   "Footer": {
-    "text": "Lieder des Meisters {now, date, ::yyyy}"
+    "text": "Lieder {now, date, ::yyyy}"
   }
 }
