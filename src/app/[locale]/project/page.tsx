@@ -1,28 +1,12 @@
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "components/ui/button";
+import { Card, CardContent } from "components/ui/card";
 import { ArrowRight, CheckCircle } from "lucide-react";
-import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
-import { Metadata } from "next";
 
-interface Params {
-  params: {
-    locale: string;
-  };
-}
+export default async function Project() {
+  const t = await getTranslations("project");
 
-export async function generateMetadata({
-  params: { locale },
-}: Params): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "project" });
-  return {
-    title: t("title"),
-  };
-}
-
-export default function Project() {
-  const t = useTranslations("project");
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <main className="flex-1">
@@ -31,15 +15,12 @@ export default function Project() {
             <div className="flex flex-col md:flex-row items-center gap-8">
               <div className="flex-1 space-y-4">
                 <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl">
-                  Liederbuch
+                  {t("content.songs")}
                 </h2>
-                <p className="text-muted-foreground">
-                  Nach der Vorbestellung erhalten Sie eine digitale Kopie des
-                  Buches.
-                </p>
+                <p className="text-muted-foreground">{t("content.exemplar")}</p>
                 <div className="flex gap-2">
                   <Button size="lg">
-                    Vorbestellen
+                    {t("content.button")}
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
                 </div>
@@ -61,18 +42,18 @@ export default function Project() {
         <section className="w-full py-8 md:py-12 bg-muted">
           <div className="container px-4 md:px-6">
             <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl text-center mb-8">
-              Das Buch enthält:
+              {t("content.content")}
             </h2>
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {[
-                "Alle überlieferten Lieder und Musikkompositionen",
-                "bulgarisch-deutsch",
-                "lateinische Transliteration des Kyrillischen",
-                "Übersetzung der Liedtexte ins Deutsche",
-                "Kommentare zu den einzelnen Liedern",
-                "Wörterbuch der Musikbegriffe",
-                "Index der Lieder",
-                "Eine hochwertige Ausgabe mit viel Liebe",
+                t("content.allSongs"),
+                t("content.bulgarianGerman"),
+                t("content.latinTransliteration"),
+                t("content.translation"),
+                t("content.comments"),
+                t("content.dictionary"),
+                t("content.index"),
+                t("content.qualityEdition"),
               ].map((feature, index) => (
                 <Card key={index} className="bg-background">
                   <CardContent className="flex items-center p-4">
@@ -87,7 +68,7 @@ export default function Project() {
         <section className="w-full py-8 md:py-12">
           <div className="container px-4 md:px-6">
             <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl text-center mb-4">
-              Über das Projekt
+              {t("content.projectInfo")}
             </h2>
             <div className="grid gap-6 lg:grid-cols-2 items-start">
               <div className="space-y-4">
@@ -100,6 +81,10 @@ export default function Project() {
                 <p>{t("content.paragraph6")}</p>
                 <p>{t("content.paragraph7")}</p>
                 <p>{t("content.paragraph8")}</p>
+                <Button size="lg">
+                  {t("content.button")}
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Button>
               </div>
             </div>
           </div>

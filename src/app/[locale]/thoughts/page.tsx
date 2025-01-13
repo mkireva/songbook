@@ -1,24 +1,10 @@
-import { useTranslations } from "next-intl";
+
 import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
 
-interface Params {
-  params: {
-    locale: string;
-  };
-}
 
-export async function generateMetadata({
-  params: { locale },
-}: Params): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "Thoughts" });
-  return {
-    title: t("title"),
-  };
-}
-
-export default function Thoughts() {
-  const t = useTranslations("Thoughts");
+export default async function Thoughts() {
+  const t = await getTranslations("Thoughts");
   return (
     <>
       <div className="flex flex-col min-h-screen items-center ">

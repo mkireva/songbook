@@ -1,10 +1,22 @@
 {
-  "root": {
-    "metadata": {
-      "title": "Chants du Maître",
+  "metadata": {
+    "title": "Chants du Maître",
+    "description": "Quatrième édition révisée et augmentée, 2024. L'édition contient des compositions vocales et instrumentales du Maître Petar Danov et de ses élèves.",
+    "siteName": "Chants du Maître",
+    "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Recueil de chants, Chants du Maître, Fraternité Blanche Universelle, beinsasongs, beinsa duno songs, Musique occulte, Vehadi, Aum, Maître Peter Deunov, Maître Petar Danov, Peter Ganev, Maria Kireva, Chants du Maître",
+    "og": {
+      "title": "Songs of the Master",
       "description": "Quatrième édition révisée et augmentée, 2024. L'édition contient des compositions vocales et instrumentales du Maître Petar Danov et de ses élèves.",
-      "siteName": "Chants du Maître",
-      "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Recueil de chants, Chants du Maître, Fraternité Blanche Universelle, beinsasongs, beinsa duno songs, Musique occulte, Vehadi, Aum, Maître Peter Deunov, Maître Petar Danov, Peter Ganev, Maria Kireva, Chants du Maître"
+      "siteName": "Chants du Maître"
+    }
+  },
+  "root": {
+    "About": {
+      "title": "За книгата",
+      "description": "Окултните музикални упражнения.",
+      "author": "Петър Дънов",
+      "edition": "Четвърто преработено и допълнено издание",
+      "year": "2024"
     }
   },
   "Home": {
@@ -71,6 +83,7 @@
       "page": "page"
     }
   },
+
   "Thoughts": {
     "title": "Pensées sur la musique",
     "description": "Pensées sur la musique",
@@ -111,6 +124,36 @@
       "paragraph33": "...",
       "paragraph34": "...",
       "paragraph35": "Maître Pierre Deunov"
+    }
+  },
+  "project": {
+    "title": "À propos du projet de livre",
+    "description": "Projet de livre pour la publication des compositions musicales de l'enseignant spirituel Petar Danov",
+    "header": "À propos du projet de livre",
+    "content": {
+      "songs": "Chants",
+      "button": "Précommander",
+      "exemplar": "Après la précommande, vous recevrez une copie numérique du livre.",
+      "content": "Le livre contient",
+      "allSongs": "Toutes les chansons et compositions musicales transmises",
+      "bulgarianGerman": "Bulgare-Allemand",
+      "latinTransliteration": "Translittération latine du cyrillique",
+      "translation": "Traduction des paroles des chansons en allemand",
+      "comments": "Commentaires sur les chansons individuelles",
+      "dictionary": "Dictionnaire des termes musicaux",
+      "index": "Index des chansons",
+      "qualityEdition": "Une édition de haute qualité réalisée avec beaucoup de soin",
+      "projectInfo": "À propos du projet",
+      "paragraph1": "Chers amateurs de la musique de Petar Danov,",
+      "paragraph2": "Il y a environ sept ans, nous – quelques amis et personnes partageant les mêmes idées – avons commencé à travailler sur un projet visant à rendre les compositions musicales de Petar Danov accessibles à un public plus large. Ainsi, une collection de ses chansons et œuvres instrumentales, ainsi que des chansons de ses élèves en bulgare et en allemand, a été créée.",
+      "paragraph3": "Elle contient, en plus de la partition musicale et du texte littéraire en bulgare, une translittération latine du cyrillique, ainsi qu'une traduction des paroles des chansons en allemand. L'objectif était de fournir une traduction aussi précise que possible tout en étant agréable à l'oreille, ce qui soutient la compréhension du contenu spirituel de la musique et des idées qui la sous-tendent. Une traduction métrique des paroles des chansons en allemand a été délibérément évitée, car elle déformerait l'image sonore des chansons.",
+      "paragraph4": "Grâce à cette collection, vous pouvez découvrir toutes les mélodies et chansons transmises de Petar Danov et les intégrer dans votre pratique musicale quotidienne. L'avantage de cette collection est qu'elle vous fournira un aperçu plus précis des idées derrière ces chansons grâce à la traduction des paroles individuelles, vous permettant ainsi de mieux comprendre ce que vous chantez.",
+      "paragraph5": "La collection n'existe actuellement qu'en version numérique. Cependant, nous aimerions conclure ce projet par la publication d'un livre de haute qualité qui ne plaira pas seulement à nous, mais surtout à tous ceux qui utiliseront ce livre. À cette fin, nous avons contacté l'imprimerie qui imprime pour un éditeur de musique allemand renommé et aimerions y commander le livre.",
+      "paragraph6": "Cependant, cette dernière étape implique certains coûts financiers. Vous pouvez soutenir l'achèvement du projet en précommandant le livre. Une fois qu'un nombre suffisant de précommandes aura été effectué, nous passerons une commande pour la première édition auprès de l'imprimerie et enverrons ensuite les livres précommandés. Tous ceux qui précommanderont le livre recevront immédiatement une copie numérique du livre après avoir passé commande.",
+      "paragraph7": "Vous pouvez faire une précommande via le lien mentionné ci-dessus.",
+      "paragraph8": "Nous tenons à vous remercier pour votre soutien aimable et vous souhaitons de plaisantes activités musicales collectives et individuelles.",
+      "paragraph11": "Maria Kireva",
+      "paragraph12": "Munich, 2024"
     }
   },
   "Songs": {

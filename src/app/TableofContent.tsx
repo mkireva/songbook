@@ -12,9 +12,9 @@ import { useTranslations } from "next-intl";
 import data from "data/data.json";
 import AudioPlayer from "./AudioPlayer";
 import { ScrollArea } from "components/scroll-area";
-import { Label } from "components/label";
 export default function TableofContent() {
   const t = useTranslations(); // Corrected
+
   return (
     <div className="md:w-1/2 p-4 mx-auto sm:p-0 my-10">
       <h1 className="text-center text-2xl font-medium leading-tight text-muted-foreground dark:text-white tracking-tighter md:text-2xl lg:leading-[1.1]">
@@ -33,8 +33,9 @@ export default function TableofContent() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {data.map((song) => (
-              <TableRow key={song.id}>
+            
+            {data.map((song, index) => (
+              <TableRow key={song.id || index}>
                 <TableCell>
                   {song.play ? <AudioPlayer audio={song.audio ?? ""} /> : null}
                 </TableCell>

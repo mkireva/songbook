@@ -1,77 +1,83 @@
 import { NextIntlClientProvider } from "next-intl";
-import type { Metadata } from "next";
-import { GeistSans } from 'geist/font/sans';
+import { GeistSans } from "geist/font/sans";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { getMessages, getTranslations } from "next-intl/server";
-import { Locale } from "lib/locales"; 
+import { Locale } from "lib/locales";
 import { ThemeProvider } from "components/theme-provider";
+import { notFound } from "next/navigation";
+import { routing } from "i18n/routing";
 
 const geistsans = GeistSans;
-type Props = {
-  children: React.ReactNode;
-  params: {
-    locale: "bg" | "en" | "de" | "fr";
-  };
-};
 
-const RootLayout: React.FC<Props> = async ({
+export default async function RootLayout({
   children,
-  params: { locale },
-}) => {
+  params,
+}: Readonly<{
+  children: React.ReactNode;
+  params: { locale: Locale };
+}>) {
+  const { locale } = await params;
+  if (!routing.locales.includes(locale as Locale)) {
+    notFound();
+  }
+  // Providing all messages to the client
+  // side is the easiest way to get started
   const messages = await getMessages();
   return (
     <html lang={locale} suppressHydrationWarning>
       <body className={geistsans.className} suppressHydrationWarning>
-      <ThemeProvider
-            attribute="class"
-            defaultTheme="system"
-            enableSystem
-            themes={["light", "dark"]}
-            disableTransitionOnChange
-          >
-        <NextIntlClientProvider messages={messages}>
-          <NavBar />
-          {children}
-          <Analytics />
-          <Footer />
-        </NextIntlClientProvider>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          themes={["light", "dark"]}
+          disableTransitionOnChange
+        >
+          <NextIntlClientProvider messages={messages}>
+            <NavBar />
+            {children}
+            <Analytics />
+            <Footer />
+          </NextIntlClientProvider>
         </ThemeProvider>
       </body>
     </html>
   );
-};
+}
 
-export async function generateMetadata({
-  params: { locale },
-}: {
-  params: { locale: Locale };
-}): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "root" });
-
-  return {
-    metadataBase: new URL("https://beinsasongs.eu/"), // Replace with your actual domain
-    title: t("metadata.title"),
-    description: t("metadata.description"),
-    openGraph: {
-      title: t("metadata.title"),
-      description: t("metadata.description"),
-      type: "website",
-      locale: locale,
-      url: "https://beinsasongs.eu/",
-      siteName: t("metadata.siteName"),
-      images: "opengraph-image.png",
-    },
-    twitter: {
-      card: "summary_large_image",
-      site: "@beinsasongs",
-      title: t("metadata.title"),
-      description: t("metadata.description"),
-      images: "opengraph-image.png",
-    },
+interface GenerateMetadataProps {
+  params: {
+    locale: string;
   };
 }
 
-export default RootLayout;
+
+interface GenerateMetadataProps {
+  params: {
+    locale: string;
+  };
+}
+
+export async function generateMetadata({ params }: GenerateMetadataProps) {
+  const resolvedParams = await params; // Await the params object
+  const locale = resolvedParams.locale; // Now access locale
+
+  // Pass the locale explicitly to getTranslations
+  const t = await getTranslations({ locale, namespace: 'metadata' });
+
+  return {
+    metadataBase: new URL('https://beinsasongs.eu'),
+    title: t('title'),
+    description: t('description'),
+    openGraph: {
+      title: t('og.title'),
+      description: t('og.description'),
+      images: [
+        '/opengraph-image.png'
+      ]
+    },
+  };
+}
