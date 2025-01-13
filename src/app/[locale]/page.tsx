@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import TableofContent from "../TableofContent";
 import { Button } from "components/ui/button";
+import { getTranslations } from "next-intl/server";
 
 export default function Home() {
   const t = useTranslations("Home");
@@ -67,7 +67,8 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <TableofContent />
+      {/* <TableofContent /> */}
     </div>
   );
 }
+

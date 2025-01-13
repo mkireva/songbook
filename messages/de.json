@@ -1,11 +1,15 @@
 {
+  "metadata": {
+    "title": "Lieder des Meisters",
+    "description": "Vierte überarbeitete und erweiterte Ausgabe, 2024. Die Ausgabe enthält Vokal- und Instrumentalkompositionen von Meister Peter Deunov und seinen Schülern.",
+    "siteName": "Lieder des Meisters",
+    "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Liederbuch, Lieder des Meisters, Okkulte Musik, Weiße Bruderschaft, beinsasongs, beinsa duno songs, Vehadi, Aum, Meister Peter Deunov, Meister Petar Danov, Peter Ganev, Maria Kireva, Lieder des Meisters",
+    "og": {
+      "title": "Песни от Учителя",
+      "description": "Vierte überarbeitete und erweiterte Ausgabe, 2024. Die Ausgabe enthält Vokal- und Instrumentalkompositionen von Meister Peter Deunov und seinen Schülern."
+    }
+  },
   "root": {
-    "metadata": {
-      "title": "Lieder des Meisters",
-      "description": "Vierte überarbeitete und erweiterte Ausgabe, 2024. Die Ausgabe enthält Vokal- und Instrumentalkompositionen von Meister Peter Deunov und seinen Schülern.",
-      "siteName": "Lieder des Meisters",
-      "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Liederbuch, Lieder des Meisters, Okkulte Musik, Weiße Bruderschaft, beinsasongs, beinsa duno songs, Vehadi, Aum, Meister Peter Deunov, Meister Petar Danov, Peter Ganev, Maria Kireva, Lieder des Meisters"
-    },
     "About": {
       "title": "Über das Buch",
       "description": "Okkulte musikalische Übungen.",
@@ -79,6 +83,19 @@
     "description": "Buchprojekt zur Herausgabe der musikalischen Kompositionen des spirituellen Lehrers Petar Danov",
     "header": "Über das Buchprojekt",
     "content": {
+      "songs": "Lieder",
+      "button": "Vorbestellen",
+      "exemplar": "Nach der Vorbestellung erhalten Sie eine digitale Kopie des Buches.",
+      "content": "Das Buch enthält",
+      "allSongs": "Alle überlieferten Lieder und Musikkompositionen",
+      "bulgarianGerman": "bulgarisch-deutsch",
+      "latinTransliteration": "lateinische Transliteration des Kyrillischen",
+      "translation": "Übersetzung der Liedtexte ins Deutsche",
+      "comments": "Kommentare zu den einzelnen Liedern",
+      "dictionary": "Wörterbuch der Musikbegriffe",
+      "index": "Index der Lieder",
+      "qualityEdition": "Eine hochwertige Ausgabe mit viel Liebe",
+      "projectInfo": "Über das Projekt",
       "paragraph1": "Liebe Liebhaber der Musik von Petar Danov,",
       "paragraph2": "Vor ca. sieben Jahren haben wir – ein paar Freunde und Gleichgesinnte – die Arbeit an einem Projekt begonnen, welches sich zum Ziel gesetzt hat, Petar Danovs musikalische Kompositionen einem breiteren Publikum zugänglich zu machen. So ist ein Sammelband mit seinen Liedern und Instrumentalwerken, sowie mit den Liedern seiner Schüler in bulgarischer und deutscher Sprache entstanden.",
       "paragraph3": "Er enthält neben dem Notentext und dem literarischen Text in bulgarischer Sprache eine latinisierte Transliteration des Kyrillischen sowie eine Übersetzung der Liedtexte in deutscher Sprache. Hierbei war das Ziel, eine möglichst genaue und zugleich wohlklingende deutsche Übersetzung darzubieten, die das Verständnis des geistigen Gehalts der Musik und der ihr zugrunde liegenden Ideen unterstützt. Von einer metrischen, in deutscher Sprache zu singenden Übersetzung der Liedtexte wurde bewusst abgesehen, weil sie das Klangbild der Lieder verfälschen würde. ",
@@ -126,10 +143,10 @@
       "paragraph28": "Jeder soll sich selbst sagen: „Ich soll Musiker werden, ich soll lieben, ich soll recht denken.“",
       "paragraph29": "Die Liebe, das ist die höchste Musik. Wenn ihr nicht denken könnt, könnt ihr nicht singen. Denkt recht, empfangt nur reine Gedanken, damit ihr gut singen und spielen könnt.",
       "paragraph30": "In der Heiligen Schrift wurde gesagt: „Singt und lobpreist den Herrn in eurer Seele.“ Ich aber sage: Singt und lobpreist den Herrn in eurem Geist, in eurem Herzen und in eurem Verstand. Alles in euch, von den Füßen bis zu den Haaren auf eurem Kopf, soll singen.",
-      "paragraph31": "...",
-      "paragraph32": "...",
-      "paragraph33": "...",
-      "paragraph34": "...",
+      "paragraph31": "In der Musik gibt es inkommensurable Töne und ein Überfließen der Tönen in den Takten. Aber all jene Prozesse, die bewusst sind, sind inkommensurabel, sie unterliegen unserer Macht, wir gehen mit ihnen um. Also müssen alle unsere Ideen inkommensurabel sein!",
+      "paragraph32": "Wenn wir also zu den inkommensurablen und den kommensurablen Dingen kommen, müssen wir wissen, dass sie zwei Ideen im Leben sind, die sich grundlegend voneinander unterscheiden. Die Weisheit, die Wahrheit, alle Tugenden sind inkommensurable Größen.",
+      "paragraph33": "Die gute Musik sollte auch inkommensurabel sein. Ihr könnt ohne Takte noch nicht singen. Wisst ihr, was es bedeutet, ohne Takte zu singen? Nehmen wir an, ihr singt einen Ton – einen Viertelton oder einen Halbton oder einen Ganzton. Glaubt ihr, dass er aufhört zu tönen, nachdem ihr diesen Ton entsprechend seiner Dauer gesungen habt? Nein, es gibt gewisse Töne in der Natur, die ständig tönen. Es gibt Planeten, die speziell auf den Ton C gestimmt wurden. Es gibt Sonnen, die mit dem Ton G tönen. Diese Musik wird in der Natur ständig gespielt. Manchmal stimmen wir einen Ton an und unterbrechen ihn dann. Hat er dann aufgehört zu tönen? Nein, der Planet, zu dem dieser Ton gehört, zum Beispiel der Ton C bewegt sich ständig auf und ab in diesen Kreisen vom oberen C zum unterenC. In diesem Ton gibt es aber eine große Vielfalt. Was sind die besten Lieder in der Musik? Diejenigen Sänger, die Musik studieren, beginnen am Anfang, die Töne mechanisch zu reproduzieren; gelangen sie jedoch zu der okkulten Musik, müssen sie jeden Ton als lebendig betrachten und wissen, dass jeder Ton, nachdem sie aufgehört haben zu singen, weiter tönt. Nachdem ihr einem Musiker, einem hervorragenden Geiger, zugehört habt, werdet ihr, wenn ihr nach Hause zurückkehrt, weiterhin seinem Spiel zuhören. Auf der Bühne hat das Spiel aufgehört, aber es ist in dir am Abend, am Morgen – eine ganze Woche lang – gegenwärtig. Das heißt, diese Stimmen werden ununterbrochen gepredigt, bis sie sich irgendwo verlieren. Denn in der okkulten Musik müssen die Töne weitertönen. Und jeder von euch muss innerlich singen. Wenn ihr nicht lernt, innerlich, in euren Seelen zu singen, könnt ihr nicht singen lernen. Folglich sind einige von euch bessere Musiker; sie haben in der Vergangenheit mehr gelernt, so dass es leichter ist, sich zu manifestieren; andere hingegen haben nicht gelernt, sie  müssen es jetzt lernen. Musik wird für einen inneren Impuls benötigt. Sie ist ein Ruhepol. Nur durch Musik könnt ihr eurer Seele Ruhe verschaffen.",
+      "paragraph34": "Wie können wir nun diese Melodie [Imaše čelovek] übersetzen? Sie gehört zu den inkommensurablen Größen. Würde man es anders singen, in Takten, käme etwas anderes dabei heraus. Nicht dass es in den okkulten Liedern keine Takte gäbe, aber wann immer ihr einem okkulten Lied Ausdruck verleihen möchtet, müsst ihr notwendigerweise in das Lied die inkommensurablen Takte bringen, das heißt, solche Takte, die in eurem Verstand nicht genau definiert sind. In diesem Lied werde ich nicht auf die Takte schauen, sondern auf die Bedeutung. Wenn die Takte in einem Lied die Oberhand gewinnen, verliert das Lied seinen Sinn. Der Takt muss innen sein. Er ist ein inkommensurabler Maßstab.",
       "paragraph35": "Petar Danov"
     }
   },

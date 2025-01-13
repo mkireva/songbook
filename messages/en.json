@@ -1,147 +1,159 @@
 {
-  "root": {
-    "metadata": {
-      "title": "Songs of the Master",
-      "description": "Fourth revised and expanded edition, 2024. The edition contains vocal and instrumental compositions by Master Petar Danov and his disciples.",
-      "siteName": "Songs of the Master",
-      "keywords": "Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, Songbook, Songs of the Master, beinsasongs, beinsa duno songs, Occult Music, White Brotherhood, Songs of the White Brotherhood, Vehadi, Aum, Master Peter Deunov, Master Petar Danov, Peter Ganev, Maria Kireva, Lieder des Meisters"
-    },
-    "About": {
-      "metadata": {
-        "title": "About the occult musical exercises",
-        "description": "About the occult musical exercises.",
-        "siteName": "About the book"
-      }
+  "metadata": {
+    "title": "Songs from the Teacher",
+    "description": "Fourth revised and expanded edition, 2024. The edition contains vocal and instrumental compositions by Teacher Petar Dunov and his students.",
+    "siteName": "Songs from the Teacher",
+    "keywords": "Petar Dunov, Beinsa Duno, Teacher Petar Dunov, Songs from the Teacher, White Brotherhood, White Brotherhood Bulgaria, Universal White Brotherhood, Occult music, Vehadi, Aum, Peter Ganev, Maria Kireva, Peter Deunov, Beinsa Duno, Beinsa Douno, Petar Danov, beinsasongs, beinsa duno songs, Occult Music, Vehadi, Aum, Master Peter Deunov, Master Peter Deunov, Peter Ganev, Maria Kireva, Songs of the Master",
+    "og": {
+      "title": "Songs from the Teacher",
+      "description": "Fourth revised and expanded edition, 2024. The edition contains vocal and instrumental compositions by Teacher Petar Dunov and his students."
     }
   },
-
+  "root": {
+    "About": {
+      "title": "About the Book",
+      "description": "Occult musical exercises.",
+      "author": "Petar Dunov",
+      "edition": "Fourth revised and expanded edition",
+      "year": "2024"
+    }
+  },
   "Home": {
-    "title": "Songs of the Master",
-    "description": "The edition contains vocal and instrumental compositions by Master Petar Danov and his disciples.",
-    "author": "Petar Danov",
-    "publisher": "Edited by",
+    "title": "Songs from the Teacher",
+    "publisher": "Published by",
     "publisher1": "Peter Ganev",
     "publisher2": "Maria Kireva",
+    "description": "The edition contains vocal and instrumental compositions by Teacher Petar Dunov and his students.",
+    "author": "Petar Dunov",
     "edition": "Fourth revised and expanded edition",
     "year": "2024",
-    "content": "The edition contains vocal and instrumental compositions by Teacher Petar Danov and his disciples.",
+    "content": "The edition contains vocal and instrumental compositions by Teacher Petar Dunov and his students.",
     "interactive_pdf": "The interactive PDF document offers:",
     "feature1": "Alphabetical content for mobile devices with navigation to each song",
-    "feature2": "Navigation from the document content",
+    "feature2": "Navigation from the document's content",
     "feature3": "Navigation from the title of each song to the corresponding explanatory note",
     "feature4": "Reverse navigation from the explanatory note of the song to the corresponding song",
     "feature5": "Alphabetical index with navigation to the corresponding song",
     "download": "Download"
   },
-
-  "data": [
-    {
-      "id": "1",
-      "title": "Song One",
-      "page": 1,
-      "play": true,
-      "audio": "audio1.mp3",
-      "interpret": "Artist One"
-    },
-    {
-      "id": "2",
-      "title": "Song Two",
-      "page": 2,
-      "play": false,
-      "audio": "audio2.mp3",
-      "interpret": "Artist Two"
-    }
-  ],
   "table": {
-    "heading": "Content",
-    "play": "Play",
+    "heading": "Contents",
+    "play": "Listen",
     "title": "Title",
-    "page": "Page",
-    "interpret": "Interpret"
+    "page": "p.",
+    "interpret": "Interpretation"
   },
-
   "NavBar": {
     "toggleNavigationMenu": "Toggle navigation menu",
     "home": "Home",
-    "about": "About",
-    "Thoughts": "Thoughts",
+    "about": "About the Book",
+    "Thoughts": "About Music",
     "songs": "Songs",
     "project": "Project",
     "bookTitle": "Songbook",
-    "title": "Songs of the Master"
+    "title": "Songs from the Teacher"
   },
-
   "About": {
-    "title": "About the occult musical exercises",
-    "description": "Occult Musical Exercises",
+    "title": "Occult Musical Exercises",
+    "description": "Occult musical exercises",
     "header": "About the Occult Musical Exercises",
     "content": {
-      "paragraph1": "From the distance of time, the need for an adequate presentation of the vocal and instrumental compositions of spiritual Teacher Petar Danov becomes increasingly urgent. Such a presentation should comply with both professional musical requirements and the principles and laws that he sets as their theoretical foundation. This edition meets this need and, based on the above requirements, offers some new editorial solutions to the musical questions that this music poses.",
-      "paragraph2": "The occult musical exercises, as the the Teacher himself calls his musical compositions, appear as a musical method in the Occult School of the White Brotherhood, which he opened in 1922. He perceives these exercises as examples of occult music – a new musical genre based on the principles and laws of a new, multidimensional musical theory and aesthetics. They are consistently developed in the numerous lectures he gives to his disciples until 1944. The primary purpose of these exercises is the individual and group spiritual work of the disciples in their path of spiritual development and cultivation of spiritual qualities and virtues. The method of giving them is extremely creative and collective. During a lecture, the Teacher plays a new musical exercise on his violin or sings it, which the disciples learn, and the attending musicians notate. At other times, he gives a specific word or sentence for them to compose their own melody. Some songs, which have been developed and perfected, are preserved in more than one version; others are deliberately left unfinished as tasks for future generations and epochs. The musical forms resulting from the characteristic creative principle of the School's work, the perception of the song as a process, are a condition for the possibility of future culture. Some compositions, including the cycle New Being, are born during special meetings the Teacher has with selected disciples; others are inspired by specific experiences of the occult disciple. Many melodies and compositions, however, remain unrecorded. An example of this is the solo violin piece The Prodigal Son, which the Teacher plays for the first time at a disciple concert in America and repeats several times before his disciples thirty years after the first performance. According to the memories of the attending musicians, the performed composition was not subject to any notation. Musical-natural pictures, meditative melodies, micro-intervals, continuous changes of tonalities, rhythms, states, and moods, arranged in a composition based on the principle of absolute freedom as a quality of occult music, were heard.",
-      "paragraph3": "The occult musical exercises, in which the archetypes manifest as living musical forms directly and without interruption, inevitably exceed the boundaries imposed by musical notation. It is a convention that free organic performance, seeking the meaning of the content and the archetype, is always free to leave. The living musical forms, inhabiting the highest realms of Being, where there is a natural harmonious combination between word and music, are difficult to subject to the limitation coming from the framework of fixed measures, sizes, note durations, tempos, and dynamics. This is one of the moments that determine their sacred character. Any notation of the musical archetype appears as its natural boundary. This is also evidenced by the fact that the Teacher never notates his musical compositions himself but works directly with the musical samples, which he transmits through live performance, implanting them directly into the soul. Thus, he elevates the disciple to the realm of the archetype, leaving him to find its adequate expression, for which the soul has a clear idea. The case where the disciples repeatedly sing the exercise Vehadi, continuously varying the way of its performance under the Teacher's specific instructions until achieving a satisfactory result, close to its archetype, clearly illustrates this position. Thus, the Teacher creates a bridge to the world of ideas that these musical samples inhabit. Directly affecting the soul, they open the spaces of the living musical substance embedded in the musical exercise. The notation and limitation of the occult musical exercises naturally oppose their sacredness as their essence and lead to their profanation to some extent. A clear example of this is all those compositions like the cycle New Being, which the Teacher does not allow to be notated immediately but insists that they be well learned first before being recorded. Another example is songs like I Will Rejoice, for whose notations he symbolically says: 'We sewed her a dress, but it is a bit tight for her.' Why living musical forms are difficult to notate can also be illustrated with the following example: when the disciples ask the Teacher to repeat a given exercise so they can record it accurately, he plays it differently each time. This is due, according to him, to the musical samples, which, reaching the realm of the physical world, undergo certain changes, i.e., they find a different concrete expression each time. Fixing and limiting them in notation transforms the living musical substance, turning it into a finished, measurable form in which the creative principle and the principle of absolute freedom cannot manifest. They cease to be alive and spiritualized because the living connection with the Divine is broken. An example of this is the song Tell Me the Truth, which has reached us in three different versions. It is an example of an immeasurable exercise, deliberately left unfinished by the Teacher.",
-      "paragraph4": "The first complete edition of the musical compositions of Petar Danov, titled \"Songs from the Teacher\", was published by Maria Todorova in 1949 based on the approved notations of the musical exercises. Its preparation and printing took place under extremely difficult political and social conditions, not allowing for thorough editorial work on the prepared edition. Printing errors were also made, which she subsequently corrected in her personal copy. However, with its printing, the Teacher's instruction to preserve and transmit his musical compositions for future generations was fulfilled. The approved notations of the songs, which he himself separated and transmitted for safekeeping in a special folder, as well as the notebook called a ledger, where they were subsequently copied, have not reached us. We also do not have recordings of the Teacher's voice and violin, which would give a clearer and fuller idea of the sound of occult music. Only a few archival recordings of group performances of individual songs have reached us. Also preserved are earlier, incomplete publications of the Teacher's songs, such as the polyphonic edition by Hristo Darzev and the collection Songs from the Teacher edited by Kiril Ikonomov, composed of two parts, published in 1938 and 1944. The only available written originals that can claim completeness are the above-described edition prepared by Maria Todorova, as well as a facsimile copy of her personal copy, containing the corrections she made to some printing errors. However, the errata sheet for the same edition is missing.",
-      "paragraph5": "The present edition continues the line of respect and sacred attitude towards the Teacher's music of previous generations of musicians, preserving its authenticity and spirit. It consists of three parts:",
-      "list1": "Brotherly songs: these are all vocal compositions created mainly before ositions created mainly before 1922. Most of them are born from the joint work between the Teacher and his disciples. Therefore, many of the melodies or texts in this part of the collection are created by disciples based on his ideas. Some of the melodies and texts are borrowed from songs of Protestant evangelical churches; the repertoire also includes popular church-Slavonic chants. During this period, the practice of polyphonic choral performance of the songs was common. This section also includes songs from his direct disciples, created after the Teacher's departure.",
-      "list2": "Songs from the Teacher: these are all compositions created between 1922 and 1944 in the Occult School of the White Brotherhood. Here, the author of the melody and text is the Teacher. Many of the compositions are in the sacred language, which he calls Vatan.",
-      "list3": "Songs published after 1944: these are all compositions published after the Teacher's departure in 1944. This section contains both vocal and many purely instrumental compositions and melodies. Special attention here deserves the cycle of seven songs New Being – a new trend in occult music, presenting its cosmic, cosmological, and cosmogonic aspects. This cycle reaches us thanks to the opera singer Tsvetana-Liliana Tabakova, who graduated in singing from the École Normale de Musique de Paris, with whom the Teacher worked specially. In her presence, he gives some of his most sacred compositions.",
-      "paragraph6": "An appendix containing examples of contemporary creativity, as a continuation of the creative impulse given by the Teacher during the School, has been added to the collection.",
-      "paragraph7": "The editorial line of the present edition builds on the editorial work of previous editions, based on the following principles:",
+      "paragraph1": "From the distance of time, the need for an adequate presentation of the vocal and instrumental compositions of Teacher Petar Dunov becomes increasingly urgent. As such, it should comply with both professional musical requirements and the principles and laws he sets as their theoretical foundation. This edition meets this need and, based on the above requirements, offers some new editorial solutions to the musical questions that this music raises.",
+      "paragraph2": "The 'Occult Musical Exercises,' as the Teacher himself calls his musical compositions, appear as a musical method in the Occult School of the White Brotherhood, opened by him in 1922. He perceives these exercises as samples of occult music—a new musical genre based on the principles and laws of a new, multi-dimensional musical theory and aesthetics. They have been consistently developed in the numerous lectures he held for his students until 1944. The primary purpose of these exercises is the individual and group spiritual work of the students in their path of spiritual development and cultivation of spiritual qualities and virtues. The method of presenting them is extremely creative and collective. During a lecture, the Teacher plays a new musical exercise on his violin or sings it, which the students memorize, while the attending musicians notate it. At other times, he gives a specific word or phrase for them to compose their own melody. Some songs that have been developed and refined are preserved in more than one version; others have consciously remained unfinished as tasks for future generations and eras. The musical forms resulting from the characteristic creative principle of the School's work, the understanding of the song as a process, are a condition for the possibility of future culture. Some compositions, including the cycle 'The New Being,' are born during special meetings the Teacher has with selected students; others arise from the specific experiences of the occult student. However, many melodies and compositions remain unwritten. An example of this is the piece for solo violin 'The Prodigal Son,' which the Teacher first played at a student concert in America and repeated several times for his students thirty years after the first performance. According to the memories of the attending musicians, the played composition was not subject to any notation. Musical-natural images, meditative melodies, micro-intervals, continuous changes of tonalities, rhythms, states, and moods sounded in a composition, at the foundation of which stands the principle of absolute freedom as a quality of occult music.",
+      "paragraph3": "The 'Occult Musical Exercises,' in which the archetypes manifest directly and uninterruptedly as living musical forms, inevitably exceed the boundaries imposed on them by musical notation. It is a convention that free organic performance, seeking the meaning of the content and archetype, is always free to leave. 'Living musical forms,' inhabiting the highest realms of Being, where there is a natural harmonious combination of word and music, are difficult to submit to the limitations imposed by the framework of fixed measures, time signatures, note durations, tempo, and dynamics. This is one of the factors determining their sacred character. Every notation of the musical archetype serves as its natural boundary. This is also evidenced by the fact that the Teacher never notates his musical compositions himself but works directly with the musical samples, which he transmits through live performance, implanting them directly into the soul. Thus, he elevates the student into the realm of the archetype, allowing them to find their adequate expression, of which the soul has a clear idea. The case in which the students repeatedly sing the exercise 'Vehadi,' continuously varying under the specific instructions of the Teacher the way of its performance until achieving a satisfactory result that approaches its archetype, clearly illustrates this situation. In this way, the Teacher creates a bridge to the world of ideas that these musical samples inhabit. Acting directly on the soul, they open the spaces of the living musical substance embedded in the musical exercise. The notational fixation and limitation of the occult musical exercises naturally oppose the sacredness as their essence and lead to a certain degree of their profanation. A clear example of this is all those compositions like the cycle 'The New Being,' which the Teacher does not allow to be notated immediately but insists that they be well memorized first before being recorded. Another example is songs like 'I Will Rejoice,' for whose notations he symbolically says: 'We tailored her a dress, but it fits her a bit tight.' Why living musical forms are difficult to submit to notation can also be illustrated with the following example: when students ask the Teacher to repeat a given exercise so they can record it accurately, he plays it differently each time. According to him, this is due to the musical samples, which, upon reaching the realm of the physical world, undergo certain changes, i.e., they find a different specific expression each time. The fixation and limitation in notation transform the living musical substance, turning it into a finished, measurable form, in which the creative principle and the principle of absolute freedom cannot manifest. They cease to be alive and animated because the living connection with the Divine is interrupted. An example of this is the song 'Tell Me the Truth,' which has reached us in three different versions. It is a model of an immeasurable exercise, consciously left unfinished by the Teacher.",
+      "paragraph4": "The first complete edition of the musical compositions of Teacher Petar Dunov titled 'Songs from the Teacher' was published by Maria Todorova in 1949 based on the notations of the musical exercises approved by him. Its preparation and printing occurred under extremely difficult political and social conditions, which did not allow for an in-depth editorial work on the prepared edition. Printing errors were also allowed, which she later corrected in her personal copy. However, with its printing, the Teacher's charge to preserve and pass on his musical compositions for future generations has been fulfilled. The notations approved by him of the songs, which he himself had set aside and passed for safekeeping in a special folder, as well as the music notebook, called a 'tefter,' where they were later copied, have not reached us. We also do not have recordings of the Teacher's voice and violin, which would provide a clearer and fuller idea of the sound of occult music. Only a few archival recordings of group performances of individual songs have reached us. Earlier, incomplete publications of the Teacher's songs have also been preserved, such as the multi-voice edition by Hristo Darzev and the collection 'Songs from the Teacher' edited by Kiril Ikonomov, compiled in two parts published in 1938 and 1944. The only available written originals that can claim completeness are the above-mentioned edition prepared by Maria Todorova, as well as a phototypic copy of her personal copy containing her corrections of some printing errors. However, the list of errors for the same edition is missing.",
+      "paragraph5": "This edition continues the line of respect and sacred attitude towards the Teacher's music of previous generations of musicians, preserving its authenticity and spirit. It is composed of three parts:",
+      "list1": "Brotherly Songs: these are all vocal compositions created mainly before 1922. Most of them are born from the collaborative work between the Teacher and his students. Therefore, many of the melodies or texts in this part of the collection were created by students based on his ideas. Some of the melodies and texts are borrowed from songs of Protestant evangelical churches; the repertoire also includes popular church Slavonic chants. During this period, it was common practice to perform the songs in multi-voice choral arrangements. This section also includes songs from his direct students created after the Teacher's departure.",
+      "list2": "Songs from the Teacher: these are all compositions created between 1922 and 1944 in the Occult School of the White Brotherhood. Here, the Teacher is the author of both the melody and the text. Many of the compositions are in a sacred language that he calls 'vatan.'",
+      "list3": "Songs published after 1944: these are all compositions published after the Teacher's departure in 1944. This part contains both vocal and many purely instrumental compositions and melodies. Special attention here is given to the cycle of seven songs 'The New Being' – a new trend in occult music, presenting its cosmic, cosmological, and cosmogonical aspects. This cycle has reached us thanks to the opera singer Tsvetana-Lilyana Tabakova, who graduated in singing from the École Normale de Musique de Paris, with whom the Teacher worked specifically. In her presence, he gives some of his most sacred compositions.",
+      "paragraph6": "An addition has also been made to the collection, containing examples of contemporary creativity, as a continuation of the creative impulse given by the Teacher during the School.",
+      "paragraph7": "The editorial line of this edition builds upon the editorial work of previous editions, based on the following principles:",
       "list4": "Preservation of the originals and authenticity of the musical compositions;",
-      "list5": "Professionalization of musical notation by establishing conventions in musical orthography according to the rules of music theory;",
+      "list5": "Professionalization of the notation by establishing conventions in musical notation according to the rules of music theory;",
       "list6": "Consistent application of the same to the musical text.",
-      "paragraph8": "This editorial line required rethinking the structural organization of some songs, minimal modernization of their lyrical text according to the lexical and syntactic norms of contemporary Bulgarian language, as well as corrections in musical orthography. For some songs with an asymmetrical structure and distinctly free rhythm, non-mensural notation was introduced, corresponding to the concept of immeasurable quantities in occult music. In the editorial process, all available primary sources were used, which led to the elimination of numerous errors and inadequate editorial decisions that arose in previous editions, affecting parts of songs or entire songs. This process was also supported by the expert opinion of some brotherly musicians, who improved the objectivity and authenticity of the proposed musical text with specific notes. For the first time, editorial notes documenting and justifying the editorial changes made to the musical text were introduced. Through the extensive use of ossia, the variants of the songs corresponding to the specific notes of the direct disciple-musicians of the Teacher were indicated, which were also noted in the explanatory notes. The same was done with the variants of the lyrical texts. All explanatory notes were revised and supplemented. Some factual errors were also corrected. The mixing of authentic melodies with contemporary texts, as a practice of previous editions, was avoided, with the authentic melodies preserved in their original form in the main part of the collection, and contemporary creativity placed in the appendix at the end of the collection. The tempo indications in the songs should be considered conditional, as they are not originally set by the Teacher but represent the view of contemporary musicians on them.",
-      "paragraph9": "The aim of the present edition is to present the Teacher's musical compositions in a professional manner. It is addressed to both professional musicians and amateurs, i.e., to all those who wish to touch the beauty and uniqueness of this music. The great variety of tonalities, from the simplest to those with six signs, the associated color perception, the correspondence between music and text, often the free rhythm of the melody, the variety of equal and unequal rhythms, the open intervals, the predominant immeasurable quantities – aspects of occult music that the Teacher speaks about in his lectures – determine its powerful multi-layered impact on the listener and performer. It is a sound reflection of the freedom and asymmetry of natural lines, expressed through the structural features of melodic constructions and the absence of a symmetrical scheme in phrasing. Their constituent element includes both small consecutive intervals, such as in the songs Vehadi and Neva Sanzu, and large intervals, reaching an octave, as in the song The Inner Voice of God. There are also intervals characteristic of Eastern music, such as the hiatus or the augmented fourth interval used in the song Berhan-Azi. The presence of non-mensural songs, for which the Teacher himself recommends being notated without bar lines, is an additional sign of absolute freedom in occult music. The immeasurable as a measure of the Divine is its main structural quality, freeing it from ultimate definiteness and completeness. Therefore, it can find its adequate expression only in immeasurable measures, which become its internal, immeasurable measure. In general, the measurement, in which classical musicians usually feel compelled to place each melody, is foreign to it. However, there are compositions with a classical structure of the melody, such as God is Love, Fir-fur-fen, Me-hein, Venir Benir, whose natural harmonic sound resembles chorales by J.S. Bach. They would suggest harmonization in a baroque style. A special place in occult music is given to the typically Bulgarian unequal rhythms, such as 7/8, 5/8, 8/8, and melodic intonations. Brought to their primary purity, they are elevated to examples of the new musical genre. Thus, the Teacher not only opens the closed circle of Bulgarian music but also gives it a new ascending, spiral direction. The natural result of this opening and liberation is the transformation of the Bulgarian. Many other examples can be given, concerning the diversity in the melodic, harmonic, or rhythmic structure of the occult musical exercises, as well as many other questions related to their specifics. This would be a suitable task for a future extensive study of occult music, which would discover and explore the hidden keys and codes within it. The condition for the possibility of its true understanding and adequate interpretation, however, remains the deep knowledge of both the lectures and the principles on which it is based. The lectures and occult experiences show its context, and it cannot be separated from the entirety and unity of the Teaching. They serve as its coordinate system, allowing for its further enrichment with meaning and content, as well as for enriching its experience and possible interpretations. It is important for all harmonizations and orchestrations to preserve the most essential in occult music – its spirit. It can neither serve for entertainment nor is it entertainment in itself, but it is an expression of our sacred attitude towards the Creator. Only then will occult music reveal its riches in full.",
+      "paragraph8": "This editorial line necessitated a reconsideration of the structural organization of some songs, minimal modernization of their lyrical text according to the lexical and syntactic norms of contemporary Bulgarian language, as well as corrections in the musical notation. For some songs with asymmetric structure and pronounced free rhythm, a mensural notation was introduced, corresponding to the concept of immeasurable quantities in occult music. In the editorial process, all available primary sources were used, which led to the removal of numerous errors and inadequate editorial decisions that arose in previous editions, affecting parts of songs or entire songs. This process was also aided by the expert opinions of some brotherly musicians who improved the objectivity and authenticity of the proposed musical text with specific remarks. For the first time, editorial notes were introduced, documenting and justifying the editorial changes made to the musical text. Through the extensive use of ossia, the variants of the songs corresponding to the specific notes of the Teacher's direct student-musicians were marked, which were also noted in the explanatory notes. The same approach was taken with the variants of the lyrical texts. All explanatory notes were revised and supplemented. Some factual errors were also removed. The mixing of authentic melodies with contemporary texts, as a practice of previous editions, was avoided, with the authentic melodies preserved in their original form in the main part of the collection, while contemporary creativity was placed in the addition at the end of the collection. The tempo markings in the songs should be considered conditional, as they were not originally set by the Teacher but represent the views of contemporary musicians on them.",
+      "paragraph9": "The goal of this edition is to present the Teacher's musical compositions in a professional manner. It is addressed both to professional musicians and amateurs, i.e., to all those who wish to touch the beauty and uniqueness of this music. The great variety of tonalities, from the simplest to those with six sharps, the associated color perception, the correspondence between music and text, the often free rhythm of the melody, the variety of regular and irregular rhythms, the open intervals, the prevailing immeasurable quantities – aspects of occult music that the Teacher speaks about in his lectures – determine its powerful multi-layered impact on the listener and performer. It is a sonic reflection of the freedom and asymmetry of natural lines, expressed through the structural features of melodic constructions and through the absence of a symmetrical scheme in phrasing. Their constituent element includes both small sequential intervals, as in the songs 'Vehadi' and 'Neva sanzu,' as well as large intervals reaching an octave, as in the song 'The Inner Voice of God.' There are also intervals characteristic of Eastern music, such as the hiatus or the augmented fourth interval used in the song 'Berhan-Azi.' The presence of mensural songs, for which the Teacher himself recommends to be notated without bar lines, is an additional mark of absolute freedom in occult music. The immeasurable as a measure for the Divine is its fundamental structural quality, freeing it from final determination and completeness. Therefore, it can find its adequate expression only in immeasurable measures, which become its internal, immeasurable measure. Overall, the sizing in which classical musicians are usually forced to place each melody is a foreign phenomenon to it. However, there are compositions with classical melodic structure such as 'God is Love,' 'Fir-fur-fen,' 'Me-hayn,' 'Venir Benir,' whose natural harmonic sound resembles chorales by J.S. Bach. They would suggest a harmonization in baroque style. Special attention in occult music is given to typical Bulgarian irregular rhythms, such as 7/8, 5/8, 8/8, and melodic intonations. Brought to their primal purity, they have been elevated to models of the new musical genre. In this way, the Teacher not only opens the closed circle of Bulgarian music but gives it a new ascending, spiral direction. A natural result of this opening and liberation is the transformation of the Bulgarian. Many other examples can be given regarding the diversity in the melodic, harmonic, or rhythmic structure of the occult musical exercises, as well as many questions can be raised regarding their specificity. This would be a suitable task for a future extensive study of occult music, which would uncover and explore the hidden keys and codes within it. A condition for the possibility of its true understanding and adequate interpretation, however, remains the profound knowledge of both the lectures and the principles on which it is based. The lectures and occult experiences show its context, and it cannot be separated from the totality and unity of the Teaching. They serve as its coordinate system, allowing for its further enrichment with meaning and content, as well as enriching its experience and possible interpretations. It is important for all harmonizations and orchestrations to preserve the most essential in occult music – its spirit. It can neither serve for entertainment nor is it entertainment itself, but is an expression of our sacred relationship with the Creator. Only then will occult music reveal its riches in fullness.",
       "paragraph10": "On behalf of the entire publishing team, we wish you pleasant individual and collective activities with this unearthly, cosmic music! God is Love.",
       "paragraph11": "Maria Kireva",
       "paragraph12": "Munich, 2024"
     }
   },
-    "Thoughts": {
-      "title": "Thoughts on Music",
-      "description": "Thoughts on Music",
-      "header": "Thoughts on Music",
-      "content": {
-        "paragraph1": "We understand music in a slightly different sense. I speak of conscious music, not static music. We are moving out of the realm of mechanical music and entering the organic, which is constantly changing.",
-        "paragraph2": "In the new organic music, you will first bring harmony to your thoughts, feelings, and actions. Then, as singers, you will have a resonance - help will come to you from the Invisible world.",
-        "paragraph3": "You cannot be musical if your thought is not musical, if your feelings are not musical, if your actions are not musical, and if you do not look at everything happening in the world musically. We live and move in God, and in this movement, there is harmony.",
-        "paragraph4": "A song must not only have a voice, but its tones must contain content and meaning. For a person to sing or play, they must have some idea, some deep inner impulse. Without an idea, there is no song.",
-        "paragraph5": "Music brings breadth to the soul of a person, strength and power to the spirit, softness and warmth to the heart, and light and freedom to the mind.",
-        "paragraph6": "Every song should carry light, warmth, and strength. Nature values tones that have light, warmth, and strength. They are a Divine blessing to the world.",
-        "paragraph7": "Music and singing only have meaning when they serve to ennoble a person. Through music, you can create character within yourself.",
-        "paragraph8": "Your happiness in the world depends solely on music. Because life is a complete art - it is the greatest music that exists in the world.",
-        "paragraph9": "The Word of God - this is the music of life. Without Love, without Wisdom, and without Truth, the Word cannot be spoken. A person cannot speak musically if they do not speak the Truth.",
-        "paragraph10": "Love - this is the highest music. If you do not think, you cannot sing. Think rightly, accept only pure thoughts, so that you can sing and play well.",
-        "paragraph11": "It is unthinkable to become a genius without music. A genius is a person who has entered the musical current of nature.",
-        "paragraph12": "The music that gives an equal disposition to the mind, heart, and body is the music of nature. By nature, I mean the world of harmony, the place from which music has emerged.",
-        "paragraph13": "There are no ideological songs on Earth; there are only ideological songs among angels.",
-        "paragraph14": "Nature works musically in every direction. There is no greater art, no greater music than the art and music of nature. Whoever observes the laws of nature can become a singer.",
-        "paragraph15": "The singer and musician must have a well-developed ear to grasp and convey correctly the tones that come from the Elevated world.",
-        "paragraph16": "When Orpheus played and sang, all of nature came alive: plants, birds, animals, rivers - everything began to move and play. Such should be the true musician.",
-        "paragraph17": "I would like, when you go out into nature, to listen to it. A musician with a developed ear will hear there what they have never heard in their life.",
-        "paragraph18": "You have not listened to the flowing springs - what pleasant music there is among the small stones! Go to the forest - there you will hear such symphonies, arias!",
-        "paragraph19": "Music is one of the ways nature comes alive within you - the stones will come alive, the trees, the springs, everything around will come alive.",
-        "paragraph20": "I want you to get acquainted with occult music, to draw strength and inspiration from Living nature.",
-        "paragraph21": "Occult music is music of images and pictures. When we sing, a picture must always be produced - not ordinary dead pictures, but living ones.",
-        "paragraph22": "What distinguishes occult music from ordinary music? Its ultimate softness, clarity, pictorialness, and natural images.",
-        "paragraph23": "Everyone should strive for clarity and softness in their singing. If you sing quietly and softly, you will attract beings of higher culture around you. Strive to sing quietly, for quiet singing ennobles. Strong singing is more volitional.",
-        "paragraph24": "In occult music, we want to sing not as people sing, but as angels sing. Through music, we can attract angels - they will become interested in us. You will tell them: 'We study your music, we want to sing like you.' They will say: 'Very well, we will give you our presence and assistance.'",
-        "paragraph25": "Nature has embedded in every person a specific music to help them with the difficulties of their life.",
-        "paragraph26": "I want you to sing for yourself - I mean not personally for yourself, but for the Divine within you. When you sing a song for yourself, you will feel a disposition of the spirit.",
-        "paragraph27": "All occult schools of the past and today use music as a method for education and self-education. If a person uses one of the musical methods to transform their consciousness, for half an hour or an hour, they will be in a different range of life, far from their difficulties. Right now, under the conditions we live in, constant toning is necessary, and music is one of the Divine methods for toning. If someone sings the exercise 'God is Love' as it should be, they will transform - whatever pains they have will disappear, they will be joyful, cheerful, and rejuvenated.",
-        "paragraph28": "Music should leave a joyful feeling in a person in an ascending degree, a feeling of creativity.",
-        "paragraph29": "Let everyone say to themselves: 'I must become a musician, I must love, I must think rightly.'",
-        "paragraph30": "It is said in the Scriptures: 'Sing and praise the Lord in your soul.' I say: sing and praise the Lord with your spirit, with your soul, with your mind, and with your heart. Everything in you, from your feet to the hairs on your head, should sing!",
-        "paragraph31": "...",
-        "paragraph32": "...",
-        "paragraph33": "...",
-        "paragraph34": "...",
-        "paragraph35": "Petar Danov"
-      }
-    },
-    "Songs": {
-      "title": " Songs"
-    },
+  "Thoughts": {
+    "title": "Thoughts on Music",
+    "description": "Thoughts on Music",
+    "header": "Thoughts on Music",
+    "content": {
+      "paragraph1": "We understand music in a somewhat different sense. I speak of conscious music, not static music. We are already moving out of the realm of mechanical music and entering organic music, which constantly changes.",
+      "paragraph2": "In the new organic music, you will first bring harmony to your thoughts, feelings, and actions. Then, as singers, you will have a resonance - help will come to you from the Invisible world.",
+      "paragraph3": "You cannot be musical if your thought is not musical, if your feelings are not musical, if your actions are not musical, and if you do not look at everything happening in the world musically. We live and move in God, and in this movement, there is harmony.",
+      "paragraph4": "A song must not only have a voice, but its tones must contain content and meaning. For a person to sing or play, they must have some idea, some deep inner impulse. Without an idea, there is no song.",
+      "paragraph5": "Music brings breadth to the soul of a person, strength and power to the spirit, softness and warmth to the heart, and light and freedom to the mind.",
+      "paragraph6": "Every song must carry light, warmth, and strength. Nature values tones that have light, warmth, and strength. They are a Divine blessing to the world.",
+      "paragraph7": "Music and singing have meaning only when they serve to ennoble a person. Through music, you can create character within yourself.",
+      "paragraph8": "Your happiness in the world depends only on music. Because life is a complete art - it is the greatest music that exists in the world.",
+      "paragraph9": "The Word of God - this is the music of life. Without Love, without Wisdom, and without Truth, the Word cannot be spoken. A person cannot speak musically if they do not speak the Truth.",
+      "paragraph10": "Love - this is the highest music. If you do not think, you cannot sing. Think rightly, accept only pure thoughts so that you can sing and play well.",
+      "paragraph11": "It is unthinkable to become a genius without music. The genius is a person who has found themselves in the musical flow of nature.",
+      "paragraph12": "That music which gives an equal disposition to the mind, heart, and body is the music of nature. By 'nature,' I mean the world of harmony, the place from which music has emerged.",
+      "paragraph13": "There are no ideological songs on Earth; there are only ideological songs among the angels.",
+      "paragraph14": "Nature works musically in every direction. There is no greater art, no greater music than the art and music of nature. Whoever observes the laws of nature can become a singer.",
+      "paragraph15": "The singer and musician must have a well-developed ear to perceive and convey correctly the tones that come from the Elevated world.",
+      "paragraph16": "When Orpheus played and sang, all of nature came alive: plants, birds, animals, rivers - everything began to move and play. Such should be the true musician.",
+      "paragraph17": "I would like you, when you go out into nature, to listen to it. A musician with a developed ear will hear there what they have never heard in their life.",
+      "paragraph18": "You have not listened to the flowing springs - what pleasant music there is among the small stones! Go to the forest - there you will hear such symphonies, arias!",
+      "paragraph19": "Music is one of the ways nature comes alive in you - the stones will come alive, the trees, the springs, everything around you will come alive.",
+      "paragraph20": "I want you to get acquainted with occult music, to draw strength and inspiration from Living nature.",
+      "paragraph21": "Occult music is music of images and pictures. When we sing, a picture must always be produced - not ordinary dead pictures, but living ones.",
+      "paragraph22": "What distinguishes occult music from ordinary music? By its extreme softness, clarity, pictorialness, and natural images.",
+      "paragraph23": "Everyone should strive for clarity and softness in their singing. If you sing softly, gently, you will attract beings of higher culture around you. Strive to sing softly because soft singing ennobles. Strong singing is more volitional.",
+      "paragraph24": "In occult music, we want to sing not as people sing, but as angels sing. Through music, we can attract angels - they will become interested in us. You will tell them: 'We study your music, we want to sing like you.' They will say: 'Very well, we will give you our presence and assistance.'",
+      "paragraph25": "Nature has embedded in every person a specific music to help them with the difficulties of their life.",
+      "paragraph26": "I want you to sing for yourself - I mean not personally for yourself, but for the Divine within you. When you sing a song for yourself, you will feel a disposition of the spirit.",
+      "paragraph27": "All occult schools of the past and today use music as a method for education and self-education. If a person uses one of the musical methods to transform their consciousness, for half an hour or an hour, they will be in a different range of life, far from their difficulties. Right now, under the conditions we live in, constant toning is necessary, and music is one of the Divine methods for toning. If someone sings the exercise 'God is Love' as it should be, they will be transformed - whatever pains they have will disappear, and they will be joyful, cheerful, and rejuvenated.",
+      "paragraph28": "Music should leave a joyful feeling in a person in an ascending degree, a feeling of creativity.",
+      "paragraph29": "Let everyone say to themselves: 'I must become a musician, I must love, I must think rightly.'",
+      "paragraph30": "It is said in the Scriptures: 'Sing and praise the Lord in your soul.' I say: sing and praise the Lord with your spirit, with your soul, with your mind, and with your heart. Everything in you, from your feet to the hair on your head, should sing!",
+      "paragraph31": "Music has immeasurable tones and transitions in measures. Immeasurability cannot be fully explained. A song or an exercise can be sung in different ways. In music, there is only one correct way - it is the ideational image when the musician feels happy that they have grasped this archetype in singing or playing in general.",
+      "paragraph32": "Music represents the beauty, the harmony of the human soul.",
+      "paragraph33": "So there is a measurable and an immeasurable life. The measurable life is in the jugs, in the barrels, and in every little pocket, while the immeasurable is the Divine life. Beautiful music should also be immeasurable. You cannot yet sing without measures. Do you know what it means to sing without measure? Let's say you take the tone 'do' - a quarter tone or half, or whole. Do you think that after you sing this tone according to its duration, it stops sounding? - No, there are certain tones in Nature that constantly sound. There are planets that are specifically tuned to the tone 'do.' There are suns that emit the tone 'sol.' This music is constantly reproduced in Nature.",
+      "paragraph34": "How will you now translate this melody? It falls under the immeasurable quantities. If it were sung differently, in measures, something else would come out of it. Not that there are no measures in occult songs, but whenever you want to express an occult song, you must necessarily embed in it the immeasurable measures, i.e., measures that are not precisely defined in your mind. In this little song, I will not look at the measures, but at the meaning. When the measures in a song take precedence, the song loses its meaning. The measure must be internal. It is an immeasurable measure.",
+      "paragraph35": " Учителя Петър Дънов"
+    }
+  },
+  "project": {
+    "title": "About the Book Project",
+    "description": "Book project for the publication of the musical compositions of the spiritual teacher Petar Danov",
+    "header": "About the Book Project",
+    "content": {
+      "songs": "Songs",
+      "button": "Preorder",
+      "exemplar": "After the preorder, you will receive a digital copy of the book.",
+      "content": "The book contains",
+      "allSongs": "All transmitted songs and music compositions",
+      "bulgarianGerman": "Bulgarian-German",
+      "latinTransliteration": "Latin transliteration of the Cyrillic",
+      "translation": "Translation of the song lyrics into German",
+      "comments": "Comments on the individual songs",
+      "dictionary": "Dictionary of musical terms",
+      "index": "Index of songs",
+      "qualityEdition": "A high-quality edition made with much love",
+      "projectInfo": "About the Project",
+      "paragraph1": "Dear lovers of Petar Danov's music,",
+      "paragraph2": "About seven years ago, we – a few friends and like-minded individuals – began working on a project aimed at making Petar Danov's musical compositions accessible to a wider audience. Thus, a collection of his songs and instrumental works, as well as the songs of his students in Bulgarian and German, has been created.",
+      "paragraph3": "It contains, in addition to the musical notation and the literary text in Bulgarian, a Latinized transliteration of the Cyrillic as well as a translation of the song lyrics into German. The aim was to provide as accurate and at the same time melodious a German translation as possible, which supports the understanding of the spiritual content of the music and the ideas underlying it. A metric translation of the song lyrics into German that could be sung was consciously avoided, as it would distort the sound of the songs.",
+      "paragraph4": "Through this collection, you can get to know all the transmitted melodies and songs of Petar Danov and incorporate them into your daily music practice. The advantage of this collection is that it will provide you with a more precise insight into the ideas underlying these songs through the translation of the individual song lyrics, allowing you to know better what you are singing about.",
+      "paragraph5": "The collection currently exists only in digital form. However, we would like to complete this project with the publication of a high-quality book that will not only please us but especially all those who will use this book. For this purpose, we have contacted the printing house that prints for a renowned German music publisher and would like to order the book there.",
+      "paragraph6": "This final step, however, involves a certain financial expense. You can support the finalization of the project by preordering the book. Once enough preorders have been made, we will accordingly place an order for an initial print run at the printing house and subsequently ship the preordered books. All who preorder the book will immediately receive a digital copy of the book after placing the order.",
+      "paragraph7": "You can place a preorder at the link mentioned above.",
+      "paragraph8": "We would like to thank you for your kind support and wish you pleasant collective and individual musical activities.",
+      "paragraph11": "Maria Kireva",
+      "paragraph12": "Munich, 2024"
+    }
+  },
+  "Songs": {
+    "title": "Песни от Учителя"
+  },
   "Footer": {
-    "text": "Songs of the Master {now, date, ::yyyy}"
+    "text": "Песни от Учителя {now, date, ::yyyy}"
   }
 }

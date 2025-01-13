@@ -1,24 +1,8 @@
-import { useTranslations } from "next-intl";
-import { getTranslations } from "next-intl/server";
-import { Metadata } from "next";
+import { getTranslations } from 'next-intl/server';
 
-interface Params {
-  params: {
-    locale: string;
-  };
-}
 
-export async function generateMetadata({
-  params: { locale },
-}: Params): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: "About" });
-  return {
-    title: t("title"),
-  };
-}
-
-export default function About() {
-  const t = useTranslations("About");
+export default async function About() {
+  const t = await getTranslations('About');
   return (
     <div className="flex flex-col min-h-screen items-center ">
       <div className="container lg:w-4/5 p-4">
