@@ -27,7 +27,7 @@ export default async function Project() {
               </div>
               <div className="flex-1">
                 <Image
-                  src="/cover-danov.jpg"
+                  src="/bdcover.jpg"
                   alt="Product Image"
                   width={400}
                   height={400}
